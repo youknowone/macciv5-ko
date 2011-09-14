@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_MAP_ASIA_HELP">
+      <Text>히말라야 및 동남아시아의 정글이 주를 이루는 지도입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MAP_ASIA_TITLE">
+      <Text>아시아</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

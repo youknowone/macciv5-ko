@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_2">
+      <Text>알았습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_4">
+      <Text>그렇게 합시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_5">
+      <Text>오, 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_6">
+      <Text>정 그러시다면.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_7">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_1">
+      <Text>박살이 날줄 알아라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_2">
+      <Text>멋지군! 붉은 피가 격류처럼 흐를 것이니!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_3">
+      <Text>어리석군! 그대의 병사들이 흘린 피에 세상이 잠길 줄 아십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_1">
+      <Text>이제 죽일 포로도 남아나지 않았군. 다음에는 그대의 시민들을 처형함이 마땅하겠지. 전쟁을 준비하시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_2">
+      <Text>지긋지긋하군! 그대가 속한 세계를 몽땅 무너뜨리고 말겠소. 전쟁을 준비하시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_3">
+      <Text>죽여주마! 죽여버리겠다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_1">
+      <Text>우리 병사들은 나약한 약골들이었군. 그대 덕분에 깨닫게 되었으니 감사할 따름이오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_2">
+      <Text>짐승 같은 놈! 네가 어찌 위대한 나를 파괴하려 드는가!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_3">
+      <Text>최선을 다했지만 결국 지고 말았군. 어쩌면 이제야 안식을 찾을 수 있을지도...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_ANGRY">
+      <Text>그대가 가진 것들을 내놓아야 하겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY">
+      <Text>내가 필요한 것들을 그대가 가지고 있습니다. 날 실망시키지 않겠지요, 친구여?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_NEUTRAL">
+      <Text>좋은 말 할때 내놓지 않으면 박살을 내줄 것이오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_1">
+      <Text>싫습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_2">
+      <Text>절대로 안 될 말입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_3">
+      <Text>거절합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_4">
+      <Text>말도 안 되는...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_5">
+      <Text>받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_6">
+      <Text>농담하는 것입니까!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_7">
+      <Text>...뭐요?!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_1">
+      <Text>환영합니다, 이방인이여. 내 힘과 위엄 때문에 입을 다물지 못하는 모양이군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_2">
+      <Text>내 앞에 선 그대는 누구입니까? 희생의 제의에 벌떡거리는 심장을 바치려고 나타난 것입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_3">
+      <Text>나는 아즈텍의 황제, 몬테수마입니다. 그대는 도대체 뭐하는 자입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_4">
+      <Text>멈춰라! 누가 감히 내 신성한 왕국에 발을 들이는가!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_1">
+      <Text>잘가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_2">
+      <Text>가보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_3">
+      <Text>또 봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_4">
+      <Text>그만 가보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_5">
+      <Text>용무는 끝났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_6">
+      <Text>볼 일은 다 본 것 같군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_1">
+      <Text>환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_2">
+      <Text>안녕하십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_3">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_4">
+      <Text>아, 그대군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_5">
+      <Text>네?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_6">
+      <Text>무슨 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_7">
+      <Text>제례에 쓸 칼을 갈던 참이니 잠시 기다리십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_1">
+      <Text>말하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_2">
+      <Text>계속하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_3">
+      <Text>듣고 있으니 말하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_4">
+      <Text>음?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_5">
+      <Text>뭐라 했습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_6">
+      <Text>그래서 무엇입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_7">
+      <Text>계속 얘기하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_LOSEWAR_1">
+      <Text>저주를 받아라! 이 치욕은 만 명의 목숨으로도 씻지 못할 것이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_1">
+      <Text>하하하하! 무슨 소리, 더 내놓으시오. 그렇지 않으면 종말을 맞게 될 거요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_2">
+      <Text>그걸로는 어림도 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_3">
+      <Text>좀 더 나은 제안을 해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_1">
+      <Text>어리석은! 내 우정을 시험하는 것입니까? 이걸로는 너무도 부족합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_2">
+      <Text>겨우 이게 다입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_3">
+      <Text>좀 더 내놓으시지...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>안 됩니다. 내 말 알겠습니까? 안 된단 말입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>제안을 바꿀 생각은 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그걸로는 어림도 없지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>그건 좀...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_ANGRY">
+      <Text>웃기는군. 그 조건을 받아들이느니 불에 달군 꼬챙이로 내 배를 찔러버리고 말겠소!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_HAPPY">
+      <Text>고맙지만 됐습니다. 내가 뭐하러 그런 조건에 응하겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_NEUTRAL">
+      <Text>눈에 뵈는 게 없을 정도로 어리석군! 그런 것으로는 어림도 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_ANGRY">
+      <Text>좋소. 이제 이구아나 밥으로 던져주기 전에 그 교활한 몸뚱이를 여기서 물리시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_HAPPY">
+      <Text>좋아! 내 이 조약의 성사를 기념하여 기꺼이 포로 50명을 제물로 바치겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_NEUTRAL">
+      <Text>뭐, 나쁘지는 않군. 또 원하는 것이 있습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_ANGRY">
+      <Text>내 제안을 수락하십시오. 아니면 그대의 백성이 고통을 받게 될 테니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_HAPPY">
+      <Text>조건을 제시하지. 내 호의를 거절하지 않기를 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_NEUTRAL">
+      <Text>내 조건을 받아들이지 않으면 뒷감당은 그대의 볷입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_ANGRY">
+      <Text>안 돼! 안 되지! 절대 안 돼! 안 되고말고! 안 된다니까! 누가 내 도끼 좀 가져오거라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_HAPPY">
+      <Text>물러가시오. 그대와 바보 놀음을 할 시간이 없으니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_NEUTRAL">
+      <Text>웃기는 작자로군! 그런 요구를 또 했다간 침을 뱉어줄 줄 아십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_ANGRY">
+      <Text>좋소. 하지만 이걸로 끝이라 생각하지 마십시오. 반드시 복수할 테니!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_HAPPY">
+      <Text>그대의 보잘것없는 요구를 들어줄 수 있어 기쁘군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_NEUTRAL">
+      <Text>안 돼! 안 되지! 안... 잠깐, 마음이 바뀌었소. 그럽시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_1">
+      <Text>아주 위험한 장난을 즐기는군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_2">
+      <Text>좋습니다. 그러나 다음번에는 이렇게 친절하게 상대해주지 않을 겁니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_3">
+      <Text>실망스럽습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_4">
+      <Text>정말 실망했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_5">
+      <Text>진심입니까? 살아서 그 섣부른 판단을 후회할 거라 기대하지 마십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_6">
+      <Text>정말 멍청이가 따로 없군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_MONTEZUMA_WINWAR_1">
+      <Text>제물로 쓸 포로가 남은 한 평화가 계속되기를!</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

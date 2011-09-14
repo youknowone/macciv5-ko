@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_1">
+      <Text>그럽시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_4">
+      <Text>동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_5">
+      <Text>오, 그렇게 합시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_6">
+      <Text>그래야 한다면 그럽시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_AGREE_SHORT_7">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_1">
+      <Text>평화를 사랑하는 우리를 얕잡아 봤군요. 대가를 치르게 될 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_2">
+      <Text>이 악명 높은 악당. 후회할 겁니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_ATTACKED_3">
+      <Text>이 피에 굶주린 악당! 오늘을 후회하게 해 드리겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_1">
+      <Text>당신은 자유를 위협하는 아주 다루기 어려운 적이라는 걸 스스로 증명했습니다. 전쟁을 준비하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_2">
+      <Text>미국 국민이 말했습니다. 당신의 위협으로 말미암아 우리에게는 선택의 여지가 없어졌습니다. 전쟁을 준비하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DECLAREWAR_3">
+      <Text>당신의 그 무책임한 행동으로 당신 국민의 파멸을 가져왔습니다. 전쟁을 준비하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_1">
+      <Text>더는 희망은 없지만, 명예를 지켜야 합니다. 당신이 승리했으니 자비를 베풀어줄 것이라 믿습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_2">
+      <Text>당신의 승리입니다. 당신이 이겼으니 자비를 베풀어 주기 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_3">
+      <Text>우리가 졌습니다. 당분간이지만요. 하지만, 미국은 다시 돌아올 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEFEATED_4">
+      <Text>승리를 축하합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_ANGRY">
+      <Text>우리가 원하는 걸 내놓는 것을 강력하게 권고합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_HAPPY">
+      <Text>친구이자 동맹국인 우리에게 다음 것들을 도와주겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DEMANDTRIBUTE_NEUTRAL">
+      <Text>다음 것들을 내놓으십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_1">
+      <Text>안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_2">
+      <Text>물론 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_3">
+      <Text>거절합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_4">
+      <Text>당연히 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_5">
+      <Text>받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_6">
+      <Text>그런 농담은 하지 마십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_DISAGREE_SHORT_7">
+      <Text>뭐라고 하셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_1">
+      <Text>미국의 국민이 당신을 환영합니다. 당신은 자유의 친구가 맞습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_2">
+      <Text>미국 시민을 대신하여 당신을 환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_FIRSTGREETING_3">
+      <Text>만나게 돼 영광입니다. 난 우리가 평화롭게 공존하고 번영할 수 있기를 진심으로 희망합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_1">
+      <Text>잘 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_2">
+      <Text>그럼 이만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_3">
+      <Text>안녕히 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_4">
+      <Text>다시 만날 그날까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_5">
+      <Text>이제 떠나십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_6">
+      <Text>그게 전부입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GOODBYE_7">
+      <Text>이곳에선 더는 볼일이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_1">
+      <Text>환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_2">
+      <Text>안녕하십니까.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_3">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_4">
+      <Text>좋은 날입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_5">
+      <Text>오 당신이었군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_6">
+      <Text>자 그럼?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_GREETING_7">
+      <Text>뭘 원하십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_1">
+      <Text>들어봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_2">
+      <Text>얘기하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_3">
+      <Text>계속하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_4">
+      <Text>잘 들립니다. 말해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_5">
+      <Text>네?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_6">
+      <Text>무슨 말을 하고 계셨지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_7">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LETSHEARIT_8">
+      <Text>계속하시죠.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_LOSEWAR_1">
+      <Text>당신의 위대한 나라와 평화로운 관계를 갖게 되어 기쁩니다. 이후에는 오해 덕분에 우리 두 사람 사이가 멀어지지 않기를 기도하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_1">
+      <Text>훈련은 군대의 영혼이다. 훈련은 적은 수의 군대도 가공할 힘을 갖게 만든다; 훈련은 약한 사람에게는 성공을 가져다주고, 모든 이들로부터 존경을 받게 만든다</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_2">
+      <Text>정부는 전제가 아니며, 웅변적이지도 않다. 그것은 힘일 뿐이며, 불과 같이 위험한 종이자 무서운 주인이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_QUOTE_3">
+      <Text>만약 우리가 모욕을 받기를 원치 않는다면, 우리는 모욕을 주는 대상을 쫓아버려야 한다; 만약 우리가 평화를 바란다면, 우리는 성장하는 번영과 걸맞은 영향력을 가진 도구를 이용해야 한다. 모두가 반드시 알아야 할 그 도구란 항상 전쟁을 준비하는 것이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_1">
+      <Text>받아들일 수 없습니다. 더 나은 제안을 하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_2">
+      <Text>그건 충분하지 않습니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_3">
+      <Text>그것보다는 더 내셔야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_ANGRY_4">
+      <Text>거의…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_1">
+      <Text>지금 상태로는 이 거래에 동의할 수 없습니다. 제안을 수정할 용의가 있습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_2">
+      <Text>그게 최선의 제안입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_3">
+      <Text>거의 근접했습니다…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_HAPPY_4">
+      <Text>거의…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>지금 상태로는 이 거래가 미국에 도움이 될 거로 생각하기는 어렵습니다. 더 나은 제안을 할 생각은 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 내야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그건 충분하지 않습니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>거의…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_ANGRY">
+      <Text>물론 안됩니다. 우린 바보가 아닙니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_HAPPY">
+      <Text>최대한 정중하게 거절하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_NO_NEUTRAL">
+      <Text>우리에게 득이 되지 않기에 거절하도록 하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_ANGRY">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_HAPPY">
+      <Text>동의한 걸로 알겠습니다. 감사합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADE_YES_NEUTRAL">
+      <Text>미국은 당신의 제의를 받아들이겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_ANGRY">
+      <Text>우리의 제안입니다. 당신의 답변은 무엇입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_HAPPY">
+      <Text>안녕하십니까. 미국과 다음 거래를 할 의향이 있습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRADEREQUEST_NEUTRAL">
+      <Text>다음 거래에 관심이 있습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_ANGRY">
+      <Text>지금 제정신이십니까? 우리는 자유롭고 고귀한 사람들입니다! 우리는 남을 괴롭히는 사람이나 불한당에게는 고개를 숙이지 않습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_HAPPY">
+      <Text>아무리 친구라고 해도 이렇게 쉽게 우리 보물을 내줄 순 없습니다. 난 폭군이 아니기에 미국 국민에게 타당한 설명을 해줘야 할 의무가 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_NO_NEUTRAL">
+      <Text>당신의 요구는 우리의 자주권을 모욕하는 것입니다. 거절하겠습니다. 당신은 우리의 결의를 과소평가한 것 같군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_ANGRY">
+      <Text>현재로선 당신의 요구를 수락하는 것 외에는 선택의 여지가 없는 것 같군요. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_HAPPY">
+      <Text>물론입니다. 그저 말만 하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_TRIBUTE_YES_NEUTRAL">
+      <Text>당신의 요구를 수락하는 것 외에는 선택의 여지가 없는 것 같군요. 하지만, 지나치게 강요하지 않는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_1">
+      <Text>당신은 지금 위험한 게임을 즐기려 하는 것 같군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_2">
+      <Text>좋습니다. 다음에는 예의를 지켜가며 당신을 상대해주지는 않을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_3">
+      <Text>실망했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_4">
+      <Text>아주 크게 실망했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_5">
+      <Text>정말입니까? 난 당신이 살아 있는 동안 자신의 근시안적인 태도를 후회할 기회조차 없을 거라 믿습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WARBLUFF_6">
+      <Text>당신은 바보가 틀림없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WASHINGTON_WINWAR_1">
+      <Text>미국을 하찮게 보면 안 된다는 사실을 배웠으리라 믿겠습니다!</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

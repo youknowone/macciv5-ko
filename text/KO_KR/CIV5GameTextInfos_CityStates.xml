@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_CITYSTATE_ALMATY">
+      <Text>알마티</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_ALMATY_ADJ">
+      <Text>알마티</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BELGRADE">
+      <Text>베오그라드</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BELGRADE_ADJ">
+      <Text>베오그라드</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BRUSSELS">
+      <Text>브뤼셀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BRUSSELS_ADJ">
+      <Text>브뤼셀</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUCHAREST">
+      <Text>부쿠레슈티</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUCHAREST_ADJ">
+      <Text>부쿠레슈티</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUDAPEST">
+      <Text>부다페스트</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_BUDAPEST_ADJ">
+      <Text>부다페스트</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN">
+      <Text>케이프 타운</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_CAPE_TOWN_ADJ">
+      <Text>케이프 타운</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_COPENHAGEN">
+      <Text>코펜하겐</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_COPENHAGEN_ADJ">
+      <Text>코펜하겐</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_DUBLIN">
+      <Text>더블린</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_DUBLIN_ADJ">
+      <Text>더블린</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_EDINBURGH">
+      <Text>에딘버러</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_EDINBURGH_ADJ">
+      <Text>에딘버러</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_FLORENCE">
+      <Text>플로렌스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_FLORENCE_ADJ">
+      <Text>플로렌스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENEVA">
+      <Text>제네바</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENEVA_ADJ">
+      <Text>제네바</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENOA">
+      <Text>제노아</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_GENOA_ADJ">
+      <Text>제누아즈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HANOI">
+      <Text>하노이</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HANOI_ADJ">
+      <Text>하노이</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HELSINKI">
+      <Text>헬싱키</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_HELSINKI_ADJ">
+      <Text>헬싱키</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR">
+      <Text>쿠알라 룸푸르</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_KUALA_LUMPUR_ADJ">
+      <Text>쿠알라 룸푸르</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_LHASA">
+      <Text>라싸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_LHASA_ADJ">
+      <Text>라싸</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_MONACO">
+      <Text>모나코</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_MONACO_ADJ">
+      <Text>모나코</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_OSLO">
+      <Text>오슬로</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_OSLO_ADJ">
+      <Text>오슬로</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RAGUSA">
+      <Text>라구사</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RAGUSA_ADJ">
+      <Text>라구산</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO">
+      <Text>리우 데 자네이루</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_RIO_DE_JANEIRO_ADJ">
+      <Text>리우 데 자네이루</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SEOUL">
+      <Text>서울</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SEOUL_ADJ">
+      <Text>서울</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SIDON">
+      <Text>시돈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SIDON_ADJ">
+      <Text>시돈</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SINGAPORE">
+      <Text>싱가포르</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_SINGAPORE_ADJ">
+      <Text>싱가포르</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM">
+      <Text>스톡홀름</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_STOCKHOLM_ADJ">
+      <Text>스톡홀름</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_TYRE">
+      <Text>티레</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_TYRE_ADJ">
+      <Text>티레</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VENICE">
+      <Text>베니스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VENICE_ADJ">
+      <Text>베니스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VIENNA">
+      <Text>비에나</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_VIENNA_ADJ">
+      <Text>비에나</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_WARSAW">
+      <Text>바르샤바</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYSTATE_WARSAW_ADJ">
+      <Text>바르샤바</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

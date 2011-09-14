@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_4">
+      <Text>동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_5">
+      <Text>아, 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_6">
+      <Text>꼭 그래야 한다면.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_7">
+      <Text>훌륭하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_1">
+      <Text>마음에 드는군. 전장에서 만나길 고대하겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_2">
+      <Text>미친 것이 아니라면 그대의 용기에 찬사를 보내도록 하지요. 보기보다는 싸울만한 가치가 있는 상대이길 바랍니다 </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_3">
+      <Text>진정입니까? 나 역시 평화가 지겨워지던 참이었지. 어디 붙어봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_4">
+      <Text>어리석고 미개한 것들. 땅에 묻어주마!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_1">
+      <Text>그대들은 이제 쓸모가 없으니 멸망할 준비나 하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_2">
+      <Text>감히 내 길을 막다니, 철저하게 파괴해 드리겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_3">
+      <Text>신께서 내가 세계를 정복하리라 말씀하셨습니다. 그러니 그대들은 그만 죽어주시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_1">
+      <Text>내가 패배하다니... 어떻게 이럴 수가! 나... 나는 신들의 후손이거늘!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_2">
+      <Text>나를 꺾다니... 이로써 그대는 신들과 함께 영광을 누리게 되었군. 축하해 드리리다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_3">
+      <Text>나를 무너뜨리다니... 정녕 이것이 사실인가? 그대는 도대체 어떠한 존재이길래!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_4">
+      <Text>내가 졌군. 승리를 축하합니다. 부디 내 신하들에게는 자비를 베풀어 주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_ANGRY">
+      <Text>살아남고 싶다면 내 요구를 수락하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_HAPPY">
+      <Text>그리스는 그대의 도움이 필요합니다, 친구여. 제발 우릴 실망시키지 마십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_NEUTRAL">
+      <Text>이것들을 즉시 내어주는 게 좋을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_1">
+      <Text>거절해야겠군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_2">
+      <Text>안 되겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_3">
+      <Text>그럴 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_4">
+      <Text>거부하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_5">
+      <Text>물론 그렇게는 안 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_6">
+      <Text>받아들일 수 없군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_7">
+      <Text>농담하는 거요?!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_8">
+      <Text>지금 뭐라고 했습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_1">
+      <Text>헤라클레스와 제우스의 후손인 나, 알렉산더가 그대를 환영하는 바요. 부디 변함없는 동맹이나 가치 있는 적, 어느 한쪽이기를 바라겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_2">
+      <Text>반갑습니다. 나는 황제의 아들이자 신들의 후손인 알렉산더입니다. 그대도 그러합니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_3">
+      <Text>환영합니다, 이방인이여! 나는 이 땅의 지배자인 알렉산더입니다. 강력한 친구나 검을 맞대기에 부족함이 없는 적을 찾고 있습니다만, 그대는 어느 쪽입니까? </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_1">
+      <Text>잘가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_2">
+      <Text>안녕하 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_3">
+      <Text>다시 만날 때를 기약하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_4">
+      <Text>그만 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_5">
+      <Text>할 말은 다 한 것 같군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_1">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_2">
+      <Text>어서 오십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_3">
+      <Text>안녕하십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_4">
+      <Text>오, 그대로군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_5">
+      <Text>무슨 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_6">
+      <Text>어쩐 일이십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_1">
+      <Text>어디 들어봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_2">
+      <Text>말씀하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_3">
+      <Text>계속하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_4">
+      <Text>듣고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_5">
+      <Text>무슨 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_6">
+      <Text>뭐라고 하셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_7">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_8">
+      <Text>계속 말씀하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LOSEWAR_1">
+      <Text>잠깐이나마 승리를 거둔 데 축하를 보내겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_LOSEWAR_2">
+      <Text>놀라운 승리를 축하해야겠군. 위대한 우리 그리스조차 한 수 배우지 않을 수 없구려!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_QUOTE_1">
+      <Text>세상의 수많은 나라 중 아직 한 나라의 군주도 되지 못했는데, 어찌 눈물이나 흘릴 수 있겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_QUOTE_2">
+      <Text>하늘에 태양이 둘일 수 없듯, 이 땅의 지배자도 오직 하나여야 마땅합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_1">
+      <Text>나를 바보로 아십니까? 나는 아리스토텔레스에게 직접 수학을 배웠습니다. 그런 식으로는 어림도 없습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_2">
+      <Text>마음에 들지 않는군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_3">
+      <Text>좀 더 그럴 듯한 제안을 해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_4">
+      <Text>아직은 조금 부족한 듯합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_1">
+      <Text>내 비록 나이는 많지 않으나 순진하지도 어리석지도 않습니다. 좀 더 나은 제안을 해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_2">
+      <Text>이게 최선입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_3">
+      <Text>제법 그럴 듯하긴 합니다만...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_4">
+      <Text>아직은 조금 부족한 듯합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>모욕에 가까운 제안이로군. 좀 더 나은 제안을 하든지, 그렇지 않으면 그만두십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>좀 더 나은 제안을 할 순 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>만족스럽지 못하군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>아직은 조금 부족한 듯합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_ANGRY">
+      <Text>말도 안 되는 제안이로군. 이건 나와 그리스에 대한 모욕입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_HAPPY">
+      <Text>고맙지만 사양하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_NEUTRAL">
+      <Text>관심 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_ANGRY">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_HAPPY">
+      <Text>아주 좋군. 동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_NEUTRAL">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_ANGRY">
+      <Text>이게 내가 제안하는 바요. 거부하면 신상에 해로울 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_HAPPY">
+      <Text>친구여, 이 정도 제안이면 합당하겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_NEUTRAL">
+      <Text>이 정도면 우리 모두에게 이득이 될 듯합니다만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_ANGRY">
+      <Text>버러지 같으니라고! 이몸이 제왕이자 신들의 후손임을 망각한 것인가!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_HAPPY">
+      <Text>그대를 존중하지만 나로서는 받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_NEUTRAL">
+      <Text>하하하하! 농담이 지나치시군!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_ANGRY">
+      <Text>알겠소. 선택의 여지가 없는 듯하군. 하지만 언젠가 대가를 치러야 할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_HAPPY">
+      <Text>물론입니다. 원하는 대로 가져가십시오! 내 기꺼이 관용을 베풀겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_NEUTRAL">
+      <Text>좋습니다. 즐길 수 있을 때 마음껏 즐기십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_1">
+      <Text>문제 없습니다. 준비가 되면 찾아와 손에 넣을 테니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_2">
+      <Text>실망스럽기 그지없군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_3">
+      <Text>이리도 실망스러울 수가...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_4">
+      <Text>진심입니까? 바보스러울 정도의 그 용기가 가상하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_5">
+      <Text>참으로 어리석군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_6">
+      <Text>어리석군! 내 반드시 후회하게 만들어 주겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_1">
+      <Text>즐거웠습니다. 언제 또 이런 시간을 갖도록 합시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_2">
+      <Text>야만인치고는 제법이군. 시인들이 그대의 분투를 노래로 전할 것입니다!</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

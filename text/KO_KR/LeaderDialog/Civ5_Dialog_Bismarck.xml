@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4">
+      <Text>동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5">
+      <Text>아, 알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6">
+      <Text>꼭 그래야 한다면.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1">
+      <Text>좋습니다! 내가 쳐놓은 덫에 결국 걸렸들었군요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2">
+      <Text>놀라울만큼 멍청한 결정을 내렸군. 이 바보짓의 대가를 치를 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3">
+      <Text>이 더러운 악당! 땅에 묻어주마!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1">
+      <Text>그대들은 독일의 국가 이익을 위협하고 있습니다. 따라서 내키지는 않지만 그대들을 무너뜨려야 하겠습니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2">
+      <Text>양국이 어쩔 수 없이 싸워야 함이 명확해졌군요. 그대들이 힘을 더 키울 때까지 기다릴 수는 없으니, 전쟁을 선포하는 바요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3">
+      <Text>그대들은 독일을 위협하는 존재입니다. 전쟁을 준비하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1">
+      <Text>독일이 무너지다니... 인류의 미래는 어찌될 것인가!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2">
+      <Text>승리를 축하합니다. 역사의 무게추가 그대 쪽으로 기울었나 보군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3">
+      <Text>이럴 수가! 라우렌부르크의 공작이자 프로이센의 수상이며 독일의 첫 총통인 이 오토 폰 비스마르크가 너희 같은 자들에게 무너지다니!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4">
+      <Text>승리를 축하합니다. 그대의 강대한 제국이 언제까지나 번영하기를!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY">
+      <Text>그대의 초라한 국가를 보전하고자 한다면 내가 요구하는 것들을 내주기 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY">
+      <Text>독일은 그대들의 도움이 필요합니다, 친구여. 그럼으로써 귀국에도 이익이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL">
+      <Text>독일은 그대들이 즉시 요구사항을 들어주기를 바랍니다. 우리의 강력한 군대가 그대의 답변만을 손꼽아 기다리고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1">
+      <Text>안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2">
+      <Text>물론 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3">
+      <Text>거부하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4">
+      <Text>당연히 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5">
+      <Text>그건 용납할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6">
+      <Text>진심은 아니겠지요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7">
+      <Text>뭐라고 했습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1">
+      <Text>위대한 독일은 그대들을 환영합니다, 이방인이여.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2">
+      <Text>독일은 그대들을 환영합니다. 위대한 두 나라에 언제까지나 평화가 이어지길 기도하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3">
+      <Text>위대한 독일의 이름으로 그대들을 환영합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1">
+      <Text>좋은 하루 되십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2">
+      <Text>잘가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3">
+      <Text>안녕히 가시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4">
+      <Text>다시 만날 그날까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5">
+      <Text>이제 가보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6">
+      <Text>용건은 끝난 듯합니다만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7">
+      <Text>용무는 끝난 것 같군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1">
+      <Text>뭡니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2">
+      <Text>반갑습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3">
+      <Text>무슨 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4">
+      <Text>무슨 용무입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5">
+      <Text>아, 무슨 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6">
+      <Text>이곳에는 어쩐 일이십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1">
+      <Text>들어 봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2">
+      <Text>듣고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3">
+      <Text>계속 하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4">
+      <Text>제 귀는 열려 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5">
+      <Text>뭡니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6">
+      <Text>하시던 말이?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8">
+      <Text>계속 하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1">
+      <Text>무승부라고 합시다. 좋습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2">
+      <Text>마침내 공평하고 명예로운 평화를 찾게 되어 기쁩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3">
+      <Text>독일은 그대들의 승리를 인정합니다. 축하드립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_1">
+      <Text>1848년과 1849년에 범했던 실수처럼, 그 시대적 가장 큰 문제들은 연설과 투표로 해결되지 않는다. 그러나 피와 칼로 다스릴 때 문제는 해결된다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_2">
+      <Text>국경을 침입하려는 군대를 막으려면 우리 자신을 지킬 수 있는 군대가 필요하지 뛰어난 언변이 필요한 것이 아니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_3">
+      <Text>신께선 바보와 주정뱅이 그리고 미국에게 특별한 가호를 주고 있다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_4">
+      <Text>생존을 위한 투쟁에서는 거대한 국가들 간의 모든 협정이 효력을 잃게 된다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_1">
+      <Text>절대로 받아들일 수 없습니다! 좀 더 나은 제안을 하든가 아니면 사라지시길!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_2">
+      <Text>만족스럽지 못합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_3">
+      <Text>더 나은 제안이 아니라면 싫습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_4">
+      <Text>조금 모자란 듯하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_1">
+      <Text>독일은 그대의 제안을 받아들일 수 없습니다, 친구. 정말 이보다 나은 제안은 하기 어려운 것입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_2">
+      <Text>그게 그대가 할 수 있는 최고의 제안입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_3">
+      <Text>아주 약간 부족하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_4">
+      <Text>조금 모자란 듯하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>물론 안됩니다. 지금보다는 더 나은 제안이어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 나은 제안을 부탁합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그건 충분치 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>조금 모자란 듯하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY">
+      <Text>거절합니다! 말도 안 되는 소리를 하시는군요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY">
+      <Text>참으로 미안하게 생각합니다만 그 제안은 받아들이기 어렵군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL">
+      <Text>현재로선 독일은 그대의 제안에 관심이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY">
+      <Text>아주 좋습니다! 앞날을 내다보는 능력이 뛰어나시군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL">
+      <Text>받아들일 만 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY">
+      <Text>우리 제안을 잘 검토하는 게 좋을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY">
+      <Text>양국 모두에 도움이 될 제안이라 생각합니다만... 어떠십니까, 친구여?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL">
+      <Text>자비로운 독일의 이름으로 이 관대한 제안을 하는 바입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY">
+      <Text>건방지고 어리석은 족속 같으니... 어디 와서 가져가 보시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY">
+      <Text>그런 행동은 양국에 도움이 되지 않을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL">
+      <Text>독일은 열등한 나라의 위협에 굴복하지 않을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY">
+      <Text>그대의 오만함에는 끝도 없는가? 절대로 잊지 않겠소.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY">
+      <Text>좋습니다. 이후에 독일에도 같은 호의를 베풀어주리라 믿습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL">
+      <Text>좋습니다. 당분간은 귀국이 우세할 테니...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1">
+      <Text>겁도 없이 장난질을 치시는군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2">
+      <Text>그런 허세를 부리다간 스스로를 망칠 것입니다. 특히나 뒷받침할 능력이 없다면 더욱더.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3">
+      <Text>지금 허세를 부리겠다는 거요? 마음대로 해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4">
+      <Text>정말 실망스럽습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5">
+      <Text>이 일은 절대 잊지 않겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6">
+      <Text>정말 바보 같군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1">
+      <Text>위대한 독일의 앞길을 방해하는 것이 얼마나 어리석은 짓인지 배웠길 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2">
+      <Text>좋습니다. 뭔가 깨달은 바가 있기를.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3">
+      <Text>결국 독일의 우월함을 깨닫게 됐다니 기쁘군요. 다시는 우릴 배신하지 마십시오!</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

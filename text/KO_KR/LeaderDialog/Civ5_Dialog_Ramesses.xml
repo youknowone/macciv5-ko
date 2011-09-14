@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_4">
+      <Text>그러시지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_5">
+      <Text>호, 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_6">
+      <Text>그래야 한다면.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_7">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_1">
+      <Text>이런 유해무익한 바보천치! 오늘이 바로 당신의 제삿날입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_2">
+      <Text>나쁜 놈! 나의 신성한 분노를 맞이할 준비를 하시길!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_3">
+      <Text>한심한 멍청이. 당신 스스로 자신과 당신의 그 보잘것없는 문명의 파멸을 가져오는군요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_1">
+      <Text>당신은 이 지구 상의 전염병과도 같은 존재군요. 죽을 준비나 하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_2">
+      <Text>당신의 그 야만스러운 문명이 날 불쾌하게 하는군요. 전쟁입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_3">
+      <Text>내가 반드시 당신을 없애야 한다고 별들이 말해주더군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_1">
+      <Text>바보! 신은 절대로 질 수 없어! 조만간 나의 신성한 힘으로 널 없애 버릴 것이다! 내 장담하지!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_2">
+      <Text>넌 얻은 게 아무것도 없다. 날 죽인다면 내 영혼이 지옥 끝까지라도 널 쫓아갈 것이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_3">
+      <Text>흥미롭군. 신마저도 질 수 있다니. 승리를 축하한다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_ANGRY">
+      <Text>우리가 원하는 걸 내놓지 않는다면 나의 신성한 분노를 보게 될 것이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_HAPPY">
+      <Text>이봐 친구. 이집트가 자네의 관대한 선물을 감사히 받아들이겠다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_NEUTRAL">
+      <Text>살아남고 싶다면 다음 것들을 내놓아야 할 것이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_1">
+      <Text>안 된다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_2">
+      <Text>당연히 안 된다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_3">
+      <Text>거절하겠다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_4">
+      <Text>물론 안 된다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_5">
+      <Text>그건 받아들일 수 없다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_6">
+      <Text>농담하지 말아라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_7">
+      <Text>뭐라고 했느냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_1">
+      <Text>어서 오너라. 난 강력한 이집트의 통치자 람세스라고 한다. 또한, 난 신과 같은 존재다. 내게 다가오다니 상당한 용기를 지녔구나.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2">
+      <Text>환영한다. 난 이집트의 람세스라고 한다. 당신이 도착하리라고 별들이 예견하였다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3">
+      <Text>반갑군. 난 살아 있는 이집트의 신이자 모든 문명의 부모인 람세스다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_1">
+      <Text>그럼 이만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_2">
+      <Text>잘 가라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_3">
+      <Text>조심이 가거라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_4">
+      <Text>우리가 재회할 그날까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_5">
+      <Text>이제 그만 가보거라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_6">
+      <Text>그게다 다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_7">
+      <Text>이곳에서 더는 볼일은 없군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1">
+      <Text>환영한다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_2">
+      <Text>여봐라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_3">
+      <Text>반갑다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_4">
+      <Text>상쾌한 날이구나.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_5">
+      <Text>오 그대였구나.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_6">
+      <Text>자 이제?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_7">
+      <Text>뭘 원하는 것이냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_1">
+      <Text>말해 보아라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_2">
+      <Text>계속하거라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_3">
+      <Text>듣고 있도다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_4">
+      <Text>흠?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_5">
+      <Text>뭐라고 하였느냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_6">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_7">
+      <Text>계속하거라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_LOSEWAR_1">
+      <Text>알다시피 난 그대를 파멸시킬 수 있었지만 유독 오늘만큼은 관용을 베풀고 싶구나.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_1">
+      <Text>이게 뭣이냐? 그것보다 더 조금 제안했던 인간들은 모두 벼락을 맞았지. 더 나은 제안을 해보아라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_2">
+      <Text>그거론 충분하지 않다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_3">
+      <Text>좀 더 나은 제안을 해보라고 하지 않았느냐.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_1">
+      <Text>자 그것보단 더 잘할 수 있으리라 믿는다. 그대의 제안이 공평하지 못 하다는 걸 잘 알고 있지 않더냐? 더 나은 제안을 해보아라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_2">
+      <Text>이것이 그대가 제안할 수 있는 최선이더냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_3">
+      <Text>거의 근접했도다…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>신도 경비가 필요한 법이지. 더 나은 제안을 해보아라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 나은 제안을 할 수는 없느냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그거론 어림도 없다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>거의…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_ANGRY">
+      <Text>그대가 만지는 것은 모두 부패해버리는데 내가 왜 그대와 거래를 하고 싶겠나? </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_HAPPY">
+      <Text>이 보게 친구. 제안은 고맙지만 거절하겠다. 하늘이 우리에게 필요한 모든 것들을 제공하고 있다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_NEUTRAL">
+      <Text>난 신이다. 그런데 어찌 그대로부터 필요한 게 있겠는가?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_ANGRY">
+      <Text>좋다. 소질이 보이는군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_HAPPY">
+      <Text>그대의 제안이 마음에 드는구나. 잘했다."</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_NEUTRAL">
+      <Text>그대의 제안은 받아들일 만하다. 축복이 그대와 함께하기를.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_ANGRY">
+      <Text>이집트가 제안하는 이 협정을 받아들이던가 아니면 목숨을 걸고 거절하거라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_HAPPY">
+      <Text>전지전능한 람세스는 그대가 이 협정을 마음에 들어 할 것이라는 사실을 알고 있노라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_NEUTRAL">
+      <Text>관대한 이집트가 다음 것들을 제안한다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_ANGRY">
+      <Text>네놈과 아홉 세대에 걸쳐 네 가족을 저주하기 전에 썩 사라지거라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_HAPPY">
+      <Text>별들에 따르면 오늘이 그런 행동을 하기에는 불길한 날이구나. 어쩌면 내일이라면….</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_NEUTRAL">
+      <Text>미친개의 자식이로구나! 감히 강대한 이집트를 이따위로 모욕하다니!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_ANGRY">
+      <Text>아, 좋아. 신은 아주 하등 한 생물에도 자비로운 법이지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_HAPPY">
+      <Text>나의 믿음직한 친구여. 신께서 그대의 기도를 들어주실 것이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_NEUTRAL">
+      <Text>물론이지. 우린 충성을 다하는 자들에게는 즐거운 마음으로 포상을 내린다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_1">
+      <Text>그대는 아주 위험한 게임을 하려 한다는 것을 알아라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_2">
+      <Text>좋다. 내 다음번에는 인정사정 봐주지 않을 것이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_3">
+      <Text>실망스럽도다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_4">
+      <Text>진정 실망스럽도다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_5">
+      <Text>정말인가? 그대가 살아 있는 동안 자신의 근시안적인 행동을 후회할 날도 없을 거라 난 믿어 의심치 않는다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_6">
+      <Text>정녕 바보 같도다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMESSES_WINWAR_1">
+      <Text>다시는 날 배신하지 마라! 다음번에는 네놈의 그 한심한 애원이 널 구하지 못할 것이다.</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

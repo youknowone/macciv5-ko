@@ -1,0 +1,3251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_ACTION_AUTOMATE_BUILD_HELP">
+      <Text>모든 [COLOR_UNIT_TEXT]일꾼[ENDCOLOR]이 자동으로 행동합니다. 일꾼들은 자동 행동을 취소할 때까지 작업을 계속합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ACTION_AUTOMATE_EXPLORE_DISABLED_HELP">
+      <Text>지금은 탐색할 수 있는 연구 가능 지역이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ACTION_AUTOMATE_EXPLORE_HELP">
+      <Text>이 명령을 내리면 유닛이 지도의 확인되지 않은 지역을 탐색합니다. 탐색할 수 있는 지역이 없어질 때까지 이동을 계속합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ALLIES">
+      <Text>동맹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ALLIES_CSTATE_TT">
+      <Text>{1_CityStateName:textkey}와(과) [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]을 맺었습니다. 턴이 지날 때마다 해당 도시 국가에 대한 [ICON_INFLUENCE] 우호도가 {2_Num}씩 변경됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANARCHY">
+      <Text>무정부 상태</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANARCHY_FOLLOW">
+      <Text>정책을 더 변경하기 전에 시민들이 진정될 때까지 기다려야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANGRY">
+      <Text>분노</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ANGRY_CSTATE_TT">
+      <Text>{1_CityStateName:textkey}의 분노를 일으키는 행동을 했습니다. 최근에 국경을 침범했거나 전쟁을 치렀을 수 있습니다.[NEWLINE][NEWLINE]해당 도시 국가에 대한 [ICON_INFLUENCE] 우호도는 턴이 지날 때마다 {2_Num}씩 회복됩니다. [ICON_GOLD] 금을 선물로 제공하면 회복 속도가 빨라집니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BARB_CAMP_CLEARED">
+      <Text>난폭한 야만인 주둔지를 무너뜨리고 {1_NumGold}의 [ICON_GOLD] 금을 획득했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_ACADEMY">
+      <Text>아카데미 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_CAMP">
+      <Text>[LINK=IMPROVEMENT_CAMP]야영지[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_CITADEL">
+      <Text>성채 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_CITADEL_HELP">
+      <Text>이 타일에 주둔한 유닛은 [ICON_STRENGTH] 방어력이 100%만큼 증가합니다. 성채 옆에서 턴을 종료하는 모든 적 유닛은 3만큼의 피해를 받습니다. 성채를 건설하면 이 유닛이 소모됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_CONSUMED_HELP">
+      <Text>유닛이 소모됩니다.[NEWLINE][NEWLINE]이 타일에 있는 전략 자원이 교역망과 연결됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_CUSTOMS_HOUSE">
+      <Text>세관 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_FARM">
+      <Text>[LINK=IMPROVEMENT_FARM]농장[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_FISHING_BOATS">
+      <Text>[LINK=IMPROVEMENT_FISHING_BOATS]어선 제작[\LINK]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_FISHING_BOATS_REC">
+      <Text>이 타일의 해상 자원을 교역망과 연결하고 주변 도시에서 작업할 때의 생산성을 높입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_FOOD_REC">
+      <Text>이 타일에서 생산되는 [ICON_FOOD] 식량의 양을 늘리고 새로운 [ICON_CITIZEN] 시민의 출생 속도를 높입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_FORT">
+      <Text>[LINK=IMPROVEMENT_FORT]요새[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_FORT_HELP">
+      <Text>이 타일에 주둔한 유닛의 [ICON_STRENGTH] 방어력이 50%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_FORT_REC">
+      <Text>이 타일 위에 있는 군사 유닛의 [ICON_STRENGTH] 방어력을 높입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_GOLD_REC">
+      <Text>이 타일에서 생산되는 [ICON_GOLD] 금의 양을 늘려 소비할 수 있는 자금을 늘립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_LANDMARK">
+      <Text>랜드마크 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_LANDMARK_HELP">
+      <Text>유닛이 소모됩니다.[NEWLINE][NEWLINE][ICON_CULTURE] 문화가 6만큼 증가합니다.[NEWLINE][NEWLINE]이 타일에 있는 전략 자원이 교역망과 연결됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_LUMBERMILL">
+      <Text>[LINK=IMPROVEMENT_LUMBERMILL]제재소[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_LUMBERMILL_REC">
+      <Text>숲을 파괴하지 않으면서 이 타일에서 생성되는 [ICON_PRODUCTION] 생산력을 늘립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_MANUFACTORY">
+      <Text>제조공장 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_MINE">
+      <Text>[LINK=IMPROVEMENT_MINE]광산[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_OFFSHORE_PLATFORM">
+      <Text>[LINK=IMPROVEMENT_OFFSHORE_PLATFORM]해양 유정[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_OFFSHORE_PLATFORM_REC">
+      <Text>이 타일의 [ICON_RES_OIL] 원유를 교역망과 연결하여 고급 유닛을 생산할 수 있도록 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_PASTURE">
+      <Text>[LINK=IMPROVEMENT_PASTURE]목장[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_PLANTATION">
+      <Text>[LINK=IMPROVEMENT_PLANTATION]재배지[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_PROD_REC">
+      <Text>이 타일에서 생성되는 [ICON_PRODUCTION] 생산력을 늘려 주변 도시의 생산 속도를 높입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_QUARRY">
+      <Text>[LINK=IMPROVEMENT_QUARRY]채석장[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_QUARRY_REC">
+      <Text>이 타일의 [ICON_RES_MARBLE] 대리석을 교역망과 연결하여 국가 [ICON_HAPPINESS_1] 행복을 높입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_RAILROAD">
+      <Text>[LINK=CONCEPT_MOVEMENT]철도[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_RAILROAD_HELP">
+      <Text>유지하는 데 턴마다 2의 [ICON_GOLD] 금을 [COLOR_NEGATIVE_TEXT]소비[ENDCOLOR]합니다.[NEWLINE][NEWLINE]철도가 끊어지지 않고 연결되어 있으면 유닛이 타일 사이를 매우 빠르게 이동할 수 있습니다.[NEWLINE][NEWLINE]수도와 도시를 철도로 연결하면 25%의 [ICON_PRODUCTION] 생산력 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_RAILROAD_REC">
+      <Text>유닛이 영토 사이를 빠르게 이동할 수 있으며, 도시들을 [ICON_CAPITAL] 수도와 연결하면 [ICON_PRODUCTION] 생산력 보너스를 받게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_REMOVE_FEATURE_HELP">
+      <Text>이 타일에 다른 시설을 건설하도록 허용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_REMOVE_FOREST">
+      <Text>[LINK=FEATURE_FOREST]숲[\LINK] 벌목</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_REMOVE_JUNGLE">
+      <Text>[LINK=FEATURE_JUNGLE]정글[\LINK] 제거</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_REMOVE_MARSH">
+      <Text>[LINK=FEATURE_FOREST]습지[\LINK] 제거</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_ROAD">
+      <Text>[LINK=CONCEPT_MOVEMENT]도로[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_ROAD_HELP">
+      <Text>유지하는 데 턴마다 1의 [ICON_GOLD] 금을 [COLOR_NEGATIVE_TEXT]소비[ENDCOLOR]합니다.[NEWLINE][NEWLINE]도로가 끊어지지 않고 연결되어 있으면 유닛이 타일 사이를 더 빠르게 이동할 수 있습니다.[NEWLINE][NEWLINE]수도와 도시를 도로로 연결하면 턴마다 많은 양의 [ICON_GOLD] 금을 획득합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_ROAD_REC">
+      <Text>유닛이 영토 사이를 빠르게 이동할 수 있으며, 도시들을 [ICON_CAPITAL] 수도와 연결하면 [ICON_GOLD] 금을 추가로 획득합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_SCRUB_FALLOUT">
+      <Text>[LINK=FEATURE_FALLOUT]방사능 낙진[\LINK] 제거</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_SCRUB_FALLOUT_HELP">
+      <Text>이 타일의 핵폐기물을 제거합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_TRADING_POST">
+      <Text>[LINK=IMPROVEMENT_TRADING_POST]교역소[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_WELL">
+      <Text>[LINK=IMPROVEMENT_WELL]우물[\LINK] 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_WELL_REC">
+      <Text>이 타일의 [ICON_RES_OIL] 원유를 교역망에 연결하여 고급 유닛을 생산할 수 있게 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_AQUEDUCT_HELP">
+      <Text>새로운 [ICON_CITIZEN] 시민이 태어난 후에도 40%의 [ICON_FOOD] 식량이 보전됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ARMORY_HELP">
+      <Text>이 도시에서 생산하는 모든 유닛의 경험치가 15만큼 증가합니다.[NEWLINE][NEWLINE]도시에 병영 또는 크리아포스츠가 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ARSENAL_HELP">
+      <Text>도시에 성이나 무갈 요새가 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BANK_HELP">
+      <Text>도시에 시장이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BARRACKS_HELP">
+      <Text>이 도시에서 생산하는 모든 유닛의 경험치가 15만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BAZAAR_HELP">
+      <Text>이 도시 근처에 개발해둔 사치품 자원 생산이 1씩 증가합니다. [ICON_RES_OIL] 석유 자원과 오아시스 하나당 [ICON_GOLD] 금을 추가로 2만큼 얻습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BROADCAST_TOWER_HELP">
+      <Text>이 도시가 생성하는 [ICON_CULTURE] 문화가 33%만큼 증가합니다.[NEWLINE][NEWLINE]도시에 박물관이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_BURIAL_TOMB_HELP">
+      <Text>유지하는 데 [ICON_GOLD] 금이 소비되지 않습니다.[NEWLINE][NEWLINE]도시가 점령될 경우 적이 약탈하는 [ICON_GOLD] 금의 양이 2배가 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CASTLE_HELP">
+      <Text>도시에 성벽이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CIRCUS_HELP">
+      <Text>도시 근처에 [ICON_RES_HORSE] 말 또는 [ICON_RES_IVORY] 상아 자원이 개발되어 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_CIRCUS_MAXIMUS_HELP">
+      <Text>모든 도시에 콜로세움이 있어야 합니다. 도시가 많을수록 가격도 올라갑니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_COURTHOUSE_HELP">
+      <Text>[ICON_OCCUPIED] 점령 도시에서 생성되는 추가 [ICON_HAPPINESS_4] 불행을 제거합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FACTORY_HELP">
+      <Text>[ICON_RES_COAL] 석탄 자원이 1만큼 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FLOATING_GARDENS_HELP">
+      <Text>[ICON_FOOD] 식량 생산이 15% 증가하고 주변 호수 타일에서 얻는 [ICON_FOOD] 식량이 2만큼 증가합니다.[NEWLINE][NEWLINE]도시가 강 또는 호수 옆에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_FORGE_HELP">
+      <Text>지상 유닛 생산 시 15%의 [ICON_PRODUCTION] 생산력 보너스를 받습니다.[NEWLINE][NEWLINE]이 도시에서 개발한 [ICON_RES_IRON] 철 자원 하나당 [ICON_PRODUCTION] 생산력이 1만큼 증가합니다.[NEWLINE][NEWLINE]도시 근처에 철 광산이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GARDEN_HELP">
+      <Text>이 도시의 [ICON_GREAT_PEOPLE] 위인 출현율이 25%만큼 증가합니다.[NEWLINE][NEWLINE]도시가 강 또는 호수 근처에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_GRANARY_HELP">
+      <Text>[ICON_RES_WHEAT] 밀과 [ICON_RES_BANANA] 바나나 그리고 [ICON_RES_DEER] 사슴 자원에 시민을 투입하면 [ICON_FOOD] 식량을 1만큼 추가로 생산합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HARBOR_HELP">
+      <Text>물 위에 [ICON_CONNECTED] 교역로를 건설하여 [ICON_CAPITAL] 수도와 연결합니다(아직 육지를 통해 [ICON_CONNECTED] 연결되지 않은 경우). 도시에서 생산하는 해양 자원의 [ICON_PRODUCTION] 생산량이 1만큼 증가합니다.[NEWLINE][NEWLINE]도시가 해안가에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HERMITAGE_HELP">
+      <Text>이 도시의 [ICON_CULTURE] 문화가 50%만큼 증가합니다.[NEWLINE][NEWLINE]모든 도시에 오페라 극장이 있어야 합니다. 도시가 많을수록 비용도 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HEROIC_EPIC_HELP">
+      <Text>이 도시에서 새로 생산되는 모든 지상 유닛과 해상 유닛의 [COLOR_POSITIVE_TEXT]사기[ENDCOLOR]가 올라가며 [ICON_STRENGTH] 전투력이 15%만큼 증가합니다.[NEWLINE][NEWLINE]모든 도시에 병영이 있어야 합니다. 도시가 많을수록 비용도 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HYDRO_PLANT_HELP">
+      <Text>강 주변 타일의 [ICON_PRODUCTION] 생산력이 1만큼 증가합니다. [ICON_RES_ALUMINUM] 알루미늄 자원이 1 필요합니다.[NEWLINE][NEWLINE]도시가 강가에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_IRONWORKS_HELP">
+      <Text>모든 도시에 작업장이 있어야 합니다. 도시가 많을수록 가격도 올라갑니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_KREPOST_HELP">
+      <Text>이 도시에서 생산하는 모든 유닛의 경험치가 15만큼 증가합니다. 이 도시 주변 타일을 차지하는 데 필요한 [ICON_CULTURE] 문화와 금이 25%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LABORATORY_HELP">
+      <Text>도시에 공립학교가 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LIBRARY_HELP">
+      <Text>[ICON_CITIZEN] 시민 2명당 [ICON_RESEARCH] 과학이 1만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LIGHTHOUSE_HELP">
+      <Text>바다 타일당 [ICON_FOOD] 식량이 1씩 추가됩니다.[NEWLINE][NEWLINE]도시가 개발한 각 [ICON_RES_FISH] 생선 자원은 1의 추가 [ICON_FOOD] 식량을 생산합니다.[NEWLINE][NEWLINE] 도시가 해안 타일에 건설되어 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_LONGHOUSE_HELP">
+      <Text>숲 타일의 [ICON_PRODUCTION] 생산력이 1만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MAINTENANCE_TT">
+      <Text>턴마다 이 도시의 건물 유지비에 [ICON_GOLD] 금이 {1_Num}씩 사용되고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MEDICAL_LAB_HELP">
+      <Text>새로운 [ICON_CITIZEN] 시민이 태어난 후에도 25%의 [ICON_FOOD] 식량이 보전됩니다. 효과는 송수로와 중첩됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MILITARY_ACADEMY_HELP">
+      <Text>이 도시에서 생산하는 모든 유닛의 경험치가 15만큼 증가합니다.[NEWLINE][NEWLINE]도시에 무기고가 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MILITARY_BASE_HELP">
+      <Text>도시에 군수창고가 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MINT_HELP">
+      <Text>이 도시에서 개발한 [ICON_RES_GOLD] 금과 [ICON_RES_SILVER] 은 산지에서 [ICON_GOLD] 금을 추가로 2만큼 얻습니다.[NEWLINE][NEWLINE]도시 주변에 이러한 광산이 하나 이상 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MONASTERY_HELP">
+      <Text>이 도시 주변에 있는 [ICON_RES_INCENSE] 향료 또는 [ICON_RES_WINE]와인 자원 하나당 [ICON_CULTURE] 문화가 2만큼 증가합니다.[NEWLINE][NEWLINE]도시 주변에 이러한 자원이 하나 이상 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_HELP">
+      <Text>유지하는 데 [ICON_GOLD] 금이 소모되지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_MUGHAL_FORT_HELP">
+      <Text>비행을 연구하면 금이 지급됩니다.[NEWLINE][NEWLINE]도시에 성벽이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NATIONAL_COLLEGE_HELP">
+      <Text>모든 도시에 도서관이 있어야 합니다. 도시가 많을수록 비용이 늘어납니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NATIONAL_EPIC_HELP">
+      <Text>이 도시의 [ICON_GREAT_PEOPLE] 위인 출현율이 25%만큼 증가합니다.[NEWLINE][NEWLINE]모든 도시에 기념비가 있어야 합니다. 도시가 많을수록 비용이 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP">
+      <Text>모든 도시에 시장이 있어야 합니다. 도시가 많을수록 비용이 올라갑니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_NUCLEAR_PLANT_HELP">
+      <Text>[ICON_RES_URANIUM] 우라늄 자원이 1만큼 필요합니다. 도시에 태양력 발전소있다면 할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_OBSERVATORY_HELP">
+      <Text>도시가 산악 지대 옆에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_OXFORD_UNIVERSITY_HELP">
+      <Text>기술 1가지를 비용 없이 획득합니다. [NEWLINE][NEWLINE]모든 도시에 대학이 있어야 합니다. 도시가 많을수록 비용도 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PALACE_HELP">
+      <Text>이 도시가 [ICON_CAPITAL] 수도임을 나타냅니다.[NEWLINE][NEWLINE]다른 도시와 [ICON_CAPITAL] 수도를 도로로 [ICON_CONNECTED] 연결하면 [ICON_GOLD] 금을 추가로 얻습니다.[NEWLINE][NEWLINE][ICON_PRODUCTION] 생산 +3, [ICON_RESEARCH] 과학 +3, [ICON_GOLD] 금 +3</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PAPER_MAKER_HELP">
+      <Text>[ICON_CITIZEN] 시민 2명당 [ICON_RESEARCH] 과학이 1만큼, [ICON_GOLD] 금이 4만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_PUBLIC_SCHOOL_HELP">
+      <Text>[ICON_CITIZEN] 시민 2명당 [ICON_RESEARCH] 과학이 1만큼 증가합니다.[NEWLINE][NEWLINE]도시에 대학이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SATRAPS_COURT_HELP">
+      <Text>도시에 시장이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SEAPORT_HELP">
+      <Text>주변 해양 자원의 [ICON_PRODUCTION] 생산력과 [ICON_GOLD] 금이각각 1만큼 증가합니다. 해상 유닛을 생산할 때 [ICON_PRODUCTION] 생산력이 15%만큼 증가합니다.[NEWLINE][NEWLINE]도시가 해안가에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SOLAR_PLANT_HELP">
+      <Text>도시가 사막 위 또는 근처에 있어야 하며 원자력 발전소가 반드시 없어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_SPACESHIP_FACTORY_HELP">
+      <Text>우주선 부품 생산 시 50%의 [ICON_PRODUCTION] 생산력 보너스를 받습니다. [ICON_RES_ALUMINUM] 알루미늄 1개가 필요합니다.[NEWLINE][NEWLINE]도시에 공장이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STABLE_HELP">
+      <Text>기마 유닛 생산 시 15%의 [ICON_PRODUCTION] 생산력 보너스를 받습니다.[NEWLINE][NEWLINE]도시에서 개발한 [ICON_RES_HORSE] 말 자원과 [ICON_RES_SHEEP] 양 자원, 그리고 [ICON_RES_COW] 소 자원 하나당 [ICON_PRODUCTION] 생산력이 1만큼 증가합니다.[NEWLINE][NEWLINE]이들 자원 중 목장으로 개발한 자원이 하나라도 있어야 이 보너스가 적용됩니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STADIUM_HELP">
+      <Text>[ICON_HAPPINESS_1] 행복은 현재 도시에 거주하고 있는 [ICON_CITIZEN]시민의 수만큼만 올라갑니다. 도시에 극장이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STOCK_EXCHANGE_HELP">
+      <Text>도시에 은행이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP">
+      <Text>이 도시에서 개발한 [ICON_RES_MARBLE] 대리석 및 [ICON_RES_STONE] 암석 자원 하나당 [ICON_PRODUCTION] 생산력이 1만큼 증가합니다.[NEWLINE][NEWLINE]도시에 채석장으로 최소한 하나 이상 있어야 합니다.[NEWLINE][NEWLINE]평원에 있는 도시에는 이 건물을 건설할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_THEATRE_HELP">
+      <Text>[ICON_HAPPINESS_1] 행복은 현재 도시에 거주하는 [ICON_CITIZEN] 시민의 수만큼만 올라갑니다. 도시에 콜로세움이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_UNIVERSITY_HELP">
+      <Text>도시 주변 정글 타일에서 [ICON_RESEARCH] 과학이 2만큼 생성됩니다.[NEWLINE][NEWLINE]도시에 도서관이 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WATERMILL_HELP">
+      <Text>도시가 강가에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_WINDMILL_HELP">
+      <Text>건물을 건설할 때 10%의 [ICON_PRODUCTION] 생산 보너스를 받습니다.[NEWLINE][NEWLINE]언덕에 있는 도시에는 이 건물을 지을 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_ALLY_TT">
+      <Text>플레이어가 도시 국가와 동맹을 맺으면 해당 국가의 특성과 관련하여 보너스를 얻고, 국가에 연결된 모든 사치품과 전략 자원도 받게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_CULTURED_TT">
+      <Text>[COLOR_POSITIVE_TEXT]문화적[ENDCOLOR]인 도시 국가와 우호 관계가 되면 [ICON_CULTURE] 문화를 선물로 받아 사회 정책을 더 빨리 채택할 수 있게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_PEACE_FRIENDLY">
+      <Text>반갑습니다, 위대한 지도자여, 오늘은 무슨 일로 오셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_PEACE_HOSTILE">
+      <Text>어쩐 일이십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_PEACE_IRRATIONAL">
+      <Text>아, 또 뵙는군요. 잘 오셨습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_PEACE_NEUTRAL">
+      <Text>안녕하십니까. 무엇을 논의하러 오셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_WAR">
+      <Text>이 분쟁을 끝내러 오셨기를 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_DIPLO_HELLO_WARMONGER">
+      <Text>당신처럼 피에 굶주린 폭군과는 할 말 없소. 사라지시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_DIPLO_PEACE_JUST_MADE">
+      <Text>평화가 다시 찾아오는 것을 보니 기쁘군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GIFT_FIRST">
+      <Text>당신은 상대가 처음으로 조우한 대제국입니다. 상대가 [COLOR_POSITIVE_TEXT]{1_NumGold}의 [ICON_GOLD] 금[ENDCOLOR]을 선물로 제공할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GIFT_OTHER">
+      <Text>상대가 [COLOR_POSITIVE_TEXT]{1_NumGold}의 [ICON_GOLD] 금[ENDCOLOR]을 선물로 제공했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GREETING_CULTURED">
+      <Text>우리는 [COLOR_POSITIVE_TEXT]문화적인[ENDCOLOR] 민족이며 당신들의 [ICON_CULTURE][COLOR_POSITIVE_TEXT] 문화[ENDCOLOR] 수준을 향상시켜 줄 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GREETING_FRIENDLY">
+      <Text>지도자를 뵙습니다. 저희는 {1_CivName:textkey}의 대표자입니다. 저희는 귀하의 강력한 제국과 오래도록 흔들림 없는 평화 관계를 유지하기를 바랍니다. {2_DetailsString} 이후 저희의 요청이 있을 시 도움을 주시리라 믿습니다.[NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GREETING_HOSTILE">
+      <Text>멈춰라, 이방인! 우리는 {1_CivName:textkey}의 위대한 백성이다. 우리를 농락할 생각이라면 목숨을 내놔야 할 것이다! 네게 권한이 있다면 {2_DetailsString}해라. 우리는 물론 스스로의 힘으로도 부족할 것이 없지만, 만약 도움을 요청하게 된다면 즉시 그에 응하기 바란다.[NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GREETING_IRRATIONAL">
+      <Text>아... {1_CivName:textkey}에 그대가 찾아오리라는 조짐은 이미 느끼고 있었습니다. {2_DetailsString} 그대의 제국과 우리가 힘을 합치면 위대한 일을 이룰 수 있을 것입니다. 별들이 우리를 인도해 주었습니다.[NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GREETING_MARITIME">
+      <Text>우리는 [COLOR_POSITIVE_TEXT]해양[ENDCOLOR] 민족입니다. 당신들 문명의 [ICON_FOOD]을(를) [COLOR_POSITIVE_TEXT]증대[ENDCOLOR]시킬 수 있도록 돕겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GREETING_MILITARISTIC">
+      <Text>우리는 [COLOR_POSITIVE_TEXT]군국주의[ENDCOLOR]를 신봉하는 민족입니다. 당신들의 [COLOR_POSITIVE_TEXT]군대[ENDCOLOR]가 더욱 강력해지도록 도울 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_GREETING_NEUTRAL">
+      <Text>반갑습니다. 우리는 {1_CivName:textkey}의 백성입니다. 공정하게 우리를 대해 준다면 평화롭게 지낼 수 있을 것입니다. {2_DetailsString} 우리는 주변의 이웃들과 서로 돕고자 합니다. 만약 우리가 도움을 청한다면 외면하지 않기를 바랍니다. 물론 우리도 그렇게 할 것입니다.[NEWLINE][NEWLINE]{3_GiftString}[NEWLINE][NEWLINE]{4_SpeakAgainString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_HAS_MESSAGE">
+      <Text>{1_CivName:textkey}의 도시 국가로부터 전갈이 왔습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_MARITIME_TT">
+      <Text>[COLOR_POSITIVE_TEXT]해양[ENDCOLOR] 도시 국가와 우호 관계가 되면 [ICON_CAPITAL] 수도의 [ICON_FOOD] 식량이 더 풍족해지며, 동맹이 되면 모든 도시가 같은 효과를 얻습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_MEETING">
+      <Text>{1_CivName:textkey}의 도시 국가와 조우했습니다.[NEWLINE][NEWLINE]{2_GiftString}[NEWLINE][NEWLINE]{3_SpeakAgainString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_MET">
+      <Text>{1_CivName:textkey}의 도시 국가와 조우했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_MILITARISTIC_TT">
+      <Text>[COLOR_POSITIVE_TEXT]군국주의[ENDCOLOR] 도시 국가와 우호 관계가 되면 이따금 고급 군사 유닛을 선물로 받습니다. 또한 야만인 주둔지를 파괴하거나 인접한 도시 국가를 점령하는 등의 군사적인 요청을 해옵니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_NOBODY">
+      <Text>없음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_FRIENDLY_TT">
+      <Text>성격이 [COLOR_POSITIVE_TEXT]친철함[ENDCOLOR]인 도시 국가와 우호 관계가 되면 불가사의 건축이나 도로 건설과 같이 평화적 행동이 필요한 요청을 해옵니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_HOSTILE_TT">
+      <Text>성격이 [COLOR_POSITIVE_TEXT]적대적[ENDCOLOR]인 도시 국가에 대한 [ICON_INFLUENCE] 우호도는 일반적인 속도보다 더 빠르게 하락합니다. 또한 인접한 도시 국가를 점령해달라는 요청을 더 자주 해옵니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_IRRATIONAL_TT">
+      <Text>다른 도시 국가와 비교할 때 [COLOR_POSITIVE_TEXT]비논리적[ENDCOLOR]인 도시 국가는 좀 더 무작위적인 요청을 해옵니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PERSONALITY_NEUTRAL_TT">
+      <Text>[COLOR_POSITIVE_TEXT]중립[ENDCOLOR] 도시 국가는 상당히 안정적인 상태를 유지하며, 자신들의 일에만 전념하려는 성향이 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PLEDGE_RESPONSE">
+      <Text>그대의 헌신에 깊이 감사하는 바입니다. 그대의 약속이 결과적으로는 불필요한 것이기를 희망해 봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_PLEDGE_RESPONSE_HOSTILE">
+      <Text>그 일이 염려된다면 원하는 대로 해도 좋습니다. 하지만 우리 일은 우리가 알아서 할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_BARBARIANS">
+      <Text>슬픈 일이지만 우리는 아직도 야만인에게 괴롭힘당하고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONNECT_RESOURCE">
+      <Text>{1_ResourceName:textkey}의 출처를 찾아 교역망에 연결할 수 있다면 상인들이 매우 기뻐할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONNECT_RESOURCE_FORMAL">
+      <Text>저들이 {1_ResourceName:textkey}을(를) 교역망과 연결해 주기를 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONSTRUCT_WONDER">
+      <Text>{1_WonderName:textkey}을(를) 건설할 수 있다면 학자와 예술가들이 그 업적을 칭송할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_CONSTRUCT_WONDER_FORMAL">
+      <Text>저들이 {1_WonderName:textkey}을(를) 건설해 주기를 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_NATURAL_WONDER">
+      <Text>우리는 아직 이 세계에서 더 많은 자연경관을 발견하고 싶습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_NATURAL_WONDER_FORMAL">
+      <Text>저들이 자연경관을 발견해 주기를 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_PLAYER">
+      <Text>우리는 아직 {1_CivName:textkey}와(과)의 새로운 교역로를 찾고 있습니다. 어쩌면 우리를 도와주실 수 있겠군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_FIND_PLAYER_FORMAL">
+      <Text>저들이 {1_CivName:textkey}의 땅을 찾아달라고 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_GREAT_PERSON">
+      <Text>{1_UnitName:textkey}의 지혜를 구하고자 합니다. 한 명만 찾아올 수 있다면 큰 기쁨이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_GREAT_PERSON_FORMAL">
+      <Text>저들이 {1_UnitName:textkey}을(를) 생산해 주기를 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_KILL_CAMP">
+      <Text>아직 처리해야 할 야만인 주둔지가 주변에 남아 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_KILL_CAMP_FORMAL">
+      <Text>저들이 주변의 야만인 주둔지를 파괴해줄 것을 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_KILL_CITY_STATE">
+      <Text>{1_CityStateName:textkey}와(과)의 분쟁이 여전히 문제가 되고 있습니다. 그들을... 처리한다면 우리에게 이득이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_KILL_CITY_STATE_FORMAL">
+      <Text>저들이 {1_CityStateName:textkey}을(를) 무너뜨려 줄 것을 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_ONE_MORE_THING">
+      <Text>한 가지 요청이 더 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_ROUTE">
+      <Text>우리 [ICON_CAPITAL] 수도를 잇는 도로를 건설하면 두 문명 모두에 큰 이득이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_ROUTE_FORMAL">
+      <Text>저들이 [ICON_CAPITAL] 수도를 연결하는 도로를 건설해줄 것을 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_WAR_WITH_PLAYERS">
+      <Text>사악한 {1_PlayerNames}의 군대와 싸우는 데 도움을 주시기 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_QUEST_WAR_WITH_PLAYERS_FORMAL">
+      <Text>저들이 {1_PlayerNames}와(과) 전쟁을 시작하기를 바라고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_RELATIONSHIP_ALLIES">
+      <Text>동맹 관계입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_RELATIONSHIP_FRIENDS">
+      <Text>우호 관계입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_RELATIONSHIP_NEUTRAL">
+      <Text>상대는 중립입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_RELATIONSHIP_WAR">
+      <Text>전쟁 상태입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_RELATIONSHIP_WARMONGER">
+      <Text>상대가 당신을 증오합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_RESOURCES_TT">
+      <Text>플레이어가 이 도시 국가와 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]이 될 경우, 해당 국가가 이 자원들과 연결되면 플레이어가 자원을 받게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_ALLIES">
+      <Text>[COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]이 되는 데 필요한 수치는 {1_Num}입니다. 동맹이 되면 {2_CityStateName:textkey}의 모든 자원을 기부받을 수 있습니다. 또한 해당 도시 국가의 특성에 따라 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_CURRENT">
+      <Text>현재 {2_CityStateName:textkey}에 대한 [ICON_INFLUENCE] 우호도는 {1_Num}입니다. {3_DetailString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_FRIENDS">
+      <Text>[COLOR_POSITIVE_TEXT]우호 관계[ENDCOLOR]가 되는 데 필요한 수치는 {1_Num}입니다. 우호 관계가 되면 분쟁 없이 상대의 국경을 통과할 수 있습니다. 또한 해당 도시 국가의 특성에 따라 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_MAXED">
+      <Text>추가 투입으로 더 많은 이득을 얻을 수는 없지만, 다른 강대국이 이 도시 국가의 가장 큰 호의를 얻는 것을 방해할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_WAR">
+      <Text>전쟁 중에는 이 가치가 현재 등급에 고정됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TITLE_TOOL_TIP_WARMONGER">
+      <Text>이 도시의 동맹과도 전쟁을 치르는 상태이거나, 너무 많은 도시 국가를 공격한 결과 다른 국가들이 거래를 하려고 하지 않습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TURN_SPAWNING_OFF">
+      <Text>유닛 생성 중지</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_STATE_TURN_SPAWNING_ON">
+      <Text>유닛 생성 재개</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CLICK_TO_SELL">
+      <Text>건물을 판매하려면 클릭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COMMAND_CANCEL_ALL_HELP">
+      <Text>현재 선택한 유닛에 예약된 모든 명령을 취소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COMMAND_CANCEL_HELP">
+      <Text>유닛의 임무 대기열에 예약된 마지막 명령을 취소합니다. 실수로 잘못된 명령을 예약했을 때 유용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COMMAND_DELETE_HELP">
+      <Text>이 명령을 클릭하면 유닛을 제거합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COMMAND_GIFT_HELP">
+      <Text>현재 선택한 유닛을 유닛이 서 있는 땅을 소유한 플레이어에게 기증합니다. 다른 플레이어에게 유닛을 선물하려면 유닛을 해당 플레이어의 영토로 옮겨야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COMMAND_HOTKEY_HELP">
+      <Text>이 유닛에 단축키를 할당하도록 허용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COMMAND_STOP_AUTOMATION_HELP">
+      <Text>유닛의 자동 행동 명령을 취소합니다. 이후부터 유닛은 플레이어의 명령에 따라서만 행동합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_COMMAND_WAKE_HELP">
+      <Text>유닛을 깨워 명령을 수행할 수 있는 상태로 전환합니다. 유닛을 깨워도 방어 태세 보너스는 사라지지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CSTATE_CULTURE_BONUS">
+      <Text>도시국가로부터 매 턴 마다 [COLOR_POSITIVE_TEXT][ICON_CULTURE] 문화를 {1_Num}[ENDCOLOR]만큼 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CSTATE_FOOD_BONUS">
+      <Text>매 턴 마다 수도에 [COLOR_POSITIVE_TEXT]{1_Num}의 [ICON_FOOD] 식량[ENDCOLOR]을, 모든 도시에 [COLOR_POSITIVE_TEXT]{2_Num}의 [ICON_FOOD] 식량[ENDCOLOR]을 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CSTATE_MILITARY_BONUS">
+      <Text>도시국가로부터 약 {1_Num}턴 마다 [COLOR_POSITIVE_TEXT]새로운 군사 유닛[ENDCOLOR]을 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CSTATE_OPEN_BORDERS_FRIENDS">
+      <Text>우호 관계에 있으므로 상대의 국경을 자유롭게 통과할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CSTATE_OPEN_BORDERS_TRAIT">
+      <Text>현재 특별 조약의 대표자이므로 상대의 국경을 자유롭게 통과할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CSTATE_RESOURCES_RECEIVED">
+      <Text>도시국가가 {1_ResourcesStringSeparatedByCommas}을(를) 제공합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CSTATE_SCIENCE_BONUS">
+      <Text>도시국가로부터 턴 마다 [COLOR_POSITIVE_TEXT]{1_Num}의 [ICON_RESEARCH] 과학력[ENDCOLOR]을 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CULTURE_PER_TURN_LABEL">
+      <Text>각 턴의 문화 생성량: {1_Num} [ICON_CULTURE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CURRENT_CULTURE_LABEL">
+      <Text>현재 문화: [ICON_CULTURE] {1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_ACCEPT">
+      <Text>수락</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_AFRAID">
+      <Text>상대가 우리의 강력한 힘을 두려워합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_ALREADY_AT_WAR">
+      <Text>이 플레이어들은 이미 전쟁 상태입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_ASSISTANCE_FROM_THEM">
+      <Text>[COLOR_NEGATIVE_TEXT]그들은 당신의 요청대로 당신을 도왔습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_ASSISTANCE_TO_THEM">
+      <Text>[COLOR_NEGATIVE_TEXT]당신은 요청받은 대로 그들을 도왔습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_AT_WAR">
+      <Text>[COLOR_NEGATIVE_TEXT]당신은 전쟁 중입니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_BACKSTABBED">
+      <Text>[COLOR_NEGATIVE_TEXT]{1_CivName:textkey} 배신[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_BORDER_PROMISE">
+      <Text>[COLOR_NEGATIVE_TEXT]상대 주변 토지의 매입을 중지하겠다고 약속했고, 그 약속을 깨뜨렸습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_BORDER_PROMISE_IGNORED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 주변 토지의 매입을 중지해달라고 요청했으며, 당신은 요청을 무시했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CANCEL">
+      <Text>뒤로</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CAPTURED_CAPITAL">
+      <Text>[COLOR_NEGATIVE_TEXT]당신이 그들의 원래 수도를 탈환했습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CITY_STATE_PROMISE">
+      <Text>[COLOR_NEGATIVE_TEXT]상대와 우호 관계인 도시 국가를 공격하지 않겠다고 약속했었지만, 그 약속을 깨뜨렸습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CITY_STATE_PROMISE_IGNORED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 우호 관계 도시 국가에 대한 공격을 중단해달라고 요청했으나 당신은 요청을 무시했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CIVILIANS_RETURNED">
+      <Text>[COLOR_POSITIVE_TEXT]생포된 상대의 시민들을 석방했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_COMMON_FOE">
+      <Text>[COLOR_POSITIVE_TEXT]우리는 공동의 적에 맞서 함께 싸웠습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_COOP_WAR_PROMISE">
+      <Text>[COLOR_NEGATIVE_TEXT]다른 제국과의 전쟁에 협력하겠다고 약속했지만, 그 약속을 깨뜨렸습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CULTURE_BOMB">
+      <Text>[COLOR_NEGATIVE_TEXT]위대한 예술가로 상대의 영토를 빼앗았습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CURRENT_GOLD">
+      <Text>플레이어가 이번 거래에 포함되지 않은 {1_Num}의 [ICON_GOLD] 금을 보유합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_CURRENT_GPT">
+      <Text>플레이어가 이번 거래에 포함되지 않은 [ICON_GOLD] 금을 턴마다 {1_Num}씩 보유합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DECLARE_WAR">
+      <Text>선전포고</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DECLARE_WAR_ON">
+      <Text>선전포고 활성화</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DECLARES_WAR_TT">
+      <Text>이 플레이어에게 전쟁을 선포합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DEF_PACT">
+      <Text>방위 조약</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DEF_PACT_EXISTS">
+      <Text>[NEWLINE][NEWLINE]이미 방위 조약이 체결되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DEF_PACT_NO_AGREEMENT">
+      <Text>[NEWLINE][NEWLINE]협정을 맺을 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DEF_PACT_NO_TECH">
+      <Text>[NEWLINE][NEWLINE]두 플레이어 모두 이 항목을 거래할 수 있는 기술(기사도)을 아직 보유하고 있지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DEF_PACT_TT">
+      <Text>이 플레이어가 공격을 받으면 다른 진영이 즉시 자동으로 적에게 전쟁을 선포하며, {1_Num}턴 동안 지속됩니다. 참고: 두 플레이어가 모두 전쟁을 선포하면 협정은 파기됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DEFAULT_STATUS">
+      <Text>관계를 형성할 만한 주요 사건이 없었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DEMAND_BUTTON">
+      <Text>요구</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DENOUNCED">
+      <Text>[COLOR_NEGATIVE_TEXT]{1_CivName:textkey} 비난[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DENOUNCED_BY_THEM">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 우리를 비난했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DENOUNCED_BY_US">
+      <Text>[COLOR_NEGATIVE_TEXT]상대를 비난했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_BUTTON">
+      <Text>의논</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_CHANGED_MIND">
+      <Text>미안하지만 생각을 바꿨습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_CLAIM_WHAT_WE_WANT">
+      <Text>우리는 원하는 곳을 가질 거요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_COOP_WAR_NOW">
+      <Text>당장 시작하지. (선전포고)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_COOP_WAR_SOON">
+      <Text>10턴만 준비할 시간을 주시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_COOP_WAR_YES">
+      <Text>좋아, 그럼 시작하지. (선전포고)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_DENOUNCE">
+      <Text>{1_LeaderName}을(를) 공개 비난합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_DENOUNCE_TT">
+      <Text>전 세계에 이 지도자는 신뢰할 수 없으며 모든 문명에 해로운 존재라고 선언합니다. 상대는 분노하겠지만 상대의 적은 당신을 신뢰하거나 우호적으로 생각하게 될 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_DO_WHAT_WE_CAN">
+      <Text>그러죠, 최선을 다하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_DONT_CARE">
+      <Text>당신 생각은 관심 없소.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_HOW_DARE_YOU">
+      <Text>어딜 감히!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MAKE_US">
+      <Text>우리가 싫으면 직접 쫓아내 보시지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DEAL">
+      <Text>당신 걱정이나 하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DEC_FRIENDSHIP">
+      <Text>우호 관계 선언을 하는 것이 어떻습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DEC_FRIENDSHIP_TT">
+      <Text>전 세계에 두 국가가 친구임을 선언합니다. 두 플레이어가 모두 선언에 동의해야 합니다.[NEWLINE][NEWLINE]이 선언을 하게 되면 다른 국가의 침략 의도를 꺾고 국가 간의 우호를 증진시킬 수 있지만, 어려운 시기가 오면 상대국은 플레이어의 지원을 기대할 것입니다. 이러한 요청에 응하지 못하면 상대국이 크게 화를 낼 수도 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DECLARE_WAR">
+      <Text>이 국가에 선전포고를 합시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_DONT_SETTLE">
+      <Text>우리 근처에 새 도시를 짓지 마시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_END_WORK_WITH_US">
+      <Text>당신과는 더 이상 일 못하겠군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_OKAY">
+      <Text>알겠소.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_SORRY">
+      <Text>고의가 아니었으니 오해가 없었으면 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_WORK_AGAINST">
+      <Text>상대에 대해 비밀 협정을 맺는 게 어떻습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_WORK_AGAINST_TT">
+      <Text>비밀 협정은 다른 플레이어의 세력을 약화시키기 위한 비밀 협약입니다. 이 협약을 하면 대상에 대한 다른 지도자들의 우호도가 낮아지며 전쟁이 일어날 확률도 높아집니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_WORK_WITH_US">
+      <Text>저와 협력 협정을 맺는 것이 어떻습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_WORK_WITH_US_TT">
+      <Text>협력 협정은 다른 지도자와의 관계를 개선해줍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_MESSAGE_YOULL_PAY">
+      <Text>반드시 이번 일의 대가를 치르게 될 거요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_NO_DIVIDE">
+      <Text>알겠습니다. 그쪽과 관계가 틀어지는 것은 나도 원치 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_NO_GO_IT_ALONE">
+      <Text>미안하지만 우리는 혼자가 더 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_NOT_YOUR_BUSINESS">
+      <Text>우리 일에 신경 쓰지 마시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_OFFER_TO_APPEASE">
+      <Text>문제가 악화되기 전에 우리가 뭔가 해드릴 수 있는 게 있을 듯하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_SETTLE_WHAT_WE_PLEASE">
+      <Text>우리가 살고 싶은 데서 살 겁니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_SORRY_FOR_CLAIMING">
+      <Text>사과하겠습니다. 앞으로 그쪽 영토 주변의 땅은 차지하지 않도록 하지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_SORRY_FOR_SETTLING">
+      <Text>사과하겠습니다. 앞으로 그쪽 영토 주변에는 자리 잡지 않도록 하지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_SORRY_NO_INTEREST">
+      <Text>미안하지만 이 제안에는 관심 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_SORRY_OTHER_PLANS">
+      <Text>미안하지만 다른 계획이 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_TIME_TO_DIE">
+      <Text>목숨 걱정을 하는 게 좋을 거다. 이제 곧 죽게 될 테니까! (선전포고)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_WE_MEAN_NO_HARM">
+      <Text>나쁜 뜻은 없었습니다. 그냥 지나가는 길이었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_WILL_WITHDRAW">
+      <Text>죄송합니다. 즉각 철수하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_YES_LET_US_PREPARE">
+      <Text>좋습니다. 준비를 시작하죠.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_YES_WORK_TOGETHER">
+      <Text>좋습니다. 힘을 합쳐봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISCUSS_YOU_WILL_PAY">
+      <Text>언젠가 대가를 치르게 해주겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_ANOTHER_LEADER">
+      <Text>다른 지도자와 상의해 봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_ATTACK_LEADER">
+      <Text>이 지도자를 공격할까 생각 중입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_DISLIKE_LEADER">
+      <Text>이 지도자는 마음에 들지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_LIKE_LEADER">
+      <Text>이 지도자가 마음에 듭니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_OFFER_TO_STOP">
+      <Text>문제가 악화되기 전에 우리가 뭔가 해드릴 수 있는 게 있을 듯하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_OPINION_OF_LEADER">
+      <Text>이 지도자를 어떻게 생각하십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_STAY_AWAY">
+      <Text>생각이 있다면 우리를 방해하지 않겠지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DISUCSS_STRONG_FRIENDSHIP">
+      <Text>우리 우정이 굳건하기를 빌겠소.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_DOF">
+      <Text>[COLOR_POSITIVE_TEXT]우호 관계 선언을 했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_EMBARGO">
+      <Text>경제 봉쇄</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_EMBARGO_AGAINST">
+      <Text>경제 봉쇄 대상</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_END_CONFLICT">
+      <Text>어떤 조건을 원하시는 건지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_EXPANSION_PROMISE">
+      <Text>[COLOR_NEGATIVE_TEXT]상대 국가 근처에서 영토 확장을 하지 않겠다고 약속했고, 그 약속을 깨뜨렸습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_EXPANSION_PROMISE_IGNORED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대 국가가 근처에 도시를 건설하지 말라고 요청했으며, 당신은 요청을 무시했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_FORCE_PEACE">
+      <Text>평화 조약 때문에 이 플레이어들은 일정 기간 전쟁을 할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_FRIENDLY">
+      <Text>[COLOR_POSITIVE_TEXT]상대가 우리 나라와 우호적인 관계를 원하고 있습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_FRIENDS_WITH">
+      <Text>[COLOR_POSITIVE_TEXT]{1_CivName:textkey}와(과) 우호적입니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_GOLD">
+      <Text>[ICON_GOLD]금</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_GOLD_PER_TURN">
+      <Text>턴당 [ICON_GOLD]금</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_GUARDED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 우리를 잠재적인 위협으로 여깁니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HERE_OFFER">
+      <Text>제안을 들어봅시다…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HOSTILE">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 우리와 아무것도 하고 싶어 하지 않습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HUMAN_DECLARED_WAR_ON_FRIENDS">
+      <Text>[COLOR_NEGATIVE_TEXT]함께 우호 관계 선언을 했던 지도자들에게 선전포고를 했습니다!ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HUMAN_DENOUNCED_BY_FRIENDS">
+      <Text>[COLOR_NEGATIVE_TEXT]우호국이 당신에 대한 비난 거리를 찾았습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HUMAN_DENOUNCED_FRIEND">
+      <Text>[COLOR_NEGATIVE_TEXT]함께 우호 관계 선언을 했던 지도자를 비난했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HUMAN_DENOUNCED_FRIENDS">
+      <Text>[COLOR_NEGATIVE_TEXT]함께 우호 관계 선언을 했던 지도자들을 비난했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HUMAN_DOF_WITH_ENEMY">
+      <Text>[COLOR_NEGATIVE_TEXT]상대의 적들 중 하나와 우호 관계 선언을 했습니다!ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HUMAN_FRIEND_DECLARED_WAR">
+      <Text>[COLOR_NEGATIVE_TEXT]상대와 우호 관계 선언을 한 다음 전쟁을 선포했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_HUMAN_FRIEND_DENOUNCED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대와 우호 관계 선언을 한 다음 비난했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_IRON_LABEL_PH">
+      <Text>[ICON_RES_IRON] 철</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LAND_DISPUTE">
+      <Text>[COLOR_NEGATIVE_TEXT]저들이 우리 영토를 탐내고 있습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LEADER_SAYS">
+      <Text>{1_LeaderName}의 말:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LIBERATED_CAPITAL">
+      <Text>[COLOR_POSITIVE_TEXT]당신이 그들의 수도를 탈환했습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LIBERATED_CITY">
+      <Text>[COLOR_POSITIVE_TEXT]당신이 그들의 도시 중 하나를 탈환했습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LUX_RESCR_TRADE_NO">
+      <Text>거래에 사용할 사치품이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LUX_RESCR_TRADE_NO_THEM">
+      <Text>상대 지도자에게 거래에 사용할 사치품이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LUX_RESCR_TRADE_YES">
+      <Text>거래에 사용할 사치품이 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LUX_RESCR_TRADE_YES_THEM">
+      <Text>상대 지도자에게 거래에 사용할 사치품이 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_LUXURY_RESOURCES">
+      <Text>사치품</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MAKE_DEAL_WORK">
+      <Text>어떻게 하면 거래를 성사시킬 수 있습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MAKE_PEACE">
+      <Text>평화 협상</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MAKE_PEACE_WITH">
+      <Text>다음 상대와 평화 협상을 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MAY_NOT_ATTACK">
+      <Text>평화 조약이 끝날 때까지 이 플레이어를 공격할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MAY_NOT_ATTACK_MOD">
+      <Text>시나리오 특별 규칙 때문에 이 플레이어를 공격할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MILITARY_PROMISE">
+      <Text>[COLOR_NEGATIVE_TEXT]상대 국경에서 병력을 철수하기로 약속했으나 그 약속을 깨드렸습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MILITARY_PROMISE_IGNORED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 국경에서 병력을 철수해달라고 요청했으나 당신은 요청을 무시했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MINOR_ALLY_AT_WAR">
+      <Text>도시 국가가 현재 당신이 대화하고 있는 지도자와 전쟁 중인 플레이어의 동맹이 되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MINOR_CIV_DISPUTE">
+      <Text>[COLOR_NEGATIVE_TEXT]현재 같은 도시 국가의 호의를 얻기 위해 경쟁하고 있습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MINOR_OTHER_GUY_WANTS_WAR">
+      <Text>이 플레이어는 당신이 거론하고 있는 지도자와 평화를 유지할 의사가 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MINOR_PERMANENT_WAR">
+      <Text>도시 국가가 이 플레이어에게 영구적인 전쟁을 선포했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MINOR_THIS_GUY_WANTS_WAR">
+      <Text>당신과 현재 대화 중인 지도자는 이 플레이어와 평화를 협상할 의사가 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MODIFY">
+      <Text>변경</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MODIFY_DEAL">
+      <Text>거래 변경</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MUTUAL_DOF">
+      <Text>[COLOR_POSITIVE_TEXT]서로 같은 지도자와 우호 관계 선언을 했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_MUTUAL_ENEMY">
+      <Text>[COLOR_POSITIVE_TEXT]서로 같은 지도자를 비난했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NEED_WRITING_TT">
+      <Text>[NEWLINE][NEWLINE]이 아이템을 거래할 수 있는 기술을 가진 플레이어가 없습니다(문자).</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NEGOTIATE_PEACE">
+      <Text>평화 협상</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NEGOTIATE_PEACE_BLOCKED_TT">
+      <Text>다른 플레이어와의 조약으로 {1_Num}턴 동안 이 플레이어와 평화 협상을 할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NEGOTIATE_PEACE_TT">
+      <Text>이 플레이어와 평화 협상을 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NO_SETTLE_ASKED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대에게 당신의 영토 근처에 정착하지 말라고 경고했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NO_WAR_ALLIES">
+      <Text>이 플레이어들과 동맹 상태입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NOT_AT_WAR">
+      <Text>이 플레이어들은 전쟁 중이 아닙니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_NUKED">
+      <Text>[COLOR_NEGATIVE_TEXT]당신이 그들에게 핵 공격을 가했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS">
+      <Text>국경 개방</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_HAVE">
+      <Text>[NEWLINE][NEWLINE]이미 국경 개방을 한 상태입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_THEY_HAVE">
+      <Text>[NEWLINE][NEWLINE]상대는 이미 국경 개방을 한 상태입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OPEN_BORDERS_TT">
+      <Text>다른 플레이어의 군사/민간 유닛이 영토를 지나갈 수 있도록 허가합니다({1_Num}턴 동안 지속).[NEWLINE][NEWLINE]참고: 각자 다른 플레이어에게 속한 유닛은 겹쳐지지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OTHER_PLAYERS">
+      <Text>다른 플레이어</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OTHER_PLAYERS_NO_PLAYERS">
+      <Text>제3의 플레이어를 만나지 못했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OTHER_PLAYERS_NO_PLAYERS_THEM">
+      <Text>다른 지도자가 아직 제3의 플레이어를 만나지 못했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_OTHER_PLAYERS_OPEN">
+      <Text>제3자 플레이어와 관련된 거래 옵션입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PAID_TRIBUTE">
+      <Text>[COLOR_NEGATIVE_TEXT]공물을 바치라고 강요했습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PAST_WAR_BAD">
+      <Text>[COLOR_NEGATIVE_TEXT]과거에 전쟁을 치른 적이 있습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PAST_WAR_NEUTRAL">
+      <Text>과거에 전쟁을 치른 적이 있지만 서로 원한은 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PEACE_TREATY">
+      <Text>평화 조약(10턴)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PEACE_TREATY_TURNS">
+      <Text>평화 조약(10턴)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PROPOSE">
+      <Text>제안</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PROTECTED_MINORS_ATTACKED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대의 보호 아래 있는 도시 국가를 공격했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_PROTECTED_MINORS_KILLED">
+      <Text>[COLOR_NEGATIVE_TEXT]상대의 보호 아래 있는 도시 국가를 멸망시켰습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RECKLESS_EXPANDER">
+      <Text>[COLOR_NEGATIVE_TEXT]상대는 우리의 새 도시 건설이 너무 공격적이라고 생각합니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_REFUSE">
+      <Text>거절</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_REFUSED_REQUESTS">
+      <Text>[COLOR_NEGATIVE_TEXT]이 플레이어와 우호 관계 선언을 한 뒤 플레이어의 제안을 거절했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT">
+      <Text>연구 협약</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_ALL_TECHS_RESEARCHED">
+      <Text>[NEWLINE][NEWLINE]이미 한 명 이상의 플레이어가 모든 기술을 연구했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_EXISTS">
+      <Text>[NEWLINE][NEWLINE]이미 연구 협약을 맺었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_NO_AGREEMENT">
+      <Text>[NEWLINE][NEWLINE]두 플레이어에게 협약을 진행할 자금이 없습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_NO_TECH">
+      <Text>[NEWLINE][NEWLINE]두 플레이어 모두 이 항목을 거래할 수 있는 기술(철학)을 아직 보유하고 있지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_SCIENCE_OFF">
+      <Text>[NEWLINE][NEWLINE]이 시나리오에서는 과학 기술을 연구할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_TT">
+      <Text>{2_Num}턴 뒤 양쪽 플레이어의 연구 진행 속도가 좀 더 빨라집니다. 연구 협약을 맺으려면 [ICON_GOLD] 금을 {1_Num}만큼 지불해야 합니다.[NEWLINE][NEWLINE]비용은 기술 발전도가 가장 높은 플레이어를 기준으로 증가할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_US">
+      <Text>연구 협약({1_Num}[ICON_GOLD])</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_STRAT_RESCR_TRADE_NO">
+      <Text>거래에 사용할 전략 자원이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_STRAT_RESCR_TRADE_NO_THEM">
+      <Text>상대 지도자에게 거래에 사용할 전략 자원이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_STRAT_RESCR_TRADE_YES">
+      <Text>거래에 사용할 전략 자원이 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_STRAT_RESCR_TRADE_YES_THEM">
+      <Text>상대 지도자에게 거래에 사용할 전략 자원이 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_STRATEGIC_RESOURCES">
+      <Text>전략 자원</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_AGREEMENT">
+      <Text>거래 협약</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_AGREEMENT_EXISTS">
+      <Text>[NEWLINE][NEWLINE]이미 거래 협약을 맺었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_AGREEMENT_NO_AGREEMENT">
+      <Text>[NEWLINE][NEWLINE]두 플레이어에게 협약을 진행할 자금이 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_AGREEMENT_NO_TECH">
+      <Text>[NEWLINE][NEWLINE]두 플레이어 모두 이 항목을 거래할 수 있는 기술(문자)을 아직 보유하고 있지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_AGREEMENT_TT">
+      <Text>양 문명의 금 수입에 약간의 보너스를 제공합니다(20턴). 각 플레이어는 250의 [ICON_GOLD]을 지불해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_BUTTON">
+      <Text>거래</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_DEMAND">
+      <Text>[COLOR_NEGATIVE_TEXT]상대에게 거래를 요구했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TRADE_PARTNER">
+      <Text>[COLOR_POSITIVE_TEXT]우리는 최근에 거래했습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_TURNS">
+      <Text>{1_num}턴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_VICTORY_DISPUTE">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 당신이 자신들과 같은 승리 조건을 노리고 있다고 의심하며 불만스러워합니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_WARMONGER_THREAT">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 당신을 세상에 해를 끼치는 전쟁광이라고 생각합니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_WHAT_GIVE_FOR_THIS">
+      <Text>대신 무엇을 주시겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_WHAT_WANT">
+      <Text>무엇을 원하십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_WHAT_WANT_FOR_THIS">
+      <Text>어떤 대가를 원하십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_WITHDRAW">
+      <Text>포기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_WONDER_DISPUTE">
+      <Text>[COLOR_NEGATIVE_TEXT]상대가 탐내던 불가사의를 건설했습니다![ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_YOU_HAVE_BACKSTABBED">
+      <Text>[COLOR_NEGATIVE_TEXT]배신함[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLO_YOU_HAVE_DENOUNCED">
+      <Text>[COLOR_NEGATIVE_TEXT]비난함[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_1">
+      <Text>아우구스투스 카이사르</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_1_QUOTE">
+      <Text>나는 벽돌의 도시로 로마를 물려받았지만 대리석의 도시로 발전시켰다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_10">
+      <Text>사이먼 볼리바</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_10_QUOTE">
+      <Text>판단력은 경험에서 나오고 경험은 잘못된 판단에서 나온다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_11">
+      <Text>레흐 바웬사</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_11_QUOTE">
+      <Text>역사의 흐름을 멈추기 위해 손을 내민자는 자신의 손가락이 부러지게 될 것이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_12">
+      <Text>폭군 이반</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_12_QUOTE">
+      <Text>그럼에도 불구하고 난 국가의 정책과 적대적인 나라들과의 지속적인 전쟁 그리고 불쌍한 우리 국민의 안녕에 지대한 관심을 쏟고 있다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_13">
+      <Text>헨리 8세</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_13_QUOTE">
+      <Text>내 충성스런 신하여, 만일 이 혼인이 전세계와 내 왕국의 평화를 도모하는 것이 아니었다면, 나의 하루하루 내가 해야했던 모든 무의미한 동침 따위는 절대 하지 않았을 것이오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_14">
+      <Text>허버트 후버</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_14_QUOTE">
+      <Text>이 얼마나 안타까운 일이란 말인가. 우리 젊은 세대들이 국가의 채무를 물려받아야 한다니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_15">
+      <Text>루이 16세</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_15_QUOTE">
+      <Text>듣기만 하는 사람은 결코 자신감을 키울 수 없다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_16">
+      <Text>네빌 쳄버레인</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_16_QUOTE">
+      <Text>전쟁에서 양쪽 모두 자신이 승리자라고 선포할 수 있지만 진정한 승자는 없으며 모두가 패배자다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_17">
+      <Text>앤드류 잭슨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_17_QUOTE">
+      <Text>해야할 일이 없을 땐 재미가 없다. 해야할 일이 많음에도 하지 않는 것이 진정한 재미이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_18">
+      <Text>네로</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_18_QUOTE">
+      <Text>그리하여 난 위대한 예술가로 생을 마감한다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_19">
+      <Text>워렌 G. 하딩</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_19_QUOTE">
+      <Text>내 생각을 정리하려면 어디로 가야하는지 말해주는 책이 어딘가엔 반드시 있겠지. 그러나 나는 그런 책이 어디에 있는지 모르며, 설사 발견한다 해도 읽을 수 없겠지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_2">
+      <Text>함무라비</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_2_QUOTE">
+      <Text>대지의 권리를 보호하고 사람들을 다스리라며 마르둑께서 나를 보냈을때 난 올바르고 정의롭게 행동했으며 억압받던 이들의 고통을 덜어 주었다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_20">
+      <Text>에설레드 2세</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_20_QUOTE">
+      <Text>어설프게 4분 말고 5분으로 하시죠.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_21">
+      <Text>댄 퀘일</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_21_QUOTE">
+      <Text>성공하지 못한다는 것은 실패할 각오를 해야한다는 것이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_3">
+      <Text>에이브라함 링컨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_3_QUOTE">
+      <Text>자신이 다짐한 바를 이루는 것이 무엇보다 중요함을 항상 명심하라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_4">
+      <Text>샤를마뉴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_4_QUOTE">
+      <Text>돌과 나무 그리고 하늘의 새들이 나의 군대가 될 것이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_5">
+      <Text>윈스턴 처칠</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_5_QUOTE">
+      <Text>비관론자는 어떤 기회가 와도 어려움만 볼 것이며 낙관론자는 어떠한 난관이 닥쳐도 기회를 볼 것이다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_6">
+      <Text>넬슨 만델라</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_6_QUOTE">
+      <Text>일이란 끝마치기 전에는 언제나 불가능해 보이는 법이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_7">
+      <Text>마커스 아우렐리우스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_7_QUOTE">
+      <Text>자신에게 어렵다고 다른 이들이 해내지 못하리라 생각하지 말라. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_8">
+      <Text>잔 다르크</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_8_QUOTE">
+      <Text>난 이 일을 하기 위해 태어났기에 두렵지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_9">
+      <Text>샤를 드골</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DQ_LEADER_NAME_9_QUOTE">
+      <Text>위기에 봉착했을 때 인격을 갖춘 자는 자신의 능력에 의지한다. 자신의 행동을 스스로 결정하고 그에 대한 책임을 지며 자신의 것으로 만든다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DUDE_1">
+      <Text>플리니우스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DUDE_2">
+      <Text>이븐 바투타</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DUDE_3">
+      <Text>괴테</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DUDE_4">
+      <Text>알베르티</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DUDE_5">
+      <Text>프톨레마이오스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DUDE_6">
+      <Text>보에티우스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DUDE_7">
+      <Text>피타고라스</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EMOTIONLESS">
+      <Text>무감정</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FORMAT_NUMBER">
+      <Text>{1_Number: number #.##}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FOUND_NATURAL_WONDER">
+      <Text>{@1_Name}을(를) 발견했습니다![NEWLINE][NEWLINE][ICON_HAPPINESS_1] [COLOR_POSITIVE_TEXT]행복[ENDCOLOR]이 증가했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FREE_POLICIES_LABEL">
+      <Text>무료 정책 수: {1_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FRIENDS">
+      <Text>우호국</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FRIENDS_CSTATE_TT">
+      <Text>{1_CityStateName:textkey}와(과) [COLOR_POSITIVE_TEXT]우호 관계[ENDCOLOR]입니다. 턴마다 이들에 대한 [ICON_INFLUENCE] 우호도가 {2_Num}씩 조정됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_EPIC_HELP">
+      <Text>생산, 연구 등 모든 것이 기본 속도로 플레이할 때보다 오래 걸립니다. 플레이 시간은 더 길지만 체감 속도에는 큰 차이가 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_MARATHON_HELP">
+      <Text>게임 속도가 매우 느리며 한 턴의 속도가 보통 속도 게임의 한 시대와 비슷합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_QUICK_HELP">
+      <Text>각종 임무를 완료하는 데 소요되는 턴이 줄어듭니다. 오래 기다리기 싫어하는 플레이어에게 적합합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GAMESPEED_STANDARD_HELP">
+      <Text>기본 게임 진행 속도입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOODY_CULTURE">
+      <Text>시민들을 감탄하게 할 문화 유물을 발견했습니다! {1_Num}의 [ICON_CULTURE] 문화를 획득했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOODY_POPULATION">
+      <Text>유적에서 생존자를 발견했습니다! 감사의 뜻으로 이들이 당신의 도시에 합류하기로 하여 [ICON_CITIZEN] 인구가 증가했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOODY_REVEAL_NEARBY_BARBS">
+      <Text>최근 활동에서 모은 증거를 통해 근처 야만인 주둔지 위치를 알아냈습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOODY_REVEAL_RESOURCE">
+      <Text>알려지지 않은 자원의 위치가 표시된 조잡한 지도를 발견했습니다! (새로운 자원을 사용하려면 적절한 기술을 익혀야 합니다.)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOODY_UPGRADE_UNIT">
+      <Text>유적에서 진보한 무기를 찾아 유닛이 무장을 바꿨습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GREAT_PERSON_REWARD">
+      <Text>{2_CityName:textkey}에서 {1_UnitName:textkey}이(가) 태어났습니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_CHIEFTAIN_HELP">
+      <Text>초보자</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_DEITY_HELP">
+      <Text>세계 최고의 플레이어만이 이 난이도를 완료할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_EMPEROR_HELP">
+      <Text>난이도가 상당히 어렵습니다. 인공지능 플레이어는 보다 게임을 유리하게 진행할 수 있는 혜택을 받게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_IMMORTAL_HELP">
+      <Text>난이도가 극도로 어렵습니다. 인공지능 플레이어는 보다 게임을 유리하게 진행할 수 있는 혜택을 받게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_KING_HELP">
+      <Text>난이도가 어렵습니다. 인공지능 플레이어에게는 플레이어를 상대하기 좀 더 쉽도록 작은 보너스가 주어집니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_PRINCE_HELP">
+      <Text>보통 난이도</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_SETTLER_HELP">
+      <Text>게임을 익히기 위한 난이도입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_HANDICAP_WARLORD_HELP">
+      <Text>쉬움</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_AIRBOMB_HELP">
+      <Text>공중 유닛에게 도시나 선택한 타일의 시설을 공습하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_AIRLIFT_HELP">
+      <Text>유닛이 항공기를 통해 선택한 타일로 이동하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_AIRSTRIKE_HELP">
+      <Text>공중 유닛에게 선택한 타일에 있는 적을 공격하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_CITY_PLOT_SELECTION_HELP">
+      <Text>도시의 어느 구획을 작업할지 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_DISEMBARK_HELP">
+      <Text>유닛에게 물에서 육지로 이동하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_EMBARK_HELP">
+      <Text>유닛에게 육지에서 물로 이동하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_GIFT_UNIT_HELP">
+      <Text>도시 국가에 소속되도록 유닛에 명령을 내립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_MOVE_TO_ALL_HELP">
+      <Text>모든 유닛에게 선택한 타일로 이동하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_MOVE_TO_HELP">
+      <Text>유닛에게 선택한 타일로 이동하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_MOVE_TO_TYPE_HELP">
+      <Text>현재 선택한 유닛과 종류가 같은 모든 유닛을 이동하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_NUKE_HELP">
+      <Text>선택한 타일에 핵폭탄 공격을 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_REBASE_HELP">
+      <Text>공중 유닛에게 다른 도시에서 재주둔하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_INTERFACEMODE_ROUTE_TO_HELP">
+      <Text>유닛에게 선택한 타일에 도로 또는 철도를 짓도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MERCHANT_RESULT">
+      <Text>무역 임무에서 [ICON_GOLD] 금 {1_Num}와 [ICON_INFLUENCE] 우호도 {2_Num}을(를) 얻었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MINOR_SPEAK_AGAIN">
+      <Text>({1_CivName:textkey}와(과) 다시 대화하려면 상대 도시를 클릭합니다.)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_AIRLIFT_HELP">
+      <Text>유닛을 다른 도시로 공수합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_ALERT_HELP">
+      <Text>적을 발견하면 유닛이 깨어납니다. 유닛은 방어 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_ALERT_NO_FORTIFY_HELP">
+      <Text>적을 발견하면 유닛이 깨어납니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_BOMBARD_HELP">
+      <Text>방어 시설을 파괴하고 도시의 방어 자원을 줄입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_BUILD_CITY_DISABLED_HELP">
+      <Text>네 타일 이내에 다른 도시가 있으면 도시를 건설할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_BUILD_CITY_DISABLED_UNHAPPY">
+      <Text>국가가 [ICON_HAPPINESS_4] 매우 불행한 상태일 때는 새 도시를 건설할 수 없습니다. 사치품 자원을 추가로 개발하거나 [ICON_HAPPINESS_1]을 높여주는 건물을 건설해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_BUILD_CITY_HELP">
+      <Text>이 명령을 내리면 [COLOR_UNIT_TEXT]개척자[ENDCOLOR]가 현재 위치에 새로운 도시를 건설합니다. 명령을 수행하면[COLOR_UNIT_TEXT]개척자[ENDCOLOR]는 소모됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_BUILD_SPACESHIP_DISABLED_HELP">
+      <Text>유닛이 수도에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_BUILD_SPACESHIP_HELP">
+      <Text>알파 센타우리 우주선에 사용합니다.[NEWLINE][NEWLINE]유닛이 소모됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_DISABLED_HELP">
+      <Text>유닛이 현재 전쟁을 하지 않는 도시 국가의 영토에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_CONDUCT_TRADE_MISSION_HELP">
+      <Text>유닛이 현재 플레이어와 전쟁을 하지 않는 도시 국가의 영토에 있다면, 이 명령을 통해 위대한 상인이 무역 임무을 수행하여 대량의 [ICON_GOLD]금을 벌어들이고 도시 국가와의 관계를 발전시킬 수 있습니다. 위인이 소모됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_CONSTRUCT_HELP">
+      <Text>이 지시를 내리면 위인이 특수 건물을 만듭니다. 위인을 소모합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_CREATE_GREAT_WORK_HELP">
+      <Text>이 명령을 내리면 위대한 예술가가 현재 자신이 있는 도시에서 위업을 달성하게 됩니다. 위인을 소모합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_CULTURE_BOMB_DISABLED_COOLDOWN">
+      <Text>최근에 문화 폭탄을 실행하였으므로 {1_Num}턴 안에는 문화 폭탄을 재실행할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_CULTURE_BOMB_DISABLED_HELP">
+      <Text>유닛이 플레이어가 소유한 타일 또는 타일 근처에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_CULTURE_BOMB_HELP">
+      <Text>이 명령을 내리면 위인을 소모하게 되며 해당 유닛이 있는 모든 타일 및 타일에 인접한 타일이 (다른 플레이어의 소유이더라도) 플레이어의 영토가 됩니다. 이 지시는 외교적 영향을 미칩니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_DISCOVER_TECH_DISABLED_HELP">
+      <Text>새 기술을 발견하려면 도시가 하나 이상 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_DISCOVER_TECH_HELP">
+      <Text>위인이 기술 연구를 돕게 되고, 위인은 사라집니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_DISEMBARK_HELP">
+      <Text>배에 탄 유닛을 육지로 상륙시킵니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_EMBARK_HELP">
+      <Text>유닛을 배에 태워 물을 건넙니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_FORTIFY_HELP">
+      <Text>플레이어가 새 지시를 내릴 때까지 유닛이 비활성화됩니다. 비활성화된 유닛은 방어 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_GARRISON_DISABLED_HELP">
+      <Text>도시에 이미 다른 유닛이 주둔하고 있을 경우 새 유닛이 주둔할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_GARRISON_HELP">
+      <Text>유닛을 도시에 주둔시켜 유닛의 [ICON_STRENGTH] 전투력을 높입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_HEAL_DISABLED_HELP">
+      <Text>유닛은 우호 지역을 벗어나면 회복할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_HEAL_HELP">
+      <Text>완전히 회복할 때까지 유닛이 비활성화됩니다. 비활성화된 유닛은 방어 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_HEAL_HELP_2">
+      <Text>완전히 회복할 때까지 유닛이 {1_Num}턴 동안 비활성화됩니다. 비활성화된 유닛은 방어 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_HURRY_PRODUCTION_HELP">
+      <Text>도시의 현재 작업을 더 빠르게 진행합니다. 위인을 소모합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_INTERCEPT_HELP">
+      <Text>공중 유닛에게 적의 공중 유닛을 요격하도록 지시합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_JOIN_CITY_HELP">
+      <Text>위인에게 최고 전문가로서 도시에 합류하도록 지시합니다. 위인을 소모합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_MOVE_TO_HELP">
+      <Text>특정한 타일로 유닛을 이동합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_MOVE_TO_UNIT_HELP">
+      <Text>유닛을 다른 유닛이 있는 곳으로 움직이십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_NUKE_HELP">
+      <Text>선택한 타일에 핵무기를 발사합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_ROUTE_TO_HELP">
+      <Text>일꾼에게 선택한 위치에 도로 또는 철로를 짓도록 지시합니다. 일꾼은 해당 위치로 가는 가장 짧은 경로를 건설하게 됩니다. 일을 마치면 일꾼을 사용할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_SET_UP_HELP">
+      <Text>유닛의 원거리 공격을 가능하게 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_SKIP_HELP">
+      <Text>유닛이 이번 턴에 행동하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_SLEEP_HELP">
+      <Text>플레이어가 새 명령을 내릴 때까지 유닛을 비활성화 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_DISABLED_HELP">
+      <Text>황금기를 시작하려면 유닛이 플레이어의 영토에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MISSION_START_GOLDENAGE_HELP">
+      <Text>이 명령은 위인을 소모하고 {1_Num}턴 동안 [ICON_GOLDEN_AGE] 황금기(추가 [ICON_PRODUCTION] 및 [ICON_GOLD])를 진행합니다. 위인 한 명이 황금기를 시작할 때마다 다음 황금기의 길이는 점점 짧아집니다(최소 3턴까지).</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEUTRAL_CSTATE_TT">
+      <Text>{1_CityStateName:textkey}은(는) 플레이어를 좋아하지도 싫어하지도 않습니다. [ICON_GOLD]금이 충분히 있다면 선물하여 [ICON_INFLUENCE] 우호도를 높일 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEXT_POLICY_COST_LABEL">
+      <Text>다음 정책 비용: {1_Num} [ICON_CULTURE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NEXT_POLICY_TURN_LABEL">
+      <Text>다음 정책: {1_Num: number #}턴</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BARB_CAMP_CONVERTS">
+      <Text>이 주둔지의 야만인들이 플레이어에게 합류하면서 [ICON_GOLD]을 주었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BARB_NAVAL_UNIT_CONVERTS">
+      <Text>야만인 해상 유닛이 아군에 합류하여 [ICON_GOLD]을 제공했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_ANOTHER">
+      <Text>{1_CivName:textkey}이(가) 가장 위인이 많은 문명으로 인정받아 {1_CivName:textkey}이(가) {2_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 받으려면 최소 {3_Num}명의 위인이 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_UNMET">
+      <Text>아직 만나지 못한 문명이 세계에서 가장 많은 위인을 보유하고 있습니다! 이 호칭을 받으면 {1_Num}점의 문명 점수를 받습니다. 다른 플레이어가 이 호칭을 받으려면 최소 {2_Num}명의 위인이 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_GREAT_PEOPLE_YOU">
+      <Text>플레이어의 문명이 가장 위인이 많은 문명으로 인정받아 {1_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 뺏으려면 최소 {2_Num}명의 위인이 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_ANOTHER">
+      <Text>{1_CivName:textkey}이(가) 사회 정책이 가장 많은 문명으로 선정되어 {2_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 받으려면 최소 {3_Num}개의 사회 정책이 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_UNMET">
+      <Text>아직 만나지 못한 문명이 사회 정책이 가장 많은 문명으로 선정되어 {1_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 얻으려면 최소 {2_Num}개의 사회 정책이 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_POLICIES_YOU">
+      <Text>플레이어의 문명이 사회 정책이 가장 많은 문명으로 선정되어 {1_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 뺏으려면 최소 {2_Num}개의 사회 정책이 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_ANOTHER">
+      <Text>{1_CivName:textkey}이(가) 불가사의가 가장 많은 문명으로 선정되어 {2_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 얻으려면 최소 {3_Num}개의 불가사의가 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_UNMET">
+      <Text>아직 만나지 못한 문명이 불가사의가 가장 많은 문명으로 선정되어 {1_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 받으려면 최소 {2_Num}개의 불가사의가 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_BEST_IN_WONDERS_YOU">
+      <Text>플레이어의 문명이 불가사의가 가장 많은 문명으로 선정되어 {1_Num}점의 문명 점수를 받았습니다. 다른 플레이어가 이 호칭을 받으려면 최소 {2_Num}개의 불가사의가 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_CAN_SHOOT">
+      <Text>{1_CityName:textkey}이(가) 근처의 적을 공격할 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_CULTURE_ACQUIRED_NEW_PLOT">
+      <Text>{1_CityName:textkey}이(가) 문화를 확장하여 새 타일을 얻었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_GROWTH">
+      <Text>{1_CityName:textkey}의 [ICON_CITIZEN] 시민이 {2_Population}명입니다! 새로운 시민들은 도시 근처에서 추가 [ICON_FOOD] 식량, [ICON_PRODUCTION] 생산 또는 [ICON_GOLD] 금을 얻기 위해 자동으로 일하게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_LOST">
+      <Text>{1_CityName:textkey}이(가) {@2_CivName}에 점령되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_DEMAND">
+      <Text>{1_CityName:textkey}에 {2_ResourceName:textkey}이(가) 필요로 합니다. 해당 자원을 교역망에 연결시키면 "황제 사랑 주간"이 시작되면서 도시의 [ICON_FOOD] 성장률도 올라갑니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD">
+      <Text>{1_CityName:textkey}에서 {2_ResourceName:textkey}을(를) 생산할 수 있습니다! 이제 이 도시에서 불가사의를 건설할 때 [ICON_PRODUCTION] 생산력이 {3_Num}% 증가합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_RESOURCE_WONDER_MOD_SUMMARY">
+      <Text>{1_CityName:textkey}이(가) {2_ResourceName:textkey}을(를) 가지고 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_STATE_UNIT_SPAWN">
+      <Text>{1_CivName:textkey}의 도시 국가가 새로운 유닛을 제공했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_CITY_WLTKD">
+      <Text>{1_Resource:textkey}을(를) 확보하여 {2_CityName:textkey}에서 "황제 사랑 주간"이 시작되었습니다. 도시에 [ICON_FOOD] 성장 보너스가 적용됩니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_DEFENSIVE_PACT_FROM_US">
+      <Text>{1_CivName:textkey}와(과)의 방위 조약이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_DEFENSIVE_PACT_TO_US">
+      <Text>{1_CivName:textkey}와(과) 제안한 방위 조약이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_FROM_US">
+      <Text>{1_CivName:textkey}에 매 턴 금을 지급하던 거래가 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_GPT_TO_US">
+      <Text>{1_CivName:textkey}(으)로부터 매 턴 금을 지급받던 거래가 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
+      <Text>{1_CivName:textkey}에 대한 우리 영토의 국경 개방이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_OPEN_BORDERS_TO_US">
+      <Text>우리에 대한 {1_CivName:textkey}의 국경 개방이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_PEACE">
+      <Text>{1_CivName:textkey}와(과)의 평화 조약이 만료되었습니다. 이제 두 문명은 서로 간에 전쟁을 선포할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
+      <Text>{1_CivName:textkey}와(과)의 연구 협정이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
+      <Text>{1_CivName:textkey}와(과)의 연구 협정이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_FROM_US">
+      <Text>{1_CivName:textkey}에 {2_Resource}을(를) 제공하던 거래가 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_RESOURCE_TO_US">
+      <Text>{1_CivName:textkey}(으)로부터 {2_Resource}을(를) 제공받던 거래가 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT_FROM_US">
+      <Text>{1_CivName:textkey}와(과) 체결한 무역 협정이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DEAL_EXPIRED_TRADE_AGREEMENT_TO_US">
+      <Text>{1_CivName:textkey}와(과) 체결한 무역 협정이 만료되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE">
+      <Text>{1_CivName:textkey}이(가) {2_CivName:textkey}은(는) 믿을 수 없는 국가라며 전 세계에 공개적으로 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_S">
+      <Text>{1_CivName:textkey}이(가) {2_CivName:textkey}을(를) 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DENOUNCE_YOU">
+      <Text>{1_CivName:textkey}이(가) 당신을 믿지 말라며 전 세계에 공개적으로 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DENOUNCED_YOU_S">
+      <Text>{1_CivName:textkey}이(가) 당신을 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DIPLOMACY_DECLARATION">
+      <Text>{1_CivName:textkey}의 공식 선언</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DOF">
+      <Text>{1_CivName:textkey}와(과) {2_CivName:textkey}이(가) 우호 관계임을 선언을 하여 두 제국 간에 긴밀한 유대가 형성되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_DOF_S">
+      <Text>{1_CivName:textkey}와(과) {2_CivName:textkey}이(가) 이제 우호 관계입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_CULTURE_FOR_POLICY">
+      <Text>새로운 사회 정책을 수용할 수 있을 만큼 문화를 확장하였습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_CULTURE_FOR_POLICY_DISMISS">
+      <Text>새로운 사회 정책을 채택할 수 있을 만큼 문화를 축적했습니다![NEWLINE][NEWLINE]사회 정책을 선택하지 않으려면 오른쪽 클릭을 하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_ENOUGH_GOLD_TO_BUY_PLOT">
+      <Text>도시에 새로운 타일을 추가할 수 있을 만큼 금을 모았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_ERA_VICTORY_POINTS">
+      <Text>{1_Num}점의 문명 점수를 모아 다음 시대로 진행할 수 있게 되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FOUND_BARB_CAMP">
+      <Text>야만인 주둔지를 발견했습니다! 주둔지를 파괴할 때까지 야만인이 계속 나타나게 됩니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FOUND_GOODY_HUT">
+      <Text>고대 유적을 발견했습니다! 유적에 유닛을 파견하면 숨겨진 보물을 찾게 될 수도 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FOUND_NATURAL_WONDER">
+      <Text>{@2_NaturalWonder}을(를) 발견했습니다! 아직 {1_Num}개의 자연경관이 남았습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FOUND_RESOURCE">
+      <Text>{1_ResourceName:textkey} 자원을 발견했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FREE_POLICY">
+      <Text>무료 사회 정책을 고르십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FREE_POLICY_SUMMARY">
+      <Text>무료 사회 정책!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FRIENDSHIP_EXPIRED">
+      <Text>{1_LeaderName}와(과) 맺은 우호 협정 선언이 효력을 다했습니다. 다시 우호 조약을 맺으십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_FRIENDSHIP_EXPIRED_S">
+      <Text>우호 관계 선언이 만료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN">
+      <Text>{1_LongCivName:textkey} 문명에 황금기가 시작되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
+      <Text>황금기가 시작되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED">
+      <Text>{1_LongCivName:textkey}의 황금기가 끝났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
+      <Text>황금기가 끝났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GREAT_ARTIST_STOLE_PLOT">
+      <Text>{1_CivName:textkey}이 위대한 예술가를 이용해 플레이어의 땅을 훔쳤습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON">
+      <Text>{1_CivName:textkey}에서 위인이 태어났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON_ACTIVE_PLAYER">
+      <Text>플레이어의 문명에서 위인이 태어났습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_GREAT_PERSON_UNMET">
+      <Text>먼 곳에서 위인이 태어났습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MET_MINOR_CIV">
+      <Text>도시 국가 {1_CivName:textkey}와(과) 만났습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_AGGRESSOR">
+      <Text>당신이 약한 이웃을 괴롭히는 것을 모두가 보았습니다. 방어를 위해 손을 잡은 이들은 이제 죽을 때까지 싸울 것입니다. 당신이 도시 국가를 계속 공격하면 더 많은 수가 동맹에 참여할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_LOST">
+      <Text>{1_CivName:textkey}에 대한 [ICON_INFLUENCE] 우호도를 잃어 더는 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]이 아닙니다.[NEWLINE][NEWLINE]{2_DetailsString}[NEWLINE][NEWLINE]따라서 더 이상 전략 자원 및 사치품을 얻을 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_LOST_SCIENCE">
+      <Text>상대가 현자들을 플레이어의 영토에서 철수했습니다. ([ICON_RESEARCH] 과학 보너스 상실)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_ALLIES_PASSED">
+      <Text>[COLOR_NEGATIVE_TEXT]{1_CivName:textkey}[ENDCOLOR]이(가) 이제 {2_MinorCivName:textkey}에 대해 플레이어보다 더 큰 [ICON_INFLUENCE] 우호도를 가지게 되어 해당 도시 국가의 [COLOR_NEGATIVE_TEXT]새로운 동맹[ENDCOLOR]이 되었습니다![NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]따라서 더 이상 전략 자원 및 사치품을 얻을 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARB_KILLED">
+      <Text>{1_CivName:textkey} 근처의 야만인을 물리쳤습니다! 감사의 뜻으로 해당 도시 국가에 대한 [ICON_INFLUENCE] 우호도가 12만큼 상승했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARBS_QUEST">
+      <Text>{1_CivName:textkey}이(가) 야만인을 상대하기 위한 지원을 요청했습니다! 야만인을 물리칠 때마다 해당 도시 국가에 대한 [ICON_INFLUENCE] 우호도가 상승합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_BARBS_QUEST_LOST_CHANCE">
+      <Text>{1_CivName:textkey}이(가) 야만인을 상대하는 데 더 이상 도움을 필요로 하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_BFF_LOST_RESOURCE">
+      <Text>{1_CivName:textkey}이(가) 플레이어에게 제공하던 [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]에 대한 연결로를 잃었습니다! 연결로를 다시 회복할 때까지 자원을 받을 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_BFF_NEW_RESOURCE">
+      <Text>{1_CivName:textkey}이(가) 동맹인 당신에게 해당 도시 국가가 새로 확보한 [COLOR_POSITIVE_TEXT]{2_ResourceNames}[ENDCOLOR]을(를) 제공하기로 했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_FRIENDS_LOST_BASE">
+      <Text>{1_CivName:textkey}에 대한 [ICON_INFLUENCE] 우호도를 잃어 더는 [COLOR_POSITIVE_TEXT]우호 관계[ENDCOLOR]가 아닙니다.[NEWLINE][NEWLINE]{2_DetailsString}이제 플레이어의 유닛은 더 이상 상대 지역을 통과할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_FRIENDSHIP_DECAY">
+      <Text>{1_PlayerName:textkey}이(가) 선택한 사회 정책 때문에 도시 국가에 대한 플레이어의 [ICON_INFLUENCE] 우호도가 빠르게 떨어집니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_GAINED_BEST_RELATIONS_BONUS_NONE">
+      <Text>현재 상태를 유지하면 플레이어의 제국은 상대 국가로부터 차후에 확보하게 될 모든 [COLOR_POSITIVE_TEXT]전략 자원 및 사치품[ENDCOLOR]을 받을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_GAINED_BEST_RELATIONS_BONUS_SOME">
+      <Text>현재 상태를 유지하면 상대 국가로부터 [COLOR_POSITIVE_TEXT]{1_ResourceNames}[ENDCOLOR]은(는) 물론 차후 확보하게 될 모든 자원을 받을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_INTRUSION">
+      <Text>{1_CivName:textkey}의 영토를 무단 침입했습니다! 상대 영토에 머무는 동안 상대에 대한 [ICON_INFLUENCE] 우호도가 낮아집니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LIBERATION">
+      <Text>{2_MajorCivName:textkey}이(가) {1_MinorCivName:textkey}을(를) 해방시켰습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LIBERATION_YOU">
+      <Text>{1_CivName:textkey}을(를) 해방시켰습니다! 그곳의 백성들은 이제 플레이어에게 목숨을 빚졌습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_ALLIES_MILITARISTIC">
+      <Text>군사력은 거의 늘어나지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_BEST_RELATIONS_BONUS">
+      <Text>더 이상 {1_CivName:textkey}의 우호국이 아닙니다. 따라서 더 이상 전략 자원 및 사치품을 얻을 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_CULTURE">
+      <Text>(턴당 {1_NumCulture} [ICON_CULTURE] 문화 상실)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_FRIENDS_MILITARISTIC">
+      <Text>더 이상 플레이어에게 군사 유닛을 제공하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_LOST_MARITIME">
+      <Text>([ICON_CAPITAL] 수도: {1_NumCapitalFood}[ICON_FOOD], 다른 모든 도시: {2_NumCitiesFood}[ICON_FOOD])</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_BASE">
+      <Text>{2_MinorCivName:textkey}에 대한 [ICON_INFLUENCE] 우호도가 증가하여 이제 해당 도시 국가의 [COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]이 되었습니다.[NEWLINE][NEWLINE]{3_DetailsString}[NEWLINE][NEWLINE]{1_ResourceDetailsString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_BASE_PASSED">
+      <Text>{3_MinorCivName:textkey}에 대한 우호도가 증가하여 [COLOR_POSITIVE_TEXT]{1_CivName:textkey}을 대신 해서 해당 국가의 동맹이 되었습니다[ENDCOLOR].[NEWLINE][NEWLINE]{4_DetailsString}[NEWLINE][NEWLINE]{2_ResourceDetailsString}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_CULTURE">
+      <Text>[COLOR_POSITIVE_TEXT]문화[ENDCOLOR] 도시 국가로서 이들은 우수한 문화 유물을 제공합니다! (턴당 [ICON_CULTURE] 문화+{1_NumCulture})</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MARITIME">
+      <Text>[COLOR_POSITIVE_TEXT]해양[ENDCOLOR] 도시 국가로서 이들은 플레이어의 국가에 많은 양의 식량을 수출합니다. ([ICON_CAPITAL] 수도: +{1_NumCapitalFood}[ICON_FOOD], 다른 모든 도시: +{2_NumCitiesFood}[ICON_FOOD])</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_MILITARISTIC">
+      <Text>[COLOR_POSITIVE_TEXT]군사[ENDCOLOR] 도시 국가로서 앞으로 정기적인 군사 지원을 제공할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_ALLIES_SCIENCE">
+      <Text>이들은 이제 현자가 가진 모든 지식을 플레이어와 공유합니다! (이들 국가에서 생산되는 [ICON_RESEARCH] 과학 보너스와 같은 수치의 보너스를 받습니다.)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_BASE">
+      <Text>{1_CivName:textkey}에 대한 [ICON_INFLUENCE] 우호도가 증가하여 [COLOR_POSITIVE_TEXT]우호 관계[ENDCOLOR]가 되었습니다.[NEWLINE][NEWLINE]{2_DetailsString}이들은 또한 플레이어의 군사가 자신의 영토를 지나는 것을 허락하였습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_CULTURE">
+      <Text>[COLOR_POSITIVE_TEXT]문화[ENDCOLOR] 도시 국가로서 귀중한 예술품을 제공합니다! (턴당 +{1_NumCulture} [ICON_CULTURE] 문화)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MARITIME">
+      <Text>[COLOR_POSITIVE_TEXT]해양[ENDCOLOR] 도시 국가로서 이들은 플레이어 국가에 식량을 수출할 것입니다. ([ICON_CAPITAL] 수도: +{1_NumCapitalFood}[ICON_FOOD], 다른 모든 도시: +{2_NumCitiesFood}[ICON_FOOD])</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_NOW_FRIENDS_MILITARISTIC">
+      <Text>[COLOR_POSITIVE_TEXT]군사[ENDCOLOR] 도시 국가로서 앞으로 비정기적인 군사 지원을 제공할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_ROUTE_CONNECTION">
+      <Text>{1_CivName:textkey}와(과) 성공적으로 [ICON_CONNECTED] [ICON_CAPITAL] 수도를 연결했습니다! 상대에 대한 [ICON_INFLUENCE] 우호도가 증가했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST">
+      <Text>{1_CivName:textkey}이(가) {2_CivName:textkey}의 공격을 받고 있습니다! 지금 도와주지 않으면 멸망할지도 모릅니다. 이들은 현재 모든 주요 문명에 도움을 요청한 상태입니다. 최소 {3_NumUnits} 이상의 적 유닛을 제거하면 {1_CivName:textkey}도 감사할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST_COMPLETED">
+      <Text>{2_CivName:textkey}을(를) 약화시켜 달라는 {1_CivName:textkey}의 요청을 완료했습니다! 해당 도시 국가에 대한 [ICON_INFLUENCE] 우호도가 상승했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_QUEST_LOST_CHANCE">
+      <Text>{1_CivName:textkey}이(가) 더 이상 {2_CivName:textkey}에 대한 지원을 필요로 하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WAR_UNIT_HELP">
+      <Text>{1_CivName:textkey}이(가) {2_CivName:textkey}와(과)의 싸움을 도와줄 세력을 찾고 있습니다. 상대는 당신의 참전에 기뻐할 것이며, 당신은 또한 비밀리에 군사 유닛을 지원하여 도와야 합니다(지원하려면 상대 도시 클릭).</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WARMONGER">
+      <Text>도시 국가를 공격하는 당신의 군사적 행동에 다른 이들이 매우 불안해합니다. 당신에게 대항하려는 연합의 세력이 점점 커지고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WARMONGER_OTHER">
+      <Text>계속해서 호전적인 모습을 보이는 {1_NameKey:textkey}에 대항하기 위해 여러 도시 국가가 힘을 합치고 있습니다! 이들은 어떤 군사적 지원도 환영할 것입니다. (유닛을 제공하려면 연합 중 한 도시를 클릭합니다.)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_MINOR_WARMONGER_REMINDER">
+      <Text>세계의 많은 도시 국가들이 {1_NameKey:textkey}와(과) 전쟁을 벌이고 있습니다. 이들은 군사적 지원을 포함한 어떤 지원도 환영할 것입니다. (유닛을 제공하려면 연합 중 한 도시를 클릭합니다.)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_NEW_CONSTRUCTION">
+      <Text>{1_CivName}이(가) 새로운 생산 프로젝트를 수행할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_NEW_RESEARCH">
+      <Text>새 연구 프로젝트를 선택하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_OVER_RESOURCE_LIMIT">
+      <Text>가지고 있는 {1_Resource:textkey}보다 더 많은 양을 소모하고 있습니다! 해당 자원을 필요로 하는 모든 유닛의 [COLOR_NEGATIVE_TEXT] 성능이 떨어집니다[ENDCOLOR].</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_PLAYER_LOST_CAPITAL">
+      <Text>{@1_CivName}이(가) [ICON_CAPITAL] 수도를 잃었습니다! {2_NumPlayers}개의 문명이 아직 [ICON_CAPITAL] 수도를 가지고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_PLAYER_RECOVERED_CAPITAL">
+      <Text>{@1_CivName}이(가) [ICON_CAPITAL] 수도를 되찾았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONNECT_RESOURCE">
+      <Text>{2_CivName:textkey}의 요청대로 {1_ResourceName}을(를) 교역망에 연결하였습니다! 상인들이 기뻐하여 이들에 대한 [ICON_INFLUENCE] 우호도가 증가했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_CONSTRUCT_WONDER">
+      <Text>{2_CivName:textkey}의 요청 대로 {1_WonderName}을(를) 건축했습니다! 이들에 대한 [ICON_INFLUENCE] 우호도가 증가했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_NATURAL_WONDER">
+      <Text>새로운 자연경관의 발견으로 {1_CivName:textkey}의 시민들이 감명을 받았습니다! 당신의 노력으로 인해 이들에 대한 [ICON_INFLUENCE] 우호도가 증가하였습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_FIND_PLAYER">
+      <Text>{1_TargetName:textkey}의 발견으로 {2_CivName:textkey}의 상인들이 매우 기뻐합니다. 이들에 대한 [ICON_INFLUENCE] 우호도가 증가하였습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_GREAT_PERSON">
+      <Text>{2_CivName:textkey}의 요청대로 {1_UnitName}을(를) 생산하였습니다. 학자들이 무척 놀라워하고 있으며 [ICON_INFLUENCE] 우호도가 증가하였습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CAMP">
+      <Text>{1_CivName:textkey}의 요청대로 야만인 주둔지를 파괴했습니다! 이들에 대한 [ICON_INFLUENCE] 우호도가 증가했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_COMPLETE_KILL_CITY_STATE">
+      <Text>{1_TargetName:textkey}을(를) 제거하자{2_CivName:textkey}의 백성들이 매우 기뻐합니다! 이들이 당신의 도움에 깊은 감사를 전합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONNECT_RESOURCE">
+      <Text>{2_CivName:textkey}의 상인들이 새로운 부의 원천을 찾고 있습니다. 소문에 따르면 {1_ResourceName}의 가치가 매우 크다고 합니다. 이 자원을 교역망에 연결하면 보상을 받게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_CONSTRUCT_WONDER">
+      <Text>{2_CivName:textkey}의 문화적 지식인들이 뭔가 새로운 것에 목말라 하고 있습니다. 이들은 {1_WonderName}을(를) 지으면 보다 큰 깨달음을 얻을 수 있을 거라 믿습니다. 이들의 소원을 이루어주면 큰 보상을 받을 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_CONSTRUCT_WONDER">
+      <Text>다른 플레이어가 {1_WonderName}을(를) 건설하여 {2_CivName:textkey}의 요청을 수행할 수 없게 되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_ENDED_KILL_CITY_STATE">
+      <Text>다른 플레이어가 {1_TargetName:textkey}을(를) 파괴하여 {2_CivName:textkey}의 요청을 수행할 수 없게 되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_FIND_NATURAL_WONDER">
+      <Text>{1_CivName:textkey}의 시민들이 아직 발견되지 않은 놀라운 자연경관이 있다는 소문을 들었습니다. 이들은 누군가가 그러한 자연경관을 대신 찾아주길 기대하고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_FIND_PLAYER">
+      <Text>{2_CivName:textkey}이(가) 새로운 무역 기회를 찾고 있습니다. 이들은 먼 곳에 "{1_TargetName:textkey}"(이)라는 나라가 있다는 소식을 들었습니다. 만일 당신이 {1_TargetName:textkey}의 영토를 찾는다면 보상을 받게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_GREAT_PERSON">
+      <Text>{2_CivName:textkey}의 학자들이 {1_UnitName}의 지식을 구하고 있습니다. 이 중 하나를 당신의 나라로 끌어들일 수 있다면 학자들이 후한 보상을 줄 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_KILL_CAMP">
+      <Text>주변의 야만인 주둔지 때문에 불안해하는 {1_CivName:textkey}의 시민들이 주둔지를 없애주길 기대하고 있습니다. 누구든 이들을 도와주면 후한 보상을 받게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_KILL_CITY_STATE">
+      <Text>{2_CivName:textkey}이(가) {1_TargetName:textkey}와(과) 심각한 갈등을 빚고 있습니다. {2_CivName:textkey}은(는) 지금 적을 해치워 갈등을 끝내줄 강력한 세력을 찾고 있습니다. 누구든 이 제안을 받아들이면 후한 보상을 받게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_QUEST_START_ROUTE">
+      <Text>{1_CivName:textkey}이(가) 자신들의 수도와 당신의 [ICON_CAPITAL] 수도를 연결하는 도로를 건설하고 싶어합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_REMOVED_UNIT">
+      <Text>{1_CityName:textkey}이(가) 이동할 타일이 없어서 {2_UnitName:textkey}을(를) 배치하지 못했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_RESEARCH_AGREEMENT">
+      <Text>{1_CivName:textkey}와 {2_CivName:textkey}이(가) 연구 협정을 맺었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_ROUTE_TO_CANCELLED">
+      <Text>경로를 건설하려던 일꾼의 이동 경로가 막혀 명령이 취소되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SM_MINOR_BARB_KILLED">
+      <Text>{1_CivName:textkey} 근처의 야만인이 제거되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SOMEONE_LOST_CAPITAL">
+      <Text>아직 만나지 못한 문명이 [ICON_CAPITAL] 수도를 잃었습니다! {1_NumPlayers}개의 문명이 아직 [ICON_CAPITAL] 수도를 가지고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SOMEONE_RECOVERED_CAPITAL">
+      <Text>아직 만나지 못한 문명이 [ICON_CAPITAL] 수도를 되찾았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BARB_CAMP_CONVERTS">
+      <Text>주둔지의 야만인들이 합류했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BARB_NAVAL_UNIT_CONVERTS">
+      <Text>야만인 해상 유닛이 아군에 합류합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_ANOTHER">
+      <Text>{1_CivName:textkey}이(가) 가장 많은 위인을 보유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_UNMET">
+      <Text>아직 만나지 않은 플레이어가 가장 많은 위인을 보유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_GREAT_PEOPLE_YOU">
+      <Text>최다 위인!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_ANOTHER">
+      <Text>{1_CivName:textkey}이(가) 가장 많은 정책을 보유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_UNMET">
+      <Text>아직 만나지 않은 플레이어가 가장 많은 정책을 보유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_POLICIES_YOU">
+      <Text>최다 사회 정책!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_ANOTHER">
+      <Text>{1_CivName:textkey}이(가) 가장 많은 불가사의를 보유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_UNMET">
+      <Text>아직 만나지 않은 플레이어가 가장 많은 불가사의를 보유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_BEST_IN_WONDERS_YOU">
+      <Text>최다 세계 불가사의!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_CAN_SHOOT">
+      <Text>{1_CityName:textkey}이(가) 적을 공격할 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_CULTURE_ACQUIRED_NEW_PLOT">
+      <Text>{1_CityName:textkey}의 국경이 확장됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_GROWTH">
+      <Text>{1_CityName:textkey}이(가) 성장함!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_LOST">
+      <Text>{1_CityName:textkey}이(가) 점령됨!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_RESOURCE_DEMAND">
+      <Text>{1_CityName:textkey}이(가) {2_ResourceName:textkey}을(를) 요구함!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_STATE_UNIT_SPAWN">
+      <Text>{1_CivName:textkey}의 새 유닛입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_CITY_WLTKD">
+      <Text>{1_CityName:textkey}이(가) 황제 사랑 주간에 돌입함!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_DEFENSIVE_PACT_FROM_US">
+      <Text>{1_CivName:textkey}와(과)의 방위 조약이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_DEFENSIVE_PACT_TO_US">
+      <Text>{1_CivName:textkey}와(과)의 방위 조약이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_FROM_US">
+      <Text>{1_CivName:textkey}와(과)의 GPT가 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_GPT_TO_US">
+      <Text>{1_CivName:textkey}이(가) 제안한 GPT가 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_OPEN_BORDERS_FROM_US">
+      <Text>{1_CivName:textkey}에 대한 국경 개방이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_OPEN_BORDERS_TO_US">
+      <Text>{1_CivName:textkey}의 국경 개방이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_PEACE">
+      <Text>평화 조약이 만료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_FROM_US">
+      <Text>{1_CivName:textkey}와(과)의 연구 협정이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESEARCH_AGREEMENT_TO_US">
+      <Text>{1_CivName:textkey}와(과)의 연구 협정이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESOURCE_FROM_US">
+      <Text>{1_CivName:textkey}에 대한 {2_Resource} 지원이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_RESOURCE_TO_US">
+      <Text>{1_CivName:textkey}(으)로부터의 {2_Resource} 지원이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_TRADE_AGREEMENT_FROM_US">
+      <Text>{1_CivName:textkey}와(과)의 무역 협정이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_DEAL_EXPIRED_TRADE_AGREEMENT_TO_US">
+      <Text>{1_CivName:textkey}와(과)의 무역 협정이 종료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_CULTURE_FOR_POLICY">
+      <Text>정책 채택 가능</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ENOUGH_GOLD_TO_BUY_PLOT">
+      <Text>토지 구매 가능</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ERA_VICTORY_POINTS">
+      <Text>새로운 시대</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_BARB_CAMP">
+      <Text>야만인 주둔지 발견</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_GOODY_HUT">
+      <Text>유적 발견</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_NATURAL_WONDER">
+      <Text>자연경관 발견</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_FOUND_RESOURCE">
+      <Text>{1_ResourceName:textkey} 발견</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN">
+      <Text>{1_CivName:textkey}의 황금기가 시작되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_BEGUN_ACTIVE_PLAYER">
+      <Text>황금기가 시작됩니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED">
+      <Text>{1_CivName:textkey}의 황금기가 끝났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GOLDEN_AGE_ENDED_ACTIVE_PLAYER">
+      <Text>플레이어의 황금기가 끝났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_ARTIST_STOLE_PLOT">
+      <Text>{1_CivName:textkey}이(가) 플레이어의 영토를 훔쳤습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_GREAT_PERSON">
+      <Text>위인 출생</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MET_MINOR_CIV">
+      <Text>{1_CivName:textkey}을(를) 만남</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_AGGRESSOR">
+      <Text>도시 국가가 우려를 하기 시작함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS">
+      <Text>{1_CivName:textkey}의 동맹이 됨!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_LOST">
+      <Text>더 이상 {1_CivName:textkey}의 동맹이 아님!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ALLIES_STATUS_PASSED">
+      <Text>{1_CivName:textkey}이(가) {2_MinorCivName:textkey}의 동맹이 됨!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BARBS_QUEST">
+      <Text>{1_CivName:textkey}이(가) 공격 당함!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BARBS_QUEST_LOST_CHANCE">
+      <Text>{1_CivName:textkey}이(가) 요청을 취소함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BFF_LOST_RESOURCE">
+      <Text>{1_CivName:textkey}로부터 {2_ResourceNames} 지원이 끊김!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_BFF_NEW_RESOURCE">
+      <Text>{1_CivName:textkey}로부터 {2_ResourceNames} 지원!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDS_STATUS">
+      <Text>{1_CivName:textkey}와(과) 우호 관계가 됨!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDS_STATUS_LOST">
+      <Text>{1_CivName:textkey}와(과) 더 이상 우호 관계가 아님!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_FRIENDSHIP_DECAY">
+      <Text>도시 국가에 대한 [ICON_INFLUENCE] 우호도 변경!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_GAINED_BEST_RELATIONS_BONUS">
+      <Text>{1_CivName:textkey}와(과) 매우 좋은 상태</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_INTRUSION">
+      <Text>{1_CivName:textkey}을(를) 무단 침입 중!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LIBERATION">
+      <Text>{1_CivName:textkey}이(가) 해방됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_LOST_BEST_RELATIONS_BONUS">
+      <Text>{1_CivName:textkey}와(과) 더 이상 매우 좋은 상태가 아님</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_ROUTE_CONNECTION">
+      <Text>{1_CivName:textkey}(으)로 향하는 길</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST">
+      <Text>{1_CivName:textkey}이(가) {2_CivName:textkey}에게 공격 당함!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST_COMPLETED">
+      <Text>{1_CivName:textkey} 전쟁 종료</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_QUEST_LOST_CHANCE">
+      <Text>{1_CivName:textkey}이(가) 더 이상 전쟁 상태가 아님</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WAR_UNIT_HELP">
+      <Text>{1_CivName:textkey}이(가) 유닛을 요청합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WARMONGER">
+      <Text>도시 국가가 적대적이 됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WARMONGER_OTHER">
+      <Text>도시 국가가 {1_NameKey:textkey}에 대항하여 연합</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_MINOR_WARMONGER_REMINDER">
+      <Text>도시 국가가 지원을 요청</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_NEW_RESEARCH">
+      <Text>연구 선택</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_OVER_RESOURCE_LIMIT">
+      <Text>{1_Resource:textkey}이(가) 필요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PLAYER_LOST_CAPITAL">
+      <Text>{1_CivName:textkey}이(가) [ICON_CAPITAL] 수도를 잃음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_PLAYER_RECOVERED_CAPITAL">
+      <Text>{1_CivName:textkey}이(가) [ICON_CAPITAL] 수도를 되찾음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONNECT_RESOURCE">
+      <Text>{2_CivName:textkey}을(를) 위해 {1_ResourceName} 연결!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_CONSTRUCT_WONDER">
+      <Text>{2_CivName:textkey}을(를) 위해 {1_WonderName} 건설!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_FIND_NATURAL_WONDER">
+      <Text>{1_CivName:textkey}을(를) 위해 자연경관 발견!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_FIND_PLAYER">
+      <Text>{2_CivName:textkey}을(를) 위해 {1_TargetName:textkey} 발견!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_GREAT_PERSON">
+      <Text>{2_CivName:textkey}이(가) 플레이어의 {1_UnitName}을(를) 인정함!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CAMP">
+      <Text>{1_CivName:textkey}을(를) 위해 주둔지를 토벌!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_COMPLETE_KILL_CITY_STATE">
+      <Text>{2_CivName:textkey}을(를) 위해 {1_TargetName:textkey} 제거!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONNECT_RESOURCE">
+      <Text>{2_CivName:textkey}이(가) {1_ResourceName}을(를) 원함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_CONSTRUCT_WONDER">
+      <Text>{2_CivName:textkey}이(가) {1_WonderName}을(를) 원함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_CONSTRUCT_WONDER">
+      <Text>더 이상 {2_CivName:textkey}을(를) 위해 {1_WonderName}을(를) 지을 수 없음!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_ENDED_KILL_CITY_STATE">
+      <Text>더 이상 {2_CivName:textkey}을(를) 위해 {1_TargetName:textkey}을(를) 제거할 수 없음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_FIND_NATURAL_WONDER">
+      <Text>{1_CivName:textkey}이(가) 새 자연경관을 원함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_FIND_PLAYER">
+      <Text>{2_CivName:textkey}이(가) {1_TargetName:textkey}을(를) 원함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_GREAT_PERSON">
+      <Text>{2_CivName:textkey}이(가) {1_UnitName}을(를) 원함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_KILL_CAMP">
+      <Text>{1_CivName:textkey}이(가) 근처 주둔지를 목표로 설정함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_KILL_CITY_STATE">
+      <Text>{2_CivName:textkey}이(가) {1_TargetName:textkey}이(가) 제거되길 원함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_QUEST_START_ROUTE">
+      <Text>{1_CivName:textkey}이(가) 도로를 요청함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_REMOVED_UNIT">
+      <Text>새 유닛을 만들 공간이 없음!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_RESEARCH_AGREEMENT">
+      <Text>새로운 연구 협정</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_ROUTE_TO_CANCELLED">
+      <Text>경로 취소!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SOMEONE_LOST_CAPITAL">
+      <Text>아직 만나지 못한 플레이어가 [ICON_CAPITAL] 수도를 잃음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_SOMEONE_RECOVERED_CAPITAL">
+      <Text>아직 만나지 못한 플레이어가 [ICON_CAPITAL] 수도를 되찾음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_BROKEN">
+      <Text>[ICON_CONNECTED] 무역로 상실!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_TRADE_ROUTE_ESTABLISHED">
+      <Text>[ICON_CONNECTED] 무역로 확립!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_UNIT_CAN_GET_PROMOTION">
+      <Text>유닛 승급</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FIRST_PLACE">
+      <Text>시대 1위의 {1_CivName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FIRST_PLACE_YOU">
+      <Text>시대 1위</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FOURTH_PLACE">
+      <Text>시대 4위의 {1_CivName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_FOURTH_PLACE_YOU">
+      <Text>시대 4위</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_SECOND_PLACE">
+      <Text>시대 2위의 {1_CivName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_SECOND_PLACE_YOU">
+      <Text>시대 2위</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_THIRD_PLACE">
+      <Text>시대 3위의 {1_CivName:textkey}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_CATEGORY_THIRD_PLACE_YOU">
+      <Text>시대 3위</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_SOMEBODY">
+      <Text> {1_CivName:textkey} - {3_Victory:textkey} #{2_Rank}위</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_UNMET">
+      <Text>아직 만나지 못한 플레이어 - {2_Victory:textkey} #{1_Rank}위</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_RACE_WON_YOU">
+      <Text>아직 만나지 못한 플레이어 - {2_Victory:textkey} #{1_Rank}위 </Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_VICTORY_WINNER">
+      <Text>{1_CivName:textkey}이(가) 승리함!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WONDER_STARTED">
+      <Text>{1_CivName}이(가) {2_BldgName}을(를) 짓기 시작함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_WONDER_STARTED_UNKNOWN">
+      <Text>만나지 못한 플레이어가 {2_BldgName}을(를) 짓기 시작함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_YOU_LOST_CAPITAL">
+      <Text>[ICON_CAPITAL] 수도를 잃음!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_SUMMARY_YOU_RECOVERED_CAPITAL">
+      <Text>[ICON_CAPITAL]수도를 되찾음!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_THEIR_DENUNCIATION_EXPIRED">
+      <Text>{1_LeaderName}(으)로부터 비난을 받았다는 사실이 더 이상 다른 지도자에게 영향을 미치지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_THEIR_DENUNCIATION_EXPIRED_S">
+      <Text>적군의 비난이 만료됨</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_BROKEN">
+      <Text>{1_CityName:textkey}와(과) 플레이어의 수도인 {2_CityName:textkey} 사이의 [ICON_CONNECTED] 무역로가 끊겼습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_TRADE_ROUTE_ESTABLISHED">
+      <Text>{1_CityName:textkey}와(과) 플레이어의 수도인 {2_CityName:textkey} 사이의 [ICON_CONNECTED] 무역로가 확립되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_UNIT_CAN_GET_PROMOTION">
+      <Text>유닛이 승급 가능한 경험치에 도달했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FIRST_PLACE">
+      <Text>{1_CivName:textkey}이(가) {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 1위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FIRST_PLACE_YOU">
+      <Text>플레이어가 {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 1위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FOURTH_PLACE">
+      <Text>{1_CivName:textkey}이(가) {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 4위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_FOURTH_PLACE_YOU">
+      <Text>플레이어가 {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 4위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_SECOND_PLACE">
+      <Text>{1_CivName:textkey}이(가) {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 2위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_SECOND_PLACE_YOU">
+      <Text>플레이어가 {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 2위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_THIRD_PLACE">
+      <Text>{1_CivName:textkey}이(가) {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 3위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_CATEGORY_THIRD_PLACE_YOU">
+      <Text>플레이어가 {2_Era:textkey} 시대에서 {3_Victory:textkey}(으)로 3위를 차지했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_SOMEBODY">
+      <Text>{1_CivName:textkey}이(가) {3_Victory:textkey}을(를) 향한 승리 경쟁에서 #{1_Rank}위를 기록하고 {3_Num}점의 문명 점수를 받았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_UNMET">
+      <Text>만나지 못한 플레이어가 {2_Victory:textkey}을(를) 향한 승리 경쟁에서 #{1_Rank}위를 기록하고 {3_Num}점의 문명 점수를 받았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_RACE_WON_YOU">
+      <Text>플레이어가 {2_Victory:textkey}을(를) 향한 승리 경쟁에서 #{1_Rank}위를 기록하고 {3_Num}점의 문명 점수를 받았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_VICTORY_WINNER">
+      <Text>{1_CivName:textkey}이(가) {2_Victory:textkey} 승리로 게임에서 이겼습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED">
+      <Text>{1_CivName}이(가) {3_CityName:textkey}에서 {2_BldgName}을(를) 건설하기 시작했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED_UNKNOWN_LOCATION">
+      <Text>{1_CivName}이(가) {2_BldgName}을(를) 건설하기 시작했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_WONDER_STARTED_UNMET">
+      <Text>아직 만나지 못한 문명이 {1_BldgName}을(를) 건설하기 시작했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_YOU_DENOUNCE">
+      <Text>당신이 전 세계에 {1_CivName:textkey}이(가) 믿을 수 없는 국가라며 공개적으로 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_YOU_DENOUNCE_S">
+      <Text>당신이 {1_CivName:textkey}을(를) 공개적으로 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_YOU_LOST_CAPITAL">
+      <Text>[ICON_CAPITAL] 수도를 잃었습니다! {1_NumPlayers}명의 플레이어가 아직 [ICON_CAPITAL] 수도를 가지고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NOTIFICATION_YOU_RECOVERED_CAPITAL">
+      <Text>[ICON_CAPITAL]수도를 되찾았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_CITY_STARVING">
+      <Text>{1_CityName:textkey}이 굶주리고 있습니다! 비축한 [ICON_FOOD] 식량이 동나면 [ICON_CITIZEN]시민들도 죽게 됩니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_CITY_STARVING_S">
+      <Text>{1_CityName:textkey}이(가) 굶주리고 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_NOT_ALLIES">
+      <Text>{1_CivName:textkey}에 대한 [ICON_INFLUENCE] 우호도가 줄어들어 동맹이 끊어졌습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_NOT_FRIENDS">
+      <Text>{1_CivName:textkey}에 대한 [ICON_INFLUENCE] 우호도가 줄어들어 더 이상 우호 관계가 아닙니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_CITY_STATE_ALMOST_SM">
+      <Text>{1_CivName:textkey}에 대한 우호도를 잃고 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_DENOUNCED">
+      <Text>{1_PlayerName}이(가) {2_PlayerName}을(를) 공개적으로 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_DENOUNCED_S">
+      <Text>{1_PlayerName}이(가) {2_PlayerName}을(를) 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_DENOUNCED_US">
+      <Text>{1_PlayerName}이(가) 우리를 공개적으로 비난했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_DENOUNCED_US_S">
+      <Text>{1_PlayerName}에 의해 비난당했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_DOF">
+      <Text>{1_PlayerName}이(가) {2_PlayerName}와(과) 우호 관계임을 선언을 했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_DOF_S">
+      <Text>{1_PlayerName}와(과) {2_PlayerName}이(가) 우호 관계임을 선언을 했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT">
+      <Text>국고는 비었으며 턴당 0 이하의 [ICON_GOLD] 금이 생산되고 있습니다! 국가의 턴당 금 생산이 {1_Num}이(가) 되면 일부 유닛이 해체됩니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_INCOME_DEFICIT_S">
+      <Text>금을 잃고 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_BEST_RELATIONS_LOST_ALL">
+      <Text>{@1_NewCivName}은(는) 더 이상 {@2_MinorName}의 동맹이 아닙니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_BONUSES_CHANGED">
+      <Text>새로운 시대에 접어들었으므로 도시 국가로부터 받던 보너스가 증가했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_BONUSES_CHANGED_SM">
+      <Text>도시 국가 보너스가 변경되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_NEW_BEST_RELATIONS_ALL">
+      <Text>{1_NewCivName:textkey}이(가) {2_OldCivName:textkey}을(를) 대신해 {3_MinorName:textkey}의 동맹이 되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_NOW_ALLIES_ALL">
+      <Text>{2_MinorName:textkey}에 대한 {1_MajorCivName:textkey}의 [ICON_INFLUENCE] 우호도가 증가하여 이제 둘은 동맹이 되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_NOW_BEST_RELATIONS_ALL">
+      <Text>{1_NewCivName:textkey}이(가) {2_MinorName:textkey}의 동맹이 되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_NOW_FRIENDS_ALL">
+      <Text>{2_MinorName:textkey}에 대한 {1_MajorCivName:textkey}의 [ICON_INFLUENCE] 우호도가 증가하여 이제 둘은 우호 관계가 되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_WERE_ALLIES_NOW_FRIENDS_ALL">
+      <Text>{2_MinorName:textkey}에 대한 {1_MajorCivName:textkey}의 [ICON_INFLUENCE] 우호도가 감소하여 이제 둘은 동맹에서 우호 관계가 되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_MINOR_WERE_FRIENDS_ALL">
+      <Text>{2_MinorName:textkey}에 대한 {1_MajorCivName:textkey}의 [ICON_INFLUENCE] 우호도가 감소하여 이제 둘은 더 이상 우호 관계가 아닙니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_PLAYER_ERA">
+      <Text>{1_PlayerName}이(가) {2_EraString:textkey}에 접어들었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_QUEST_ENDED_KILL_CAMP">
+      <Text>{1_MinorName:textkey}이(가) 없애달라고 요청한 야만인 주둔지를 다른 세력이 파괴했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_QUEST_ENDED_KILL_CAMP_S">
+      <Text>{1_MinorName:textkey}은(는) 더 이상 도움이 필요하지 않음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_RA_FREE_TECH">
+      <Text>{1_CivName:textkey}와(과)의 연구 협정이 완료되어 기술력이 증가했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_S">
+      <Text>연구 협정 완료!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL">
+      <Text>현재 {1_CivName:textkey}와(과) 전쟁 중이므로 연구 협정이 파기되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_RA_FREE_TECH_WAR_CANCEL_S">
+      <Text>연구 협정 파기!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_BEST_RELATIONS_ALL">
+      <Text>{1_MinorName:textkey}에게 새로운 동맹이 생김!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_BEST_RELATIONS_LOST_ALL">
+      <Text>{1_MinorName:textkey}와(과) {2_NewCivName:textkey}이(가) 더 이상 동맹이 아님!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_NOW_ALLIES_ALL">
+      <Text>{1_MinorName:textkey}와(과) {2_NewCivName:textkey}이(가) 동맹이 됨!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_NOW_FRIENDS_ALL">
+      <Text>{1_MinorName:textkey}와(과) {2_NewCivName:textkey}이(가) 우호 관계가 됨!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_SMMRY_MINOR_WERE_FRIENDS_ALL">
+      <Text>{1_MinorName:textkey}와(과) {2_NewCivName:textkey}이(가) 더 이상 우호 관계가 아님!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_UNIT_DISBANDED">
+      <Text>제국 예산 적자와 국고 소진으로 인해 유닛이 해체되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_NTFN_UNIT_DISBANDED_S">
+      <Text>유닛이 해체되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PEACE_BLOCKED">
+      <Text>평화 협상 불가</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PEACE_BLOCKED_CSTATE_TT">
+      <Text>{1_CityStateName:textkey}의 동맹국과 전쟁을 벌이고 있으므로 평화 협정을 체결할 수 없습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PERMANENT_WAR">
+      <Text>영구 전쟁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PERMANENT_WAR_CSTATE_TT">
+      <Text>너무 많은 도시 국가를 공격하여 {1_CityStateName:textkey}이(가) 당신과 절대 평화을 맺지 않으려 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICIES_CULTURAL_VICTORY">
+      <Text>5개의 정책 계열을 완료하면 도시 중 하나에서 [COLOR_POSITIVE_TEXT]유토피아 프로젝트[ENDCOLOR]를 완성하여 [COLOR_POSITIVE_TEXT]문화 승리[ENDCOLOR]를 이룰 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_AESTHETICS">
+      <Text>미학</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_AESTHETICS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]미학[ENDCOLOR][NEWLINE]모든 도시 국가에 대한 [ICON_INFLUENCE] 우호도 최소치가 20이 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_ARISTOCRACY">
+      <Text>관료제</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_ARISTOCRACY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]관료제[ENDCOLOR][NEWLINE]불가사의를 건설할 때 [ICON_PRODUCTION] 생산력이 15만큼, 시민 10명마다 [ICON_HAPPINESS_1] 행복이 1만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_AUTOCRACY">
+      <Text>전제정치</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_AUTOCRACY_CAP">
+      <Text>전제정치</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_AUTOCRACY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]전제정치[ENDCOLOR]는 세계 정복을 꿈꾸는 군사 문명에 적합합니다.[NEWLINE][NEWLINE]전제정치를 채택하면 유닛 유지에 소모되는 [ICON_GOLD] 금이 33%만큼 감소하므로 군대 규모를 확장할 수 있습니다.[NEWLINE][NEWLINE]전제정치 계열의 모든 정책을 채택하면 모든 군사 유닛의 공격력이 30턴 동안 20%만큼 증가합니다.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]이 계열은 평등 또는 질서와 함께 사용할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_BLOCKED">
+      <Text>[COLOR_WARNING_TEXT]플레이어가 선택한 다른 계열의 정책 때문에 이 정책의 효과를 받을 수 없습니다.[ENDCOLOR][NEWLINE]전환하려면 여기를 클릭하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK">
+      <Text>[COLOR_WARNING_TEXT]이 계열은 지금 바로 사용할 수 없습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_CULTURE">
+      <Text>[COLOR_WARNING_TEXT]{1_Num}의 [ICON_CULTURE] 문화가 필요합니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_CANNOT_UNLOCK_ERA">
+      <Text>[COLOR_WARNING_TEXT]이 정책을 채택하려면 {1_EraString:textkey} 시대에 있어야 합니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE">
+      <Text>상업</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_CAP">
+      <Text>상업</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]상업[ENDCOLOR]은 해양 국가 및 [ICON_GOLD] 금을 모으는 데 집중하는 국가에 보너스를 제공합니다.[NEWLINE][NEWLINE]상업을 채택하면 [ICON_CAPITAL] 수도의 [ICON_GOLD] 금 생산이 25%만큼 증가합니다.[NEWLINE][NEWLINE]상업 계열의 모든 정책을 채택하면 전문가 한명당 [ICON_GOLD] 금을 1만큼 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_FREEDOM">
+      <Text>평등</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_FREEDOM_CAP">
+      <Text>평등</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_FREEDOM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]평등[ENDCOLOR]은 소규모 특화 국가에 적합합니다. [ICON_GREAT_PEOPLE] 위인과 전문가에 대한 보너스를 제공합니다.[NEWLINE][NEWLINE]평등을 채택하면 [ICON_GREAT_PEOPLE] 위인 출현율이 25%만큼 증가합니다.[NEWLINE][NEWLINE]평등 계열의 모든 정책을 채택하면 주요 시설의 기본 생산량이 100%만큼 증가하고 [ICON_GOLDEN_AGE] 황금기의 지속 시간이 50%만큼 늘어납니다.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]이 계열은 전제정치 또는 질서와 함께 사용할 수 없습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_HONOR">
+      <Text>명예</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_HONOR_CAP">
+      <Text>명예</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_HONOR_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]명예[ENDCOLOR]는 다양한 방법으로 군대의 효율성을 높여줍니다.[NEWLINE][NEWLINE]명예를 채택하면 야만인과 싸울 때 25%의 전투 보너스를 받으며 시야 범위 내에 야만인 야영지가 생길 경우 경고문이 바로 표시됩니다. 야만인 유닛을 처치할 때마다 [ICON_CULTURE] 문화를 획득합니다.[NEWLINE][NEWLINE]명예 계열의 모든 정책을 채택하면 적 유닛을 처치할 때마다 [ICON_GOLD] 금을 추가로 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY">
+      <Text>자유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_CAP">
+      <Text>자유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_LIBERTY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]자유[ENDCOLOR]는 빠른 확장을 원하는 문명에 적합합니다.[NEWLINE][NEWLINE]자유를 채택하면 모든 도시의 [ICON_CULTURE] 문화가 1만큼 증가합니다.[NEWLINE][NEWLINE]자유 계열의 모든 정책을 채택하면 원하는 위인 한 명이 [ICON_CAPITAL] 수도 근처에 출현합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_ORDER">
+      <Text>질서</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_ORDER_CAP">
+      <Text>질서</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_ORDER_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]질서[ENDCOLOR]는 도시의 수에 비례해 국가의 힘을 높여주므로 규모가 크고 확장을 중시하는 국가에 적합합니다.[NEWLINE][NEWLINE]질서를 채택하면 도시당 [ICON_HAPPINESS_1] 행복이 1만큼 증가합니다.[NEWLINE][NEWLINE]질서 계열의 모든 정책을 채택하면 각 도시의 [ICON_FOOD] 식량, [ICON_PRODUCTION] 생산, [ICON_RESEARCH] 과학, [ICON_GOLD] 금, [ICON_CULTURE] 문화가 1만큼 증가합니다.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]이 계열은 평등 또는 전제정치와 함께 사용할 수 없습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE">
+      <Text>후원</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_CAP">
+      <Text>후원</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]후원[ENDCOLOR]은 도시 국가와의 친밀도를 높여줍니다.[NEWLINE][NEWLINE]도시 국가와의 [ICON_INFLUENCE] 우호도가 25%만큼 느리게 감소합니다.[NEWLINE][NEWLINE]후원 계열의 모든 정책을 채택하면 다른 플레이어와 도시 국가 사이의 [ICON_INFLUENCE] 우호도가 33%만큼 빠르게 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_PIETY">
+      <Text>신앙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_CAP">
+      <Text>신앙</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]신앙[ENDCOLOR]은 국가의 [ICON_CULTURE] 문화를 높여줍니다.[NEWLINE][NEWLINE]신앙을 도입하면 [ICON_CULTURE] 문화와 관련된 건물을 건설하는 시간이 15%만큼 줄어듭니다.[NEWLINE][NEWLINE]신앙 계열의 모든 정책을 채택하면 다른 정책을 채택하는 데 필요한 [ICON_CULTURE] 문화가 10%만큼 감소합니다.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]이 사회 정책은 합리주의와 함께 사용할 수 없습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM">
+      <Text>합리주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_CAP">
+      <Text>합리주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]합리주의[ENDCOLOR]는 [ICON_RESEARCH] 과학을 활용하고 발전시키는 능력을 높여줍니다.[NEWLINE][NEWLINE]합리주의를 채택하면 연구 협정으로 얻게 되는 [ICON_RESEARCH] 과학이 50%만큼 증가합니다.[NEWLINE][NEWLINE]합리주의 계열의 모든 정책을 채택하면 건설한 [ICON_RESEARCH] 과학 건물 하나당 [ICON_GOLD] 금을 1만큼 받습니다.[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]이 계열은 신앙과 함께 사용할 수 없습니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION">
+      <Text>전통</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_CAP">
+      <Text>전통</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_TRADITION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]전통[ENDCOLOR]은 소규모 국가에 적합합니다.[NEWLINE][NEWLINE]전통을 채택하면 도시의 영토 확장 속도가 큰 폭으로 증가하며 [ICON_CAPITAL] 수도의 [ICON_CULTURE] 문화가 3만큼 증가합니다.[NEWLINE][NEWLINE]전통 계열의 모든 정책을 채택하면 도시당 [ICON_FOOD] 식량 생산량이 15%만큼 증가하고 [ICON_FOOD] 식량이 2만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_BRANCH_UNLOCK_SPEND">
+      <Text>[COLOR_POSITIVE_TEXT]이 계열을 선택할 수 있습니다! 여기를 클릭한 다음 {1_Num}의 [ICON_CULTURE] 문화를 사용하여 이 사회 정책 계열을 채택하십시오.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CANNOT_UNLOCK">
+      <Text>[COLOR_WARNING_TEXT]이 정책을 채택하려면 선행 정책을 먼저 획득해야 합니다.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CITIZENSHIP">
+      <Text>시민권</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CITIZENSHIP_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]시민권[ENDCOLOR][NEWLINE]타일 시설 건설 속도가 25%만큼 증가하며 [ICON_CAPITAL] 수도 근처에 노동자 한 명이 추가됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CIVIL_SOCIETY">
+      <Text>시민 사회</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CIVIL_SOCIETY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]시민 사회[ENDCOLOR][NEWLINE]전문가는 [ICON_FOOD] 식량을 절반만 소모합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE">
+      <Text>집단체제</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_COLLECTIVE_RULE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]집단체제[ENDCOLOR][NEWLINE][ICON_CAPITAL] 수도에 있는 [COLOR_POSITIVE_TEXT]개척자[ENDCOLOR]의 훈련 속도가 50% 증가하며 [ICON_CAPITAL] 수도 근처에 개척자 하나가 비용 없이 추가됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_COMMUNISM">
+      <Text>공산주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_COMMUNISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]공산주의[ENDCOLOR][NEWLINE] 도시당 [ICON_PRODUCTION] 생산이 2만큼 증가하고 건물을 건설할 때 필요한 [ICON_PRODUCTION] 생산이 10%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONSTITUTION">
+      <Text>헌법</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CONSTITUTION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]헌법[ENDCOLOR][NEWLINE] 각 세계 불가사의가 제공하는 [ICON_CULTURE] 문화가 2만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CULTURAL_DIPLOMACY">
+      <Text>문화 외교</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_CULTURAL_DIPLOMACY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]문화 외교[ENDCOLOR][NEWLINE]도시 국가에서 선물하는 자원의 양이 100%만큼 증가하고, 선물 받은 사치품 자원에서 발생하는 [ICON_HAPPINESS_1] 행복이 50%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_DEMOCRACY">
+      <Text>민주주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_DEMOCRACY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]민주주의[ENDCOLOR][NEWLINE]각 도시의 전문가가 생성하는 [ICON_HAPPINESS_4] 불행이 50%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_DISCIPLINE">
+      <Text>규율</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]규율[ENDCOLOR][NEWLINE]군사 유닛과 인접한 타일에 다른 군사 유닛이 있을 경우 [ICON_STRENGTH] 전투력이 10%만큼 증가합니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_EDUCATED_ELITE">
+      <Text>지식인</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_EDUCATED_ELITE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]지식인[ENDCOLOR][NEWLINE]때로는 동맹 도시 국가에서 [ICON_GREAT_PEOPLE] 위인을 선물하기도 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FASCISM">
+      <Text>파시즘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FASCISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]파시즘[ENDCOLOR][NEWLINE]국가에서 생산하는 전략 자원의 양이 100%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FREE_RELIGION">
+      <Text>종교 자유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]종교 자유[ENDCOLOR][NEWLINE] 각 기념비, 사원 및 수도원이 제공하는 [ICON_CULTURE] 문화가 1만큼 증가하며 정책 1개를 비용 없이 획득합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FREE_SPEECH">
+      <Text>언론 자유</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FREE_SPEECH_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]언론 자유[ENDCOLOR][NEWLINE]유닛 8개를 비용 없이 유지할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FREE_THOUGHT">
+      <Text>자유 사상</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_FREE_THOUGHT_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]자유 사상[ENDCOLOR][NEWLINE]교역소 하나당 [ICON_RESEARCH] 과학이 1만큼 증가하며 대학의 [ICON_RESEARCH] 과학 생성량이 17%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_HUMANISM">
+      <Text>인본주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]인본주의[ENDCOLOR][NEWLINE]모든 대학, 천문대 및 공립학교의 [ICON_HAPPINESS_1] 행복 생성량이 1만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_LANDED_ELITE">
+      <Text>대지주</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_LANDED_ELITE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]대지주[ENDCOLOR][NEWLINE][ICON_CAPITAL] 수도의 [ICON_FOOD] 성장력이 10%만큼, [ICON_HAPPINESS_1] 행복이 2만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_LEGALISM">
+      <Text>율법 정치</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_LEGALISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]율법 정치[ENDCOLOR][NEWLINE]처음 건설된 도시 4곳에서 문화 건물을 비용 없이 건설할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN">
+      <Text>천명</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]천명[ENDCOLOR][NEWLINE]턴마다 [ICON_CULTURE] 문화가 초과 [ICON_HAPPINESS_1] 행복의 50%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MERCANTILISM">
+      <Text>중상주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MERCANTILISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]중상주의[ENDCOLOR][NEWLINE]도시에 필요한 아이템을 구입하는 데 필요한 [ICON_GOLD] 금이 25%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY">
+      <Text>상선대</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]상선대[ENDCOLOR][NEWLINE]모든 해안 도시의 [ICON_PRODUCTION] 생산력이 3 올라갑니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MERITOCRACY">
+      <Text>능력주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MERITOCRACY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]능력주의[ENDCOLOR][NEWLINE][ICON_CAPITAL] 수도와 [ICON_CONNECTED] 연결된 도시의 [ICON_HAPPINESS_1] 행복이 1만큼 증가하며 점령되지 않은 도시의 [ICON_CITIZEN] 시민이 생성하는 [ICON_HAPPINESS_4] 불행이 5%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MILITARISM">
+      <Text>군국주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MILITARISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]군국주의[ENDCOLOR][NEWLINE]유닛에 필요한 [ICON_GOLD] 금이 33%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MILITARY_CASTE">
+      <Text>군사 계급</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MILITARY_CASTE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]군사 계급[ENDCOLOR][NEWLINE]군대가 주둔하는 도시 하나당 해당 국가의 [ICON_HAPPINESS_1] 행복이 1만큼, [ICON_CULTURE] 문화가 2만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MILITARY_TRADITION">
+      <Text>군사 혈통</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MILITARY_TRADITION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]군사 혈통[ENDCOLOR][NEWLINE]군사 유닛이 전투로 얻는 경험치가 50%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MONARCHY">
+      <Text>군주제</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_MONARCHY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]군주제[ENDCOLOR][NEWLINE][ICON_CAPITAL] 수도에 거주하는 [ICON_CITIZEN] 시민 2명당 [ICON_GOLD] 금 1이 증가하고 [ICON_HAPPINESS_4] 불행이 1 내려갑니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_NATIONALISM">
+      <Text>민족주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_NATIONALISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]민족주의[ENDCOLOR][NEWLINE]우호 지역에서 전투할 경우 공격력이 25%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION">
+      <Text>해상 혈통</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_NAVAL_TRADITION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]해상 혈통[ENDCOLOR][NEWLINE]해상 유닛의 [ICON_MOVES] 행동력과 시야가 1 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_OLIGARCHY">
+      <Text>과두제</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_OLIGARCHY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]과두제[ENDCOLOR][NEWLINE]주둔 유닛에 유지비가 소모되지 않으며 유닛이 주둔한 도시가 100%의 [ICON_RANGE_STRENGTH] 원거리 전투력 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION">
+      <Text>종교 체제</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]종교 체제[ENDCOLOR][NEWLINE]기념비, 사원 및 수도원 하나당 [ICON_HAPPINESS_1] 행복 생성량이 1만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PHILANTHROPY">
+      <Text>박애주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PHILANTHROPY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]박애주의[ENDCOLOR][NEWLINE]도시 국가에 [ICON_GOLD] 금을 선물할 때 얻는 [ICON_INFLUENCE] 우호도가 25%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PLANNED_ECONOMY">
+      <Text>계획 경제</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PLANNED_ECONOMY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]계획 경제[ENDCOLOR][NEWLINE]공장을 보유한 도시의 [ICON_RSEARCH] 과학 생성량이 25%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_POLICE_STATE">
+      <Text>경찰국가</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_POLICE_STATE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]경찰 국가[ENDCOLOR][NEWLINE]각 법원이 제공하는 [ICON_HAPPINESS_1] 행복이 3만큼 증가합니다. 법원 건설 시간이 반으로 줄어듭니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_POPULISM">
+      <Text>포퓰리즘</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_POPULISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]포퓰리즘[ENDCOLOR][NEWLINE]부상당한 유닛이 적에게 입히는 피해가 25%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY">
+      <Text>직업 군대</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]직업 군대[ENDCOLOR][NEWLINE]군사 유닛 업그레이드에 필요한 [ICON_GOLD] 금이 33%만큼 감소하고 각 방어용 건물(성벽, 성, 군수창고, 군사 기지)이 제공하는 [ICON_HAPPINESS_1] 행복이 1만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PROTECTIONISM">
+      <Text>보호무역주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_PROTECTIONISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]보호무역주의[ENDCOLOR][NEWLINE]사치품 1개당 [ICON_HAPPINESS_1] 행복이 1 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_REFORMATION">
+      <Text>종교 개혁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]종교 개혁[ENDCOLOR][NEWLINE]세계 불가사의를 건설한 모든 도시의 [ICON_CULTURE] 문화가 33%만큼 증가하며 바로 [ICON_GOLDEN_AGE] 황금기가 시작됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_REPRESENTATION">
+      <Text>대의제</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_REPRESENTATION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]대의제[ENDCOLOR][NEWLINE]추가 도시 건설하면 사회 정책 채택에 필요한 [ICON_CULTURE] 문화 요구량이 증가하는데, 대의제를 채택하면 이 증가 수치가 33%만큼 감소합니다. 또한 [ICON_GOLDEN_AGE] 황금기가 열립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_REPUBLIC">
+      <Text>공화국</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_REPUBLIC_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]공화국[ENDCOLOR][NEWLINE]모든 도시의 [ICON_PRODUCTION] 생산이 1만큼 증가하며 도시에서 건물을 건설할 때 5%의 [ICON_PRODUCTION] 생산 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SCHOLASTICISM">
+      <Text>스콜라 철학</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SCHOLASTICISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]스콜라 철학[ENDCOLOR][NEWLINE][COLOR_POSITIVE_TEXT]동맹[ENDCOLOR]인 도시 국가가 생성하는 [ICON_RESEARCH] 과학력의 25%에 해당하는 과학력을 보너스로 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION">
+      <Text>과학 혁명</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]과학 혁명[ENDCOLOR][NEWLINE]기술 2개를 지급합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SECULARISM">
+      <Text>세속주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SECULARISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]세속주의[ENDCOLOR][NEWLINE]전문가 1인당 [ICON_RESEARCH] 과학이 2 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SOCIALISM">
+      <Text>사회주의</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SOCIALISM_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]사회주의[ENDCOLOR][NEWLINE]건물 유지에 필요한 [ICON_GOLD] 금이 15%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SOVEREIGNTY">
+      <Text>국민주권</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_SOVEREIGNTY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]국민주권[ENDCOLOR][NEWLINE]국가가 [ICON_HAPPINESS_1] 행복한 상태이면 [ICON_RESEARCH] 과학력이 15%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_THEOCRACY">
+      <Text>신권 정치</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_THEOCRACY_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]신권 정치[ENDCOLOR][NEWLINE]사원이 있는 도시의 [ICON_GOLD] 금 생산량이 10%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_TOTAL_WAR">
+      <Text>총력전</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_TOTAL_WAR_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]총력전[ENDCOLOR][NEWLINE]군사 유닛을 생산할 때 [ICON_PRODUCTION] 생산력이 15%만큼 증가하고 새 군사 유닛은 경험치를 15만큼 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_TRADE_UNIONS">
+      <Text>노동조합</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]노동조합[ENDCOLOR][NEWLINE]도로 및 철도 유지에 필요한 [ICON_GOLD] 금이 33%만큼 감소합니다. 항만과 항구에서 생산하는 [ICON_GOLD] 금이 1만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_UNITED_FRONT">
+      <Text>통일 전선</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_UNITED_FRONT_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]통일 전선[ENDCOLOR][NEWLINE]플레이어가 군국주의 도시 국가의 적과 전쟁을 벌이면 해당 도시 국가가 유닛을 두 배 자주 제공합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_UNIVERSAL_SUFFRAGE">
+      <Text>보통선거제도</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_UNIVERSAL_SUFFRAGE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]보통선거제도[ENDCOLOR][NEWLINE]도시의 [ICON_STRENGTH] 전투력이 33%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_WARRIOR_CODE">
+      <Text>전사 규범</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]전사 규범[ENDCOLOR][NEWLINE]근접전 유닛을 생산할 때 15%의 [ICON_PRODUCTION] 생산 보너스를 받으며 [ICON_CAPITAL] 수도 주위에서 위대한 장군이 출현합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_ALLIED_WITH">
+      <Text>동맹:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_DECLARE_WAR">
+      <Text>선전포고</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_GIFT_GOLD_TT">
+      <Text>[ICON_GOLD] 금을 사용하여 도시 국가에 대한 [ICON_INFLUENCE] 우호도를 강화할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_GIFT_UNIT">
+      <Text>유닛 선물하기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_GIFT_UNIT_TT">
+      <Text>위치에 관계없이 지도에 있는 유닛을 이 도시 국가에 선물할 수 있습니다(유닛은 사라지며 3턴 후에 도착함). 처음 몇 차례 동안은 이를 통해 약간의 [ICON_INFLUENCE] 우호도를 얻을 수 있습니다. 비전투 유닛은 선물할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_GOLD_STATUS_TT">
+      <Text>우호 관계가 되려면 [ICON_INFLUENCE] 우호도 {1_Num}이(가) 필요하고, 동맹이 되려면 우호도 {2_Num}이(가) 필요합니다. 현재 보유한 [ICON_INFLUENCE] 우호도는 {3_Num} 입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_GOLD_TT">
+      <Text>시간이 지나면 [ICON_GOLD] 금을 선물해서 얻은 [ICON_INFLUENCE] 우호도가 낮아집니다. 한 번에 금을 많이 줄수록 더 큰 우호도를 얻을 수 있습니다. 즉, 큰 선물이 더욱 효과적입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_MAKE_PEACE">
+      <Text>평화 협상</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_PERSONALITY">
+      <Text>성격:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_PLEDGE_TO_PROTECT">
+      <Text>보호 약속</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_PLEDGE_TT">
+      <Text>도시 국가의 보호하기로 약속하면 다른 주요 세력들도 플레이어가 해당 도시 국가를 보호한다는 것을 알게 됩니다. 보호 약속을 하면 다른 세력들은 플레이어와의 갈등을 피하기 위해 공격을 단념할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_PROVIDE_GOLD_GIFT">
+      <Text>[ICON_GOLD] 금을 선물함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_RESOURCES">
+      <Text>주변 자원:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_STATUS">
+      <Text>상태:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_STOP_UNIT_SPAWNING">
+      <Text>유닛 생성 중지</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_STOP_UNITS_TT">
+      <Text>여기를 클릭하면 군사 도시 국가가 유닛 선물을 중단하거나 재개합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_POP_CSTATE_TRAIT">
+      <Text>특성:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROCESS_RESEARCH_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]연구[ENDCOLOR]는 이 도시 [ICON_PRODUCTION] 생산력의 25%를 [ICON_RESEARCH] 과학력으로 전환합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROCESS_WEALTH_HELP">
+      <Text>[COLOR_POSITIVE_TEXT]부[ENDCOLOR]는 이 도시 [ICON_PRODUCTION] 생산력의 25%를 [ICON_GOLD] 금으로 전환합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PRODUCTION_NO_PRODUCTION">
+      <Text>생산 없음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURE">
+      <Text>세계에서 가장 진보한 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_CULTURE_TT">
+      <Text>채택한 사회 정책의 수에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_FOOD">
+      <Text>세계에서 가장 배부른 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_FOOD_TT">
+      <Text>평균 [ICON_FOOD] 식량 보유량에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_GOLD">
+      <Text>반짝이는 물건을 가장 좋아하는 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_GOLD_TT">
+      <Text>[ICON_GOLD] 금 보유량에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_HAPPINESS">
+      <Text>가장 많이 웃는 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_HAPPINESS_TT">
+      <Text>[ICON_HAPPINESS_1] 행복에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_NUMBERING">
+      <Text>{1_number}.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_POWER">
+      <Text>가장 힘이 센 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_POWER_TT">
+      <Text>군사력에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_PRODUCTION">
+      <Text>세계에서 가장 바쁜 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_PRODUCTION_TT">
+      <Text>도시 총 [ICON_PRODUCTION] 생산에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_SCIENCE">
+      <Text>가장 자유로운 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_SCIENCE_TT">
+      <Text>보유한 기술 개수에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_TITLE">
+      <Text>{1_Name:textkey}이(가) 다음과 같은 위업을 달성:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_WONDERS">
+      <Text>세계에서 가장 멋진 사람들</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROGRESS_SCREEN_WONDERS_TT">
+      <Text>불가사의 건설 개수에 따른 순위입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROJECT_APOLLO_PROGRAM_HELP">
+      <Text>우주 경쟁이 시작되어 모든 도시에서 우주선 부품을 만들 수 있게 됩니다. 우주선이 완성되면 [COLOR_POSITIVE_TEXT]과학 승리[ENDCOLOR]를 거두게 됩니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROJECT_MANHATTAN_PROJECT_HELP">
+      <Text>도시에서 원자폭탄과 핵미사일을 만들 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_PROJECT_UTOPIA_PROJECT_HELP">
+      <Text>유토피아 프로젝트를 완성하면 [COLOR_POSITIVE_TEXT]문화 승리[ENDCOLOR]를 거둘 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_SETTLER_BASE">
+      <Text>이곳에 도시를 건설하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_SETTLER_FOOD">
+      <Text>근처에 풍부한 [ICON_FOOD] 식량이 있는 장소입니다. 이곳에 건설된 도시는 [ICON_CITIZEN] 시민의 수를 늘려주어 빠르게 성장하게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_SETTLER_GOLD">
+      <Text>이곳은 도시의 [ICON_GOLD] 금 생산을 늘려 국고를 채워줍니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_SETTLER_LUXURIES">
+      <Text>이곳은 사치품과 연결되어 있어, 개발하면 국가의 [ICON_HAPPINESS_1] 행복이 증가합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_SETTLER_PRODUCTION">
+      <Text>이곳은 도시의 [ICON_PRODUCTION] 생산력을 크게 늘려 새로운 유닛이나 건물을 더 빨리 생산 또는 건설할 수 있게 해줍니다! </Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_SETTLER_STRATEGIC">
+      <Text>전략 자원과 편리하게 연결되어 있는 곳으로 이곳을 개발하면 더욱 강력한 군사 유닛을 훈련시킬 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_WORKER">
+      <Text>여기에는 [COLOR_POSITIVE_TEXT]{@1_WorkerActionString}[ENDCOLOR]을(를) 추천합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_WORKER_LUXURY">
+      <Text>이 타일에서 생산되는 [COLOR_POSITIVE_TEXT]사치품[ENDCOLOR]을 교역망에 연결하여 국가 [ICON_HAPPINESS_1] 행복을 높일 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RECOMMEND_WORKER_STRATEGIC">
+      <Text>이 타일에서 생산되는 [COLOR_POSITIVE_TEXT]전략 자원[ENDCOLOR]을 교역망에 연결하여 고급 유닛을 생산할 수 있게 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_ALUMINUM_HELP">
+      <Text>강력한 게임 후반 유닛이 사용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_COAL_HELP">
+      <Text>공장 및 철갑함에서 사용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_HORSES_HELP">
+      <Text>기마 유닛이 사용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_IRON_HELP">
+      <Text>강력한 게임 초반 유닛이 사용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_OIL_HELP">
+      <Text>강력한 게임 후반 유닛이 사용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_TOOLTIP_IMPROVED">
+      <Text>개발 시:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_TOOLTIP_IMPROVED_WORKED">
+      <Text>이 타일에서 시민 작업 시:</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCE_URANIUM_HELP">
+      <Text>핵미사일 및 원자력 발전소에서 사용합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RETIRE">
+      <Text>퇴장</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SELL_BUILDING_INFO">
+      <Text>정말 이 건물을 판매하시겠습니까? 판매 시 {1_Num} [ICON_GOLD]금을 획득하며 유지비 {2_Num} [ICON_GOLD]금을 절약할 수 있습니다. (참고: 턴당 건물 1개만 판매 가능)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SOCIAL_POLICIES_SCREEN_TITLE">
+      <Text>사회 정책</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SOCIAL_POLICY_DIRECTIONS">
+      <Text>사회 정책을 통해 문명을 다양한 방향으로 인도할 수 있습니다. 자유의 수호자가 되시겠습니까, 아니면 세계가 두려워하는 폭군이 되시겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRADE_ROUTE_INCOME_INFO">
+      <Text>교역로 하나당 기본 [ICON_GOLD] 금 {1_Num}[NEWLINE] [ICON_CITIZEN] 시민 1명당 [ICON_GOLD] 금 {2_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD">
+      <Text>야만인 주둔지 및 도시 약탈을 통해 획득하는 [ICON_GOLD] 금이 3배로 증가합니다. 승선한 유닛이 방어를 할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_AMPHIB_WARLORD_SHORT">
+      <Text>수로의 지배자</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ART_OF_WAR">
+      <Text>위대한 장군 전투 보너스가 15%만큼 증가하고 위한 장군의 출현율이 50%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ART_OF_WAR_SHORT">
+      <Text>병법</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER">
+      <Text>[ICON_CAPITAL] 수도에 이미 지어진 건물을 건설할 때 해당 건물의 [ICON_PRODUCTION] 생산력이 25%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER_SHORT">
+      <Text>로마의 영광</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CITY_STATE_BONUSES">
+      <Text>우호적인 도시 국가로부터 얻는 [ICON_FOOD] 식량과 [ICON_CULTURE] 문화가 50%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CITY_STATE_BONUSES_SHORT">
+      <Text>군신은 부자와 같다</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CITY_STATE_FRIENDSHIP">
+      <Text>도시 국가 [ICON_INFLUENCE] 우호도의 감소 속도가 반으로 줄고, 회복 속도가 2배가 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CITY_STATE_FRIENDSHIP_SHORT">
+      <Text>그리스 동맹</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS">
+      <Text>주둔지에 주둔한 야만인을 격파하면 50%의 확률로 [ICON_GOLD] 금 25를 획득하고 야만인이 아군으로 합류합니다. 지상 유닛의 유지비가 25%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT">
+      <Text>튜턴족의 분노</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS">
+      <Text>50%의 확률로 야만인 해상 유닛이 아군이 되며 [ICON_GOLD] 금 25를 획득합니다. 해상 유닛의 유지비가 1/3로 줄어듭니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT">
+      <Text>바르바리 해적</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS">
+      <Text>적 유닛을 처치할 때마다 [ICON_CULTURE] 문화가 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_CULTURE_FROM_KILLS_SHORT">
+      <Text>포로 공양</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
+      <Text>증기기관을 발견하기 전까지 턴마다 도시에서 발생하는 [ICON_CULTURE] 문화가 2만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT">
+      <Text>절대왕정</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ENHANCED_GOLDEN_AGES">
+      <Text>[ICON_GOLDEN_AGE] 황금기 지속 시간이 50%만큼 증가합니다. 황금기에 유닛의 [ICON_MOVES] 행동력이 1만큼 증가하고 10%의 [ICON_STRENGTH] 전투력 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_ENHANCED_GOLDEN_AGES_SHORT">
+      <Text>아케메네스의 유산</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED">
+      <Text>체력이 떨어진 유닛도 체력이 온전한 유닛처럼 싸웁니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED_SHORT">
+      <Text>무사도</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST">
+      <Text>유닛이 우호 지역의 숲과 정글을 도로처럼 빠르게 이동합니다. 바퀴를 연구하면 이러한 타일로 교역로를 구축할 수도 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST_SHORT">
+      <Text>위대한 출정</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD">
+      <Text>[ICON_CONNECTED] 교역로 하나당 [ICON_GOLD] 금이 1씩 증가하고 석유 자원 획득량이 2배로 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_LAND_TRADE_GOLD_SHORT">
+      <Text>대상단</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT">
+      <Text>모든 해상 유닛의 [ICON_MOVES] 행동력이 2만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_OCEAN_MOVEMENT_SHORT">
+      <Text>해가 지지 않는 나라</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_POPULATION_GROWTH">
+      <Text>도시 수로 인해 생성되는 [ICON_HAPPINESS_4] 불행이 2배로 증가하지만 [ICON_CITIZEN] 시민 수로 인해 생성되는 [ICON_HAPPINESS_4] 불행은 반으로 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_POPULATION_GROWTH_SHORT">
+      <Text>인구 성장</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_RIVER_EXPANSION">
+      <Text>모든 군사 유닛의 시야가 1만큼 증가하고 타일 구입 비용이 50%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_RIVER_EXPANSION_SHORT">
+      <Text>천명</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES">
+      <Text>전략 자원이 [ICON_PRODUCTION] 생산력을 1만큼 추가 제공하며 말, 철, 우라늄 자원 획득량이 2배로 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT">
+      <Text>시베리아의 풍요</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_WONDER_BUILDER">
+      <Text>불가사의 건설 시 20%의 [ICON_PRODUCTION] 생산력 보너스를 받습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_WONDER_BUILDER_SHORT">
+      <Text>불가사의 건축가</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WAR">
+      <Text>전쟁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WAR_CAPS">
+      <Text>전쟁</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WAR_CSTATE_TT">
+      <Text>{1_CityStateName:textkey}와(과) 전쟁 중입니다. 해당 도시 국가가 아군과 전쟁 중인 다른 플레이어의 동맹이 아닐 경우, 언제든지 평화 협상을 할 수 있습니다. 전쟁 중에는 [ICON_INFLUENCE] 우호도가 -60으로 고정됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WAR_DECLARED">
+      <Text>전쟁이 선포되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_ANGKOR_WAT_HELP">
+      <Text>각 도시가 새 타일을 확보하는 데 필요한 [ICON_CULTURE] 문화와 금이 25%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_BIG_BEN_HELP">
+      <Text>모든 도시에서 구입에 소모되는 [ICON_GOLD] 금이 15%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_BRANDENBURG_GATE_HELP">
+      <Text>불가사의를 건설한 도시 근처에 위대한 장군이 출현하고 해당 도시의 모든 유닛의 경험치가 15만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_CHICHEN_ITZA_HELP">
+      <Text>타일의 시설 건설 속도가 25%만큼 증가하며 일꾼 두 명이 도시 근처에 출현합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_COLOSSUS_HELP">
+      <Text>해당 도시가 물 타일에 시민을 배치하여 얻는 [ICON_GOLD] 금이 1만큼 증가합니다.[NEWLINE][NEWLINE]반드시 해안에 도시를 지어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_CRISTO_REDENTOR_HELP">
+      <Text>새 정책 도입에 필요한 [ICON_CULTURE] 문화가 10%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_EIFFEL_TOWER_HELP">
+      <Text>에펠탑은 [ICON_HAPPINESS_1] 행복을 5만큼 늘려주며 채택한 정책 2개마다 [ICON_HAPPINESS_1] 행복을 1만큼 추가로 제공합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_FORBIDDEN_PALACE_HELP">
+      <Text>점령되지 않은 도시의 시민 수로 인해 생성되는 [ICON_HAPPINESS_4] 불행이 10%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_GREAT_LIBRARY_HELP">
+      <Text>기술 1가지를 비용 없이 획득할 수 있습니다. 불가사의를 건설한 도시는 비용 없이 도서관을 건설할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_GREAT_LIGHTHOUSE_HELP">
+      <Text>모든 해상 군사 유닛의 [ICON_MOVES]  행동력이 1, 시야가 1만큼 증가합니다. 불가사의를 건설한 도시는 비용 없이 등대를 건설할 수 있습니다.[NEWLINE][NEWLINE]해안 도시에만 건설할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_GREAT_WALL_HELP">
+      <Text>플레이어의 영토 안에 있는 적군의 지상 유닛은 무조건 타일당 [ICON_MOVES] 행동력을 1만큼 추가로 소모합니다. 불가사의를 건설한 도시는 비용 없이 성벽을 건설할 수 있습니다. 다이너마이트를 연구하면 만리장성은 더 이상 필요가 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_HAGIA_SOPHIA_HELP">
+      <Text>모든 도시에서 [ICON_GREAT_PEOPLE] 위인 출현 속도가 25%만큼 증가합니다. 원하는 위인 1명이 [ICON_CAPITAL] 수도 근처에 출현합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_HANGING_GARDEN_HELP">
+      <Text>모든 도시의 [ICON_CITIZEN] 인구가 1 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_HIMEJI_CASTLE_HELP">
+      <Text>우호 지역에서 싸우는 유닛의 [ICON_STRENGTH] 전투력이 15%만큼 증가합니다. 불가사의를 건설한 도시는 비용 없이 성을 건설할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_KREMLIN_HELP">
+      <Text>모든 도시의 방어 건물 효과가 25%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_LOUVRE_HELP">
+      <Text>위대한 예술가 두 명이 불가사의를 건설한 도시 근처에 출현합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_MACHU_PICHU_HELP">
+      <Text>[ICON_CONNECTED] 교역로에서 [ICON_GOLD] 금을 25%만큼 추가로 획득합니다.[NEWLINE][NEWLINE]도시가 자신의 영토에 있는 산으로부터 2타일 내에 있어야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_ORACLE_HELP">
+      <Text>사회 정책 1가지를 비용 없이 획득할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_PENTAGON_HELP">
+      <Text>군사 유닛 업그레이드에 필요한 [ICON_GOLD] 금이 33%만큼 감소합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP">
+      <Text>해당 불가사의가 건설된 도시 근처에 위대한 과학자가 출현합니다. 연구 협정으로 생성되는 [ICON_RESEARCH] 과학력이 50%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_PYRAMIDS_HELP">
+      <Text>제국이 [ICON_GOLDEN_AGE] 황금기를 맞이합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SISTINE_CHAPEL_HELP">
+      <Text>모든 도시의 [ICON_CULTURE] 문화가 25%만큼 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_STATUE_OF_LIBERTY_HELP">
+      <Text>모든 도시의 전문가들의 [ICON_PRODUCTION] 생산이 1 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_SYDNEY_OPERA_HOUSE_HELP">
+      <Text>비용을 지불하지 않고 사회 정책 한 가지를 채택할 수 있으며 도시의 [ICON_CULTURE] 문화가 50%만큼 증가합니다. 해안 도시에만 건설할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_TAJ_MAHAL_HELP">
+      <Text>[ICON_GOLDEN_AGE] 황금기의 지속 시간이 50% 증가합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WONDER_UNITED_NATIONS_HELP">
+      <Text>외교 승리를 위한 투표가 시작됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_DEBUG_HELP">
+      <Text>테스트용입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_DUEL_HELP">
+      <Text>플레이어 2인, 도시 국가 4개가 등장합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_HUGE_HELP">
+      <Text>플레이어 12인, 도시 국가 24개가 등장합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_LARGE_HELP">
+      <Text>플레이어 10인, 도시 국가 20개가 등장합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_SMALL_HELP">
+      <Text>플레이어 6인, 도시 국가 12개가 등장합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_STANDARD_HELP">
+      <Text>플레이어 8인, 도시 국가 16개가 등장합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_WORLD_TINY_HELP">
+      <Text>플레이어 4인, 도시 국가 8개가 등장합니다.</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

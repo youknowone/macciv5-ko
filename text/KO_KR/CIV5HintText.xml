@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_CIV5_HINT_13">
+      <Text>문명이 공격 당했을 때 우수한 도로망은 굉장히 유용합니다. 예를 들면 적절한 상황에서 행동력이 2남은 원거리 유닛이 도로 위에 있다면 한 번의 차례에 이동, 공격, 후퇴(강력한 아군 유닛 뒤로)할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_14">
+      <Text>보통의 위력을 가진 모든 종류의 유닛 3개만 있으면 도시 외곽에 방어 유닛이 있지 않는 한 도시의 위력에 상관없이 거의 모든 도시를 점령할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_2">
+      <Text>사원과 극장 그리고 다른 문화적 건물을 건설하면 고등 공민학을 사용할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_3">
+      <Text>일단 문명의 경계 안에 빈칸이 있으면 앞으로도 계속해서 해당 문명의 경계 안에 있게 될 것입니다. 문명으로부터 이 빈칸의 제어권을 얻어낼 수 있는 유일한 방법은 해당 칸을 제어하고 있는 도시를 파괴하거나 점령하는 것뿐입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_6">
+      <Text>정찰병은 다른 초기 유닛보다 한 칸 더 멀리 볼 수 있기 때문에 경계병 역할을 훌륭히 수행해낼 수 있습니다. 세계를 탐험하기 위해 정찰병을 내보내는 것 외 추가로 언덕에 배치해 제국 주변을 감시하는 방법도 고려해보십시오. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_7">
+      <Text>총 가지고 싸우는 곳에 칼만 들고 나가지 마십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HINT_8">
+      <Text>제국의 행복에 주의를 기울이십시오. 만약 제국이 불행하다면 새로운 행복의 근원을 찾을 때까지 도시는 성장을 멈출 것입니다.</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

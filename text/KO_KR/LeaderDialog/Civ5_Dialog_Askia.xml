@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_3">
+      <Text>그리하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_4">
+      <Text>동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_5">
+      <Text>아, 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_6">
+      <Text>그래야 한다면.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_7">
+      <Text>매우 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_1">
+      <Text>반드시 끔찍한 고통을 겪을 것입니다. 두고 보시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_2">
+      <Text>어리석군. 그대는 지금 백성을 불과 파괴로 몰아넣은 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_3">
+      <Text>비열한 자 같으니! 내 반드시 대가를 치르게 하리라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_1">
+      <Text>사악하기 그지없군! 하늘과 땅이 네 추악함에 치를 떨지니, 반드시 사라져야 할 존재로구나!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_2">
+      <Text>너와 미개한 너희 국민에 저주가 내리기를. 정의의 불꽃으로 너희를 이 땅에서 박멸해 주마.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_3">
+      <Text>뻔뻔스러운 야만인 같으니. 살려둬서는 안 되겠군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_1">
+      <Text>또 하나의 위대한 문명이 미개인들에게 무너지는구나. 밤이 찾아오니 빛은 사라지는도다...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_2">
+      <Text>증오와 분노의 불길이 우리를 삼키는군. 이 생에서의 승리를 즐기거라. 다음 생에서 반드시 막대한 대가를 치러야 할 것이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_ANGRY">
+      <Text>우리가 원하는 걸 내놓지 않으면 정의의 불꽃이 그대들을 집어삼켜 파멸로 이끌 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_HAPPY">
+      <Text>이 땅을 더럽히는 버러지와 이교도를 상대하는 데 있어, 송가이에는 그대들의 도움이 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_NEUTRAL">
+      <Text>우리 요구를 수락하거나 분노를 맛보도록 하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_1">
+      <Text>싫습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_2">
+      <Text>안 될 말입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_3">
+      <Text>거부하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_4">
+      <Text>어림도 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_5">
+      <Text>그렇게는 못 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_6">
+      <Text>진심으로 하는 말은 아닐 테지!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_7">
+      <Text>내가 잘못 들은 것인가?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_1">
+      <Text>안녕하십니까. 나는 송가이의 아스키아입니다. 내 비록 공정함을 추구합니다만 우리를 배반하는 자들은 남김없이 파괴될 것입니다. 과거에 다른 이들이 저질렀던 실수를 반복하지 않기를 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_2">
+      <Text>그대에게 신의 축복이 있기를. 나는 송가이의 아스키아입니다. 나는 평화를 제일로 생각하오만 필요하다면 기꺼이 싸울 것입니다. 부디 그런 일이 일어나지 않도록 해주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_3">
+      <Text>반갑습니다. 나는 송가이의 왕, 아스키아입니다. 우리는 다른 이들과 지적인 교류를 추구하는 평화로운 민족입니다. 허나 필요하다면 언제든지 스스로를 지키기 위해 떨쳐 일어날 것입니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_4">
+      <Text>안녕하십니까. 나는 송가이의 아스키아입니다. 우리는 모든 이들과의 평화를 추구합니다. 그러니 문제를 일으킬 생각이 있다면 다른 곳에서 해주길 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_1">
+      <Text>좋은 하루 보내십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_2">
+      <Text>잘 지내십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_3">
+      <Text>잘가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_4">
+      <Text>다시 만날 그때까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_5">
+      <Text>그만 가보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_6">
+      <Text>볼 일은 끝난 듯하군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_7">
+      <Text>여기서 볼 일은 끝났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_1">
+      <Text>환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_2">
+      <Text>안녕하십니까.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_3">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_4">
+      <Text>좋은 날이군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_5">
+      <Text>아, 그대로군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_6">
+      <Text>어쩐 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_7">
+      <Text>원하는 것이 무엇입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_1">
+      <Text>말씀하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_2">
+      <Text>말해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_3">
+      <Text>듣고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_4">
+      <Text>무엇입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_5">
+      <Text>무슨 말을 하고자 합니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_6">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_7">
+      <Text>계속 말씀하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_LOSEWAR_1">
+      <Text>이 무의미한 전쟁을 끝낸 데 감사드립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_1">
+      <Text>화나게 하지 마십시오. 그대에게도 이로울 것이 없으니. 좀 더 나은 제안을 하든지, 아니면 사라지십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_2">
+      <Text>맘에 안 드는 제안이군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_3">
+      <Text>좀 더 써보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_1">
+      <Text>받아들일 수 없습니다. 좀 더 나은 제안은 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_2">
+      <Text>그게 진정 최선입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_3">
+      <Text>대충 그럴 듯하긴 합니다만...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>우릴 속일 요량이라면 목을 내놓고 해야 할 것입니다. 좀 더 나은 제안을 해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>좀 더 좋은 제안은 할 수 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그다지 맘에 안 드는 제안이군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>거의 근접하긴 했습니다만…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_ANGRY">
+      <Text>우릴 바보로 여기는 것입니까? 그 오만함은 죽음으로 다스려야 할 터... 기회가 있을 때 썩 꺼지십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_HAPPY">
+      <Text>그 조건에는 동의할 수 없습니다. 송가이의 백성에게 너무나 불공평하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_NEUTRAL">
+      <Text>받아들일 수 없는 제안이로군. 우리를 모욕하려는 것입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_ANGRY">
+      <Text>당신의 부족한 부분을 교역 능력이 채워주는군요. 그나마 다행입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_HAPPY">
+      <Text>공평한 것 같군요. 동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_NEUTRAL">
+      <Text>만족할만한 조건이군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_ANGRY">
+      <Text>좀 더 내놓으십시오. 그래야 우리 군대를 키워서 경멸스러운 그대의 문명을 이 세상에서 쓸어버릴 수 있을 테니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_HAPPY">
+      <Text>이 거래를 한번 검토해 보겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_NEUTRAL">
+      <Text>이건 공평한 거래입니다. 받아들이는 게 좋을 겁니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_ANGRY">
+      <Text>멍청한 짐승 같으니! 무례한 너희를 당장 불구덩이에 던져 넣지 않음을 다행으로 알라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_HAPPY">
+      <Text>너무 압박을 가하지 않는 게 좋을 것입니다. 우리 우정이 무한한 것은 아니니까요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_NEUTRAL">
+      <Text>감히 불경스럽게도 나를 위협하는 것인가?! 미친 것이 틀림없군!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_ANGRY">
+      <Text>좋습니다. 원하는 만큼 가지시길. 하지만 반드시 언젠가 이 대가를 치르게 해줄 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_HAPPY">
+      <Text>우리의 변함없는 친구와 동맹에 도움을 주게 됨을 기쁘게 생각합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_NEUTRAL">
+      <Text>그대의 요구를 수용할 수밖에 없겠군. 하지만 반드시 심판을 받게 될 것이오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_1">
+      <Text>이 모욕의 몇천 배에 달하는 대가를 치를 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_2">
+      <Text>아주 위험한 장난질을 치시는군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_3">
+      <Text>좋습니다. 하지만 다음엔 결코 이렇게 관대하진 않을 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_4">
+      <Text>실망스럽군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_5">
+      <Text>정말 실망스럽습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_6">
+      <Text>진심입니까? 이토록 생각 없이 내린 결정을 후회할 시간조차 없게 될 것이오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_7">
+      <Text>참으로 아둔하군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_ASKIA_WINWAR_1">
+      <Text>그대들이 아직 살아남은 것은 우리가 자비를 베풀었기 때문입니다. 두번 다시 우리 인내심을 시험하지 마시오!</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

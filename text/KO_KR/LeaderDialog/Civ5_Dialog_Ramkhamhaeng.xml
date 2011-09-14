@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_4">
+      <Text>그렇게 합시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_5">
+      <Text>오 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_6">
+      <Text>그렇게 하도록 하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_AGREE_SHORT_7">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_1">
+      <Text>당신이 그렇게 나올 줄 알고 있었습니다. 그러나 우리가 그렇게 만만하지는 않을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_2">
+      <Text>감히! 당신의 피로 이 치욕을 씻어낼 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_ATTACKED_3">
+      <Text>상관없습니다. 우린 당신을 없앨 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_1">
+      <Text>더는 우리를 모욕하지 못할 것입니다. 전쟁을 준비하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_2">
+      <Text>당신의 그 터무니없고 모욕적인 행동이 내게 선택의 여지를 주지 않는군요. 전쟁을 준비하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DECLAREWAR_3">
+      <Text>수치스런 인간쓰레기! 당신의 그 오만한 콧대를 눌러 드리겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_1">
+      <Text>명예를 빼고는 모든 게 끝났습니다. 이제 내가 해야 할 일은 오직 한 가지밖에 없습니다. 안녕히 계십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_2">
+      <Text>결국, 날 이겼군요. 이제 내가 해야 할 일은 오직 한 가지밖에 없습니다. 안녕히!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEFEATED_3">
+      <Text>승리를 축하합니다. 이제 내가 해야 할 명예로운 일은 오직 한 가지밖에 없습니다. 그럼 이만!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_ANGRY">
+      <Text>이것이 나의 요구사항입니다. 받아들이던가 아니면 목을 잃을 것이오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_HAPPY">
+      <Text>친구여. 당신의 도움이 필요합니다. 도와주시겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DEMANDTRIBUTE_NEUTRAL">
+      <Text>살아남고 싶다면 내 요구조건에 동의하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_1">
+      <Text>안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_2">
+      <Text>물론 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_3">
+      <Text>거절하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_4">
+      <Text>당연히 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_5">
+      <Text>용납할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_6">
+      <Text>농담하지 마십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_DISAGREE_SHORT_7">
+      <Text>뭐라고 하셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_1">
+      <Text>시암에 오신 걸 환영합니다. 난 람캄행이라고 합니다. 이곳에 와줘서 영광입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_2">
+      <Text>당신을 알게 되어 영광입니다. 난 시암의 람캄행이라고 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_FIRSTGREETING_3">
+      <Text>안녕하십니까. 난 시암의 왕 람캄행이라고 합니다. 이 초라한 나라를 방문해 주시니 영광입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_1">
+      <Text>잘 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_2">
+      <Text>그럼 이만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_3">
+      <Text>안녕히 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_4">
+      <Text>다음에 다시 만나기를.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_5">
+      <Text>이제 그만 가주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_6">
+      <Text>그게 답니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GOODBYE_7">
+      <Text>우린 볼일을 다 봤습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_1">
+      <Text>환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_2">
+      <Text>안녕하십니까.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_3">
+      <Text>인사드립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_4">
+      <Text>처음 뵙겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_5">
+      <Text>오 당신이었군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_6">
+      <Text>그럼?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_GREETING_7">
+      <Text>원하시는 게 무엇입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_1">
+      <Text>얘기하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_2">
+      <Text>계속하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_3">
+      <Text>듣고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_4">
+      <Text>네?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_5">
+      <Text>뭐라고 하셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_6">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LETSHEARIT_7">
+      <Text>계속 얘기하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_LOSEWAR_1">
+      <Text>현재로선 당신의 승리입니다만 복수 해주도록 하겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_1">
+      <Text>기대했던 바와 달리 당신의 제안은 불공평하고 명예스럽지 못합니다. 더 나은 제안을 하던가 아니면 사라져 주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_2">
+      <Text>그건 충분하지 않습니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_ANGRY_3">
+      <Text>그거론 어림도 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_1">
+      <Text>날 개인적으로 모욕하려 한 것은 아닐 거라 생각됩니다만 당신의 제안은 우리 국민에게 불공평합니다. 좀 더 나은 제안을 하지 않겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_2">
+      <Text>그게 당신의 최선책입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_HAPPY_3">
+      <Text>거의 근사치까지 왔습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>당신의 제안은 지금 상태로는 불공평하며 받아들인다면 내 체면을 잃게 될 것입니다. 더 나은 제안을 해주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 나은 제안을 할 수는 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그거론 충분하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>거의…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_ANGRY">
+      <Text>명예롭지 못한 사람과는 거래할 수 없습니다. 이제 눈앞에서 사라져 주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_HAPPY">
+      <Text>결례를 범하려 하지는 않았다는 걸 알겠지만, 당신의 조건을 받아들일 수는 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_NO_NEUTRAL">
+      <Text>시암 국민에게 당신의 제안은 모욕입니다. 거부합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_ANGRY">
+      <Text>오 좋습니다. 조건을 받아들이겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_HAPPY">
+      <Text>당신에 제안에 감사 드립니다. 친구여.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADE_YES_NEUTRAL">
+      <Text>공정한 협정은 양쪽 모두에게 명예스러운 일입니다. 동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_ANGRY">
+      <Text>여기 내 조건이 있습니다. 받아들이길 권합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_HAPPY">
+      <Text>당신이 이 협정을 받아들인다면 아주 커다란 영광이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRADEREQUEST_NEUTRAL">
+      <Text>안녕하십니까. 이 거래는 양쪽 모두에게 공평한 것 같습니다만. 어떻게 생각하십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_ANGRY">
+      <Text>사라지십시오. 이 비열하고 쓸모없는 인간! 당신의 요청을 거부하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_HAPPY">
+      <Text>상당히 아쉽지만, 당신의 요청을 거부하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_NO_NEUTRAL">
+      <Text>그런 치욕을 당하느니 차라리 자결하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_ANGRY">
+      <Text>이런 무례한 개! 이 치욕을 되갚아 주겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_HAPPY">
+      <Text>손님이자 친구인 당신의 요구를 아무것도 거절할 수가 없군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_TRIBUTE_YES_NEUTRAL">
+      <Text>좋습니다. 내겐 선택의 여지가 없는듯하군요. 하지만, 맹세하건대 이 치욕을 반드시 되갚아 주겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_1">
+      <Text>당신은 지금 정말 위험한 장난을 치고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_2">
+      <Text>좋습니다. 다음번에는 이렇게 공손하게 대해주지 않을 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_3">
+      <Text>실망했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_4">
+      <Text>정말 실망했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_5">
+      <Text>정말입니까? 당신이 살아 있는 동안 자신의 근시안적인 태도를 후회할 기회조차 없을 거라 믿습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WARBLUFF_6">
+      <Text>그런 행동을 하다니 정말 바보 같군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_RAMKHAMHAENG_WINWAR_1">
+      <Text>알다시피 당신은 완패했습니다. 이 치욕을 떠안고 어떻게 살아갈 것입니까?</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

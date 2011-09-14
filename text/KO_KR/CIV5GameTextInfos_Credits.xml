@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_CREDITS_1_0_0_0">
+      <Text>제작진</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_0_0_0">
+      <Text>Firaxis Games</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_0_0">
+      <Text>DESIGN TEAM</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_1_0">
+      <Text>Original Creator of Civilization</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_1_1">
+      <Text>Sid Meier</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_2_0">
+      <Text>Designed By</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_2_1">
+      <Text>Jon Shafer</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_3_0">
+      <Text>Additional Design</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_3_1">
+      <Text>Ed Beach</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_1_3_2">
+      <Text>Scott Lewis</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_0_0">
+      <Text>PRODUCTION TEAM</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_1_0">
+      <Text>Producer</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_1_1">
+      <Text>Dennis Shirk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_2_0">
+      <Text>Associate Producer</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_2_1">
+      <Text>Lisa Miller</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_3_0">
+      <Text>Additional Production</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_3_1">
+      <Text>Clint McCaul</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_3_2">
+      <Text>Michelle Menard</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_4_0">
+      <Text>Writers</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_4_1">
+      <Text>Michelle Menard</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CREDITS_2_2_4_2">
+      <Text>Paul Murphy</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_4">
+      <Text>동의한 것으로 알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_5">
+      <Text>오 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_6">
+      <Text>그리하지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_AGREE_SHORT_7">
+      <Text>아주 좋아요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_1">
+      <Text>멍청하군요! 물고기처럼 배를 갈라 주겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_2">
+      <Text>멍청한 야만인! 죽여주겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_ATTACKED_3">
+      <Text>당신을 저주합니다! 오늘의 일을 당신이 살아갈 매 시간 후회하게 만들어 주지요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_1">
+      <Text>그대는 이미 쓸모가 없군요. 죽으시지요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_2">
+      <Text>그대는 이미 우리에게 쓸모가 없습니다. 죽여주겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DECLAREWAR_3">
+      <Text>날 모욕하는 건 이번이 마지막입니다. 죽으시지요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_1">
+      <Text>그대가 이겼군요. 축하합니다. 사정이 반대였더라면 아주 기쁘게 당신을 눌렀을텐데.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_2">
+      <Text>적어도 이 세상에선 난 이제 끝이군요. 다음 세상에서 이에 대한 복수를 할 수 있기를.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEFEATED_3">
+      <Text>그대는 아주 계략적이고 상대할 가치가 있는 적이란 것을 증명했군요. 승리를 축하합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_ANGRY">
+      <Text>그 딱한 인생을 끝내기 싫다면 다음 제시한 것을 내 놓으시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_HAPPY">
+      <Text>친구여, 중국이 그대의 도움을 필요로 하고 있습니다. 그대의 지원을 기대해도 되겠는지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DEMANDTRIBUTE_NEUTRAL">
+      <Text>다음 제시한 자원을 지원해 주시오. 그렇지 않으면 관련된 모든 사람이 큰 피해를 보게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_1">
+      <Text>안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_2">
+      <Text>물론 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_3">
+      <Text>거절합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_4">
+      <Text>절대 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_5">
+      <Text>받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_6">
+      <Text>그런 농담을!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_DISAGREE_SHORT_7">
+      <Text>제가 잘못들은 것은 아니겠지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_1">
+      <Text>어서 오시오. 전 중국의 무측천이라고 합니다. 우린 다른 나라들과의 분쟁을 원치는 않지만, 중국의 이해가 걸려 있다면 무력을 동원하여 지켜낼 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_2">
+      <Text>어서 오시오. 전 무측천이라고 합니다. 중국은 자국의 발전을 위해 평화를 추구하고 있습니다. 우리를 자극하지 않는다면 우리도 그대를 가만히 놔두겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_FIRSTGREETING_3">
+      <Text>반갑습니다. 전 중국의 무측천이라고 합니다. 중국은 평화로운 공존과 공정한 교역을 추구하지만, 위협에는 강력하게 맞설 것입니다. 그대도 우리와 같은 생각을 하고 있기를…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_1">
+      <Text>좋은 하루 보내길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_2">
+      <Text>그럼 이만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_3">
+      <Text>잘 가시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_4">
+      <Text>다음에 다시 만나길 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_5">
+      <Text>이제 그만 가 보시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_6">
+      <Text>그게 전부입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GOODBYE_7">
+      <Text>더 이상 볼일은 없군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_1">
+      <Text>환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_2">
+      <Text>어서 오시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_3">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_4">
+      <Text>좋은 날입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_5">
+      <Text>오 그대군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_6">
+      <Text>으음?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_GREETING_7">
+      <Text>원하는 것이 무엇인지?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_1">
+      <Text>계속 말하시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_2">
+      <Text>계속하시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_3">
+      <Text>듣고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_4">
+      <Text>으음?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_5">
+      <Text>뭐라고 하셨지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_6">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LETSHEARIT_7">
+      <Text>계속하시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_LOSEWAR_1">
+      <Text>중국은 모든 근접 국가와의 평화를 환영합니다. 미래에는 이런 불쾌한 일을 다시 겪지 않아도 될 거라 믿고 싶습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_1">
+      <Text>우리를 무지한 농부로 보는 것인가요? 그 제안은 받아들일 수 없습니다. 더 나은 제안을 하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_2">
+      <Text>충분하지 않군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_ANGRY_3">
+      <Text>어림도 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_1">
+      <Text>안타깝지만 지금 상태로는 그대의 제안을 받아들일 수 없습니다. 좀 더 다은 제안을 해 보세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_2">
+      <Text>이게 그대가 제시할 수 있는 최선입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_HAPPY_3">
+      <Text>거의 근접했지만…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>그게 전부입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그걸로는 충분하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>거의…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_ANGRY">
+      <Text>오직 그대의 무지만이 그대의 오만함에 견줄 수 있겠군요. 그대의 가증스러운 제안을 거절하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_HAPPY">
+      <Text>안됐지만 이번엔 그대의 제안을 받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_NO_NEUTRAL">
+      <Text>동의할 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_ANGRY">
+      <Text>받아들이겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_HAPPY">
+      <Text>물론입니다. 그대의 현명함에 탄복했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADE_YES_NEUTRAL">
+      <Text>공평한 듯 하군요. 동의하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_ANGRY">
+      <Text>여기 우리의 제안이 있습니다. 받아들이지 않으려면 떠나시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_HAPPY">
+      <Text>친구여. 이 제안이 마음에 드시는지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRADEREQUEST_NEUTRAL">
+      <Text>공정한 거래는 관련된 모든 사람에게 득이 된다고 봅니다만, 이건 어떻습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_ANGRY">
+      <Text>불쌍한 멍청이 같으니라고! 중국에서 공물을 갈취하려는 것이냐? 돼지처럼 배를 갈라버리기 전에 썩 꺼지지 못하겠나!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_HAPPY">
+      <Text>안됐지만 이번엔 그대의 제안을 받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_NO_NEUTRAL">
+      <Text>이런 요구를 하는 이유가 궁금하군. 그대는 미친 것입니까, 아니면 너무나 어리석은 것입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_ANGRY">
+      <Text>좋습니다. 그러나 복수할 것입니다. 이제부터 눈 하나 정도는 뜨고 자는 것이 좋을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_HAPPY">
+      <Text>물론입니다. 중국은 우호국을 돕는 것을 즐겁게 생각합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_TRIBUTE_YES_NEUTRAL">
+      <Text>좋습니다. 전쟁보다는 이것이 나을 것 같군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_1">
+      <Text>그대는 아주 위험한 게임을 시작하려는 중입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_2">
+      <Text>좋습니다. 그러나 다음에는 이렇게 공손하게 나오지 않을 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_3">
+      <Text>실망스럽군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_4">
+      <Text>아! 정말 실망스럽군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_5">
+      <Text>정녕 그대는 살아 있는 동안 자신의 근시안적인 생각을 후회할 기회조차 없길 바라는 것인가요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WARBLUFF_6">
+      <Text>정말 어리석군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_WUZETIAN_WINWAR_1">
+      <Text>운이 좋은 줄 아시길. 보잘것없는 그대의 문명을 살려주겠습니다. 또다시 우리의 인내심을 시험하지 마시길.</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

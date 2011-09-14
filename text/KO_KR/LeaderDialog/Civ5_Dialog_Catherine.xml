@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_1">
+      <Text>좋아요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_3">
+      <Text>물론이죠.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_4">
+      <Text>동의하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_5">
+      <Text>아, 좋아요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_6">
+      <Text>꼭 그렇다면야…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_AGREE_SHORT_7">
+      <Text>아주 좋아요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_1">
+      <Text>내 열정을 나약함으로 오인하지 마십시오. 후회하게 될 테니까.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_2">
+      <Text>우릴 과소평가했군요. 신성한 러시아가 그대들을 통째로 집어삼킬 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_3">
+      <Text>어리석은... 반드시 대가를 치를 겁니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_ATTACKED_4">
+      <Text>멍청한 무지렁이 같으니... 땅에 묻어버릴 테니 그리 아세요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_1">
+      <Text>그대들을 상대하는 것도 이제 지겹군요. 전쟁을 준비하시길!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_2">
+      <Text>지금껏 그대들은 참으로 오만하게 굴었지요. 이제 그 대가를 치를 때입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DECLAREWAR_3">
+      <Text>그대의 초라한 국가가 러시아의 앞길을 막고 있군요! 사라져 줘야겠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_1">
+      <Text>잘 싸웠군요. 축하합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_2">
+      <Text>그대는 내 생각보다 더 지혜로운 적이었습니다. 축하를 보내지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DEFEATED_3">
+      <Text>우리는 패배했군요. 이제 나는 포로 신세인가요? 어쩌면 그보다 너 나쁜 운명이 기다릴지도 모르겠군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_ANGRY">
+      <Text>살아남고 싶다면 우리가 원하는 것을 내놓으세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_HAPPY">
+      <Text>친애하는 지도자여, 우리에게 필요한 것들을 나누어 주시겠는지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DEMANDTRIBUTE_NEUTRAL">
+      <Text>위대한 양국의 평화를 위해 조그마한 선물을 허락하실 생각은 없으신지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_1">
+      <Text>안 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_2">
+      <Text>그럴 수 없군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_3">
+      <Text>거부하겠어요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_4">
+      <Text>당연히 안 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_5">
+      <Text>그렇게는 할 수 없군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_6">
+      <Text>진심으로 하는 말은 아니겠지요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_DISAGREE_SHORT_7">
+      <Text>내가 잘못 들은 건가요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_1">
+      <Text>이 넓은 세상에서 다른 지도자를 만나게 되어 정말 기쁘군요. 신하들이란 가끔 피곤할 정도로 아첨을 떨어요. 그렇지 않은가요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_2">
+      <Text>반갑습니다. 작은 국가의 지도자와 만나는 것은 언제나 즐거운 일이지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_FIRSTGREETING_3">
+      <Text>반갑습니다, 이방인이여! 그대의 지혜와 감각이 매력만큼이나 뛰어나다면 우리는 함께 좋은 관계를 유지할 수 있겠지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_1">
+      <Text>좋은 날이로군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_2">
+      <Text>잘가세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_3">
+      <Text>안녕히 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_4">
+      <Text>다시 만날 그날까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_5">
+      <Text>그만 돌아가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_6">
+      <Text>아, 아직 이곳에 있었던가요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_7">
+      <Text>할 말은 다 한 듯하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GOODBYE_8">
+      <Text>용무는 끝난 모양이군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_1">
+      <Text>환영해요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_2">
+      <Text>반갑군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_3">
+      <Text>어서 오십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_4">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_5">
+      <Text>아, 그대였군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_6">
+      <Text>무슨 일인가요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_GREETING_7">
+      <Text>무슨 용무이신지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_1">
+      <Text>말씀하세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_2">
+      <Text>말씀하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_3">
+      <Text>듣고 있어요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_4">
+      <Text>네?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_5">
+      <Text>뭐라고 하셨었죠?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_6">
+      <Text>그리고요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LETSHEARIT_7">
+      <Text>계속하세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_1">
+      <Text>성공을 축하드립니다. 그대의 능력이 나보다 뛰어났군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_2">
+      <Text>자, 이제 평화의 결실을 즐기도록 하지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_LOSEWAR_3">
+      <Text>그대의 관용에 감사드립니다. 결코 배은망덕한 짓은 하지 않을 것을 약속하죠.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_1">
+      <Text>군주의 권력은 절대적이다. 방대한 왕국 만큼 그에 어울리는 재량과 활력을 가진 단 한 사람에게 모든 권력이 집중하는 권위는 또 없기 때문이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_2">
+      <Text>난 정치적 관료가 될 것이며 이것이 나의 본성이다. 또한, 신께선 날 용서해 줄 것이며 그것이 신의 본성이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_QUOTE_3">
+      <Text>칭찬과 보상은 모든 사람이 들을 수 있도록 크게 하되 누군가를 탓할 땐 조용히 하여라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_1">
+      <Text>그 노골적인 탐욕이 신선하리만치 놀랍군요. 거절하겠습니다. 더 나은 제안을 하던가 아니면 사라져 주세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_2">
+      <Text>부족하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_ANGRY_3">
+      <Text>그것보다 나은 제안을 해보세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_1">
+      <Text>더 나은 제안을 해준다면 정말 감사하겠네요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_2">
+      <Text>그것이 그대가 제안할 수 있는 전부인가요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_HAPPY_3">
+      <Text>조금 모자라는군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>우릴 거렁뱅이로 만들 작정인가요? 공평한 제안을 하세요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 나은 제안을 할 수는 없나요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그건 충분치 않다니까요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>그건 좀...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_ANGRY">
+      <Text>아시다시피 내 남편은 죽었습니다.. 러시아는 이제 바보가 통치하는 나라가 아니에요. 거절하지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_HAPPY">
+      <Text>우리의 친분을 이용해 이득을 취할 생각인가요? 똑바로 하지 않으면 화를 낼 거에요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_NO_NEUTRAL">
+      <Text>전혀 구미가 당기지 않는 제안이군요. 어떻게 설명할 방법이 없네요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_ANGRY">
+      <Text>알겠어요. 이 지루한 협상을 줄일 수 있는 것이라면 뭐든 상관없으니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_HAPPY">
+      <Text>아주 좋아요. 서로 동의한 것으로 알겠어요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADE_YES_NEUTRAL">
+      <Text>러시아는 그대의 조건에 동의하겠어요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_ANGRY">
+      <Text>우리가 제안을 하나 하지요. 뭐가 좋은지 안다면 우리 제안을 받아들일 거에요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_HAPPY">
+      <Text>이 정도 거래면 만족하실는지?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRADEREQUEST_NEUTRAL">
+      <Text>거래에 관심이 있나요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_ANGRY">
+      <Text>이 추악한 악당! 감히 어찌 이런 짓을!? 산 채로 토막내어 돼지 먹이로 줬어야 했어!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_HAPPY">
+      <Text>참으로 짖궂기 이를 데 없군요. 그나마 내가 그대에게 호의를 가졌음을 다행으로 아세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_NO_NEUTRAL">
+      <Text>우리에게 요구를 할 입장이 아닐 텐데요. 거절하겠어요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_ANGRY">
+      <Text>후회하게 될 겁니다. 내 그것만은 약속하죠.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_HAPPY">
+      <Text>물론이죠! 내가 어찌 그대의 청을 거절하겠어요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_TRIBUTE_YES_NEUTRAL">
+      <Text>일단은... 동의할 수밖에 없겠군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_1">
+      <Text>정말 무례하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_2">
+      <Text>정말 실망스럽군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_3">
+      <Text>진심인가요? 통찰력이 부족했음을 후회할 시간조차 허락되지 않을 줄 아세요. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_4">
+      <Text>어리석기 이를 데 없군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_WARBLUFF_5">
+      <Text>좋습니다. 목숨을 버려도 좋다면 그리 하세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_CATHERINE_WINWAR_1">
+      <Text>끝이로군요. 참으로 그릇된 행동이었어요. 무엇을 잘못했는지 깊이 깨달았기를 바라죠.</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_4">
+      <Text>동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_5">
+      <Text>아, 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_6">
+      <Text>꼭 그래야 한다면.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_AGREE_SHORT_7">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_1">
+      <Text>어째서... 이, 이... 천하에 다시 없을 사악한 버러지 같으니! 철저하게 박살을 내 주겠다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_2">
+      <Text>은혜도 모르는 잡종개 같으니! 감히 누구를 건드렸는지 깨닫게 해주마!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_ATTACKED_3">
+      <Text>사악하기 이를 데 없는 놈이로구나! 진작에 없애버렸어야 했는데!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DECLAREWAR_1">
+      <Text>그대의 욕심과 어리석음이 결국 일을 이 지경으로 만드는군. 전쟁을 준비하시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DECLAREWAR_2">
+      <Text>그대의 백성이 그대로부터 해방되고자 울부짖고 있군. 싸울 준비를 하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DECLAREWAR_3">
+      <Text>그대의 존재는 세상 모든 지도자들에게 있어 수치나 다름없습니다. 그러니 사라져 줘야겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DEFEATED_1">
+      <Text>어리석은! 대체 무슨 짓을 저지른 건지 아시오? 온 세상이 그대의 죄를 슬퍼할 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DEFEATED_2">
+      <Text>저주를 받아라! 그대의 손에 묻은 것은 역사상 가장 위대한 지도자의 피로다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DEFEATED_3">
+      <Text>내가 패배하다니, 어찌 이런 일이! 뭔가 잘못된 것이 틀림없어!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_ANGRY">
+      <Text>평상시라면 내 군대를 보내 그대의 땅에서 원하는 것을 취하겠지만, 오늘은 유난히 관용을 베풀고 싶어지는군. 이런 기회는 두 번 다시 없을 테니 흘려버리는 일이 없기를 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_HAPPY">
+      <Text>우리에게 필요한 것들을 나눠주겠습니까, 친구여? 페르시아는 언제까지고 그대의 우정에 감사할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DEMANDTRIBUTE_NEUTRAL">
+      <Text>선물이라니... 내게 말입니까? 참으로 사려가 깊은 분이로군!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_1">
+      <Text>안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_2">
+      <Text>당연히 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_3">
+      <Text>거절하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_4">
+      <Text>물론 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_5">
+      <Text>그건 받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_6">
+      <Text>농담하는 것입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_DISAGREE_SHORT_7">
+      <Text>내가 잘못 들은 게요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_1">
+      <Text>위대한 페르시아의 통치자인 나 다리우스가 그대를 따뜻한 우정으로 맞아들이는 바입니다. 군주로서의 책임이 어깨를 무겁게 한다면 언제든지 내게 상담을 청하도록 하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_2">
+      <Text>내 기꺼이 그대를 맞아 우정의 악수를 청합니다. 나는 지혜롭고 현명한 페르시아의 지도자, 다리우스요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_FIRSTGREETING_3">
+      <Text>환영합니다, 이방인이여. 나는 페르시아의 철두철미한 지도자 다리우스라고 합니다. 그대도 익히 들어 알고 있으리라 믿습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_1">
+      <Text>좋은 날 되시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_2">
+      <Text>잘 가시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_3">
+      <Text>안녕히.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_4">
+      <Text>다시 만날 그날까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_5">
+      <Text>이제 그만 가보시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_6">
+      <Text>이상입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GOODBYE_7">
+      <Text>이곳에서의 할 일은 모두 끝이 났습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_1">
+      <Text>환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_2">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_3">
+      <Text>인사드립니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_4">
+      <Text>좋은 날입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_5">
+      <Text>아, 그대였군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_6">
+      <Text>무슨 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_GREETING_7">
+      <Text>어쩐 용무입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_1">
+      <Text>얘기해 보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_2">
+      <Text>계속하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_3">
+      <Text>네?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_4">
+      <Text>뭐라 하셨는지?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_5">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LETSHEARIT_6">
+      <Text>계속하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_LOSEWAR_1">
+      <Text>무승부로 칩시다. 어떻습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_ANGRY_1">
+      <Text>그럴 의도는 아니었으리라 믿지만, 우리에게 제안한 바는 상당히 모욕적이었습니다. 부디 제안을 수정하시기를.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_ANGRY_2">
+      <Text>그걸로는 부족합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_ANGRY_3">
+      <Text>제안을 바꾸시기 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_1">
+      <Text>우리로서는 그대의 제안을 받아들이기가 다소 어렵습니다. 조금 달리 생각함이 어떠십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_2">
+      <Text>이것이 그대가 제안할 수 있는 최선입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_HAPPY_3">
+      <Text>다소 부족한 듯합니다만...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>타국과의 거래에 대한 그대의 무지가 여실히 드러나는군. 하지만 한 가지는 분명히 해 두지요. 지금 제안한 바는 받아들일 수 없으니 수정하기를 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 나은 제안을 할 수는 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그걸로는 충분치 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>이건 좀...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_ANGRY">
+      <Text>안타깝게도 그 제안은 수락할 수 없습니다. 언젠가 차후에 다시 논의하러 오십시오. 최소한 비누라는 물건으로 몸을 씻는 법 정도는 깨우친 후에 말입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_HAPPY">
+      <Text>아쉽지만 그 조건에는 동의할 수 없습니다. 그대가 위대한 지도자라면 이해할 거라 생각합니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_NO_NEUTRAL">
+      <Text>안타깝지만 받아들일 수 없습니다. 제대로 거래할 준비가 되거든 다시 만납시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_YES_ANGRY">
+      <Text>이런 생각은 그대의 머리에서 나온 것입니까? 거 참 아주 대단하시군!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_YES_HAPPY">
+      <Text>마치 내 마음을 읽은 듯하군요. 그대는 참으로 현명합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADE_YES_NEUTRAL">
+      <Text>좋은 생각입니다! 내가 제안하려던 바와 비슷하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_ANGRY">
+      <Text>우리는 하찮은 자들에게도 관용을 베풀지. 따라서 내 제안은 이렇습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_HAPPY">
+      <Text>이렇게 마구 퍼주다니, 국고가 텅텅 비는 게 아닌가 모르겠군! 내가 제정신으로 돌아오기 전에 이 제안을 받아들임이 좋을 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRADEREQUEST_NEUTRAL">
+      <Text>내 끊임없는 아량을 베풀어 그대에게 제안하는 바입니다. 이의는 없으리라 믿습니다만...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_ANGRY">
+      <Text>본인 처지를 잘 모르는 듯한데... 나는 페르시아의 위대한 왕 다리우스고, 그대는 내 발바닥에 입을 맞추는 것조차 분에 넘치는 하찮은 존재란 말이오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_HAPPY">
+      <Text>하하하! 농담 한 번 재미지게 하시는군! 안 그렇습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_NO_NEUTRAL">
+      <Text>술에 취하기라도 했습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_YES_ANGRY">
+      <Text>안 될 건 뭐겠습니까? 어차피 제대로 사용하지도 못할 테니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_YES_HAPPY">
+      <Text>말해 무엇하리오! 내 궁전? 보물? 그대가 원한다면 내 심장에 흐르는 피인들 못 내어 주겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_TRIBUTE_YES_NEUTRAL">
+      <Text>물론 좋습니다. 페르시아의 관대함은 이미 만인이 아는 사실 아니겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_1">
+      <Text>그대가 무슨 장난질을 치려는지 알고 있습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_2">
+      <Text>좋소. 다음엔 나도 그리 호의적으로 굴진 않을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_3">
+      <Text>참으로 실망이군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_4">
+      <Text>이리도 실망스러울 수가...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_5">
+      <Text>농담하시나? 그 섣부른 판단을 후회하기도 전에 죽을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_WARBLUFF_6">
+      <Text>이런 바보같은 자가 있다니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_DARIUS_WINWAR_1">
+      <Text>군사 운용은 모름지기 이래야 하는 법이지. 교훈이 됐기를 바랍니다.</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

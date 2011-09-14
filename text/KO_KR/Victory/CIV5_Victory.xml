@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TEXT">
+      <Text>
+        세상은 전쟁의 화마 속에서 요동쳤습니다. 위대하고 강대한 많은 문명이 사라졌지만, 당신은 살아남아 승자가 되었습니다! 세상은 당신의 영예로운 승리를 오랫동안 기억할 것입니다!
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TITLE">
+      <Text>절반의 정복 승리</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TEXT">
+      <Text>
+        당신은 전장에서 모든 적을 무찌르고 정복을 통해 승리를 거두었습니다. 당신은 적의 도시를 점령했고 적의 군대를 뿔뿔히 흩어지게 했습니다! 사람들은 당신의 영예스러운 승리를 오랫동안 기억할 것입니다.
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TITLE">
+      <Text>정복 승리</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TEXT">
+      <Text>
+        당신은 어마어마한 문화의 위력으로 승리를 거두었습니다. 장엄한 기념비와 위대한 예술가들의 능력이 당신 문화의 위대함이며 이것이 세상을 놀라게 했습니다! 마치 아름다움이 지친 마음에 기쁨을 선사하듯 시인들이 당신을 오래도록 기릴 것입니다.
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TITLE">
+      <Text>문화 승리</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_BULLET_TEXT">
+      <Text>
+        [ICON_BULLET]정식 게임으로 문명 V의 모든 것을 경험해 보십시오.[NEWLINE][NEWLINE][ICON_BULLET]18개의 문명을 시초부터 우주 시대까지 이끌어 보십시오.[NEWLINE][NEWLINE][ICON_BULLET]전용 콘텐츠와 모드를 다운로드하고 전 세계 유저들과 경쟁해보십시오.[NEWLINE][NEWLINE][ICON_BULLET]당신의 문명은 무엇을 위해 존재할 것입니까?
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_TEXT">
+      <Text>
+        위대하고 강력한 당신의 문명은 잘 해내고 있습니다만 이제 끝내야 할 시간이 됐습니다. 당신이 언젠가 다시 돌아와 그들을 승리로 이끌어 줄 것 이라는 걸 알기에 당신의 국민은 체념하지 않습니다.
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TEXT">
+      <Text>
+        당신은 뛰어난 외교술로 적을 무찔렀습니다! 당신은 치밀함과 현명함 덕분에 위대한 친구들을 얻었으며 적에게는 분열과 혼란을 가져다주었습니다. 당신은 전쟁에 지친 이 세상에 평화를 가져온 지도자로 영원히 기억될 것입니다.
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TITLE">
+      <Text>외교 승리</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TEXT">
+      <Text>
+        당신은 패배했습니다. 당신의 문명은 많은 적군에 의해 압도당했습니다. 하지만, 당신이 언젠가 다시 돌아와 그들을 승리로 이끌어 줄 것 이라는 걸 알기에 당신의 국민은 절망하지 않습니다.
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TITLE">
+      <Text>손실</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TEXT">
+      <Text>
+        당신은 과학의 달인이 되어 승리를 쟁취했습니다! 당신은 자연의 미스터리를 극복하고 국민을 멋진 신세계로 이끌었습니다. 밤하늘의 별들이 더는 반짝거리지 않을 때까지 당신의 승리는 기억될 것입니다!
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TITLE">
+      <Text>과학 승리</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXTENDED_GAME_DEMO">
+      <Text>정식 버전 구매</Text>
+    </Row>
+    <Row Tag="TXT_KEY_EXTENDED_GAME_YES">
+      <Text>잠깐! 아직… 하, 한 턴만 더…</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

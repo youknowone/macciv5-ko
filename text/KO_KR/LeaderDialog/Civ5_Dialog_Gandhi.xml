@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_1">
+      <Text>아주 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_2">
+      <Text>잘 알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_3">
+      <Text>물론입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_4">
+      <Text>동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_5">
+      <Text>오, 알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_6">
+      <Text>그래야 하겠지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_AGREE_SHORT_7">
+      <Text>아주 좋은 생각입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_ATTACKED_1">
+      <Text>그리 하겠단 말이지. 인도의 국민은 그대에게 저항하지 않을 것입니다. 어떤 것이든 무기를 손에 쥔 자는 제외하고 말이오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_ATTACKED_2">
+      <Text>불행하게도 우리 모든 백성이 나와 같은 비폭력주의자는 아닙니다. 그대의 군대는 모조리 궤멸될 테니... 미리 사과를 전합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_1">
+      <Text>인도의 병사들이 귀국의 영토로 진입했다는 보고를 받은 참입니다. 충고하건대 저항을 포기하는 것이 가장 좋은 대응책일 것입니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_2">
+      <Text>그대의 도시들을 구경하도록 우리 군대를 보내었습니다. 그들을 진심으로 환영해주리라 믿습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DECLAREWAR_3">
+      <Text>우리 병사들이 그대들의 문명에 감탄하여 아예 이주하기로 결정했나 봅니다. '영구적으로' 말입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_1">
+      <Text>비록 우리 군대는 그대들에게 패했지만, 인도의 정신만큼은 절대로 꺾이지 않을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_2">
+      <Text>무고하고 약한 이들을 힘으로 제압했군요. 참으로 좋으시겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DEFEATED_3">
+      <Text>그대가 우리를 정복했군요. 그 끝모를 업보의 짐을 벗고 내세에 쇠똥구리로 다시 환생하지 않으려거든, 부디 승자의 자비를 베풀기를 간청하는 바입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_ANGRY">
+      <Text>우리가 원하는 바를 순순히 내주지 않으면 유혈 사태를 맞이할 것이요, 따른다면 평화와 온정을 누릴 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_HAPPY">
+      <Text>우리를 도와주시겠습니까, 친구여?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DEMANDTRIBUTE_NEUTRAL">
+      <Text>인도는 가난하지만 그대들은 부유합니다. 우리를 지원해준다면 업보의 무게를 덜 수 있지 않을가 합니다만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_1">
+      <Text>안되겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_2">
+      <Text>안될 말입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_3">
+      <Text>거절하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_4">
+      <Text>당연히 안됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_5">
+      <Text>받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_6">
+      <Text>진정으로 하는 말은 아니겠지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_DISAGREE_SHORT_7">
+      <Text>제가 잘못 들은 것 같습니다만.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_1">
+      <Text>평화로운 인도의 이름으로 그대를 맞이합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_2">
+      <Text>환영합니다! 세상 모든 이들이 평화 속에 만물을 나눌 수 있기를!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_FIRSTGREETING_3">
+      <Text>인도의 이름으로 그대들과 우정을 나누기를 청합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_1">
+      <Text>좋은 하루 보내시길 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_2">
+      <Text>몸조심하시길 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_3">
+      <Text>가시는 길 조심하시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_4">
+      <Text>우리가 재회할 그날까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_5">
+      <Text>이제 가셔도 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_6">
+      <Text>용무는 마친 듯하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GOODBYE_7">
+      <Text>볼일은 마친 것 같습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_1">
+      <Text>환영합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_2">
+      <Text>안녕하신지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_3">
+      <Text>평화가 그대와 함께하기를.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_4">
+      <Text>좋은 날입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_5">
+      <Text>오셨군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_6">
+      <Text>어쩐 일입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_GREETING_7">
+      <Text>무슨 일이십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_1">
+      <Text>말씀해 보시지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_2">
+      <Text>얘기하시지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_3">
+      <Text>경청하고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_4">
+      <Text>무슨 일이신지?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_5">
+      <Text>무슨 말씀을 하고 계셨지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_6">
+      <Text>그 다음은?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LETSHEARIT_7">
+      <Text>계속하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_LOSEWAR_1">
+      <Text>대가를 얼마나 치렀든 간에, 양국이 평화를 되찾은 점은 기쁘게 생각합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_1">
+      <Text>너무나 명확하다면 뭔가 잘못된 것이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_2">
+      <Text>비록 평화를 추구할지언정, 나는 스스로를 군인이라 여긴다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_QUOTE_3">
+      <Text>이상적인 비폭력 국가는 질서가 잡힌 무정부 상태라고 할 수 있다. 그러한 국가는 최소한의 통치로 다스림이 가장 효과적이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_1">
+      <Text>나는 평화주의자이지 바보가 아닙니다! 제대로 된 제안을 해주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_2">
+      <Text>그걸로는 매우 부족합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_ANGRY_3">
+      <Text>이 정도로는 어림도 없겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_1">
+      <Text>이런 말씀을 드리는 것이 안타깝지만, 도저히 이 조건은 수용하기 어렵습니다. 좀 더 합당한 제안을 해 주시길 바랍니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_2">
+      <Text>이것이 그대가 제안할 수 있는 최선입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_HAPPY_3">
+      <Text>조금 부족합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>이건 인도인들에게 공평하지 않습니다. 좀 더 나은 제안을 해주시길.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 나은 제안을 할 수는 없는지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>이걸로는 부족합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>이건 좀...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_ANGRY">
+      <Text>그런 조건에 동의한다면 정말 바보스러운 짓일 겁니다. 고맙지만 됐습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_HAPPY">
+      <Text>안됐지만 지금은 그대의 조건을 받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_NO_NEUTRAL">
+      <Text>그런 협정을 수락했다간 인도의 백성이 불이익을 겪게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_ANGRY">
+      <Text>보기보다는 현명하시군. 동의하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_HAPPY">
+      <Text>좋습니다. 이번 거래로 우리 모두 이익을 취할 수 있으리라 믿습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADE_YES_NEUTRAL">
+      <Text>공평한 것 같군요. 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_ANGRY">
+      <Text>그대와 같이 약소한 문명은 강대국과 교역을 해야 존속될 수 있지 않겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_HAPPY">
+      <Text>친구여, 내 제안에 관심이 있는지요?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRADEREQUEST_NEUTRAL">
+      <Text>공정한 거래는 모두에게 득이 됩니다. 그렇게 생각하지 않습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_ANGRY">
+      <Text>우리 장군들이 그대가 요구한 물건을 전달할 수 없다고 했습니다. 그 대신 '와서 가져가시지'라고 전해달라 청하더군요. 정확히 무슨 의미인지는 모르겠지만 말입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_HAPPY">
+      <Text>그 제안은 어떻게 봐도 타당하지 않군요. 우리는 그대들의 우방이지 노예가 아닙니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_NO_NEUTRAL">
+      <Text>나는 철저한 비폭력주의자입니다만 인도인들은 아직 그렇지 못합니다. 아마 그대의 제안을 들으면 코웃음을 치겠지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_ANGRY">
+      <Text>그처럼 노골적으로 탐욕을 드러내다니, 지도자답지 못한 행동이군요. 하지만 평화를 위해 그대의 제안을 수락하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_HAPPY">
+      <Text>좋습니다! 그대가 청한다면 거절할 수 없지요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_TRIBUTE_YES_NEUTRAL">
+      <Text>평화는 지킬 가치가 있는 것이지요. 동의하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_1">
+      <Text>실망스럽군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_2">
+      <Text>너무도 실망스럽습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_3">
+      <Text>이렇게 멍청할 수가...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_WARBLUFF_4">
+      <Text>참 재미있는 말이군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_WINWAR_1">
+      <Text>폭력은 허망하다 말하지 않았습니까! 쓸데없이 저항하지 않았다면 평화적으로 서로가 좋게 끝낼 수 있었을 것을!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_GANDHI_WINWAR_2">
+      <Text>비폭력이 또다시 승리하였도다! 이제 그대도 평화적 저항의 힘을 깨달았으리라 믿습니다.</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

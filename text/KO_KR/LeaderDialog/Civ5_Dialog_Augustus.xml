@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_1">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_2">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_3">
+      <Text>그럽시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_4">
+      <Text>동의하오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_5">
+      <Text>오, 괜찮군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_6">
+      <Text>꼭 그래야 한다면.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_AGREE_SHORT_7">
+      <Text>마음에 듭니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_1">
+      <Text>생명과 재물을 이토록 어리석게 낭비하다니. 분명히 후회하게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_2">
+      <Text>완전히 잘못 계산했군. 그대들은 이제 끝입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_ATTACKED_3">
+      <Text>용맹하지만 그만큼 어리석군. 그 배짱에 걸맞는 지혜가 있었다면 좋았을 것을.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_1">
+      <Text>신께 맹세컨대 로마를 모욕한 대가를 반드시 치를 것이다! 죽을 준비나 해라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_2">
+      <Text>우리 재물은 부족하고 병사들은 쉬지를 못하니, 그대들은 이만 사라져줘야겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DECLAREWAR_3">
+      <Text>그대의 앞날이 이제 얼마 남지 않았다는 것을 짐의 아버지 율리우스 신의 이름으로 맹세합니다. 전쟁을 준비하시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_1">
+      <Text>그대의 승리를 축하해야겠군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_2">
+      <Text>우리를 굴복시키다니... 패배를 인정합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEFEATED_3">
+      <Text>신들께서 로마에 대한 사랑을 거두신 것인가... 우리가 졌습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_ANGRY">
+      <Text>목숨이 아깝다면 즉시 우리가 요구하는 것들을 내놓으십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_HAPPY">
+      <Text>필요한 자원을 나눠주시기를 청합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DEMANDTRIBUTE_NEUTRAL">
+      <Text>우리가 원하는 것을 내놓든가, 아니면 거절에 대한 책임을 지십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_1">
+      <Text>싫습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_2">
+      <Text>절대 싫습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_3">
+      <Text>거부합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_4">
+      <Text>물론 그럴 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_5">
+      <Text>받아들일 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_6">
+      <Text>진심은 아니시겠지!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_DISAGREE_SHORT_7">
+      <Text>잘못 들은 것으로 하겠소.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_1">
+      <Text>안녕하십니까. 나는 로마의 폰티펙스 막시무스이자 황제인 아우구스투스라고 합니다. 그대가 로마의 친구라면 환영받을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_2">
+      <Text>환영합니다. 로마는 친구에게는 믿음을, 적에게는 죽음을 선사하지요. 당신은 어느 쪽입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_FIRSTGREETING_3">
+      <Text>환영합니다! 그대의 방문은 로마의 영광입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_1">
+      <Text>좋은 하루 보내십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_2">
+      <Text>몸조심하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_3">
+      <Text>잘 가십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_4">
+      <Text>다시 만날 그날까지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_5">
+      <Text>그만 가보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GOODBYE_6">
+      <Text>용무는 끝난 것 같군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_1">
+      <Text>반갑습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_2">
+      <Text>안녕하십니까.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_3">
+      <Text>어서 오십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_4">
+      <Text>좋은 날이로군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_5">
+      <Text>아, 그대로군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_6">
+      <Text>오셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_GREETING_7">
+      <Text>무슨 일이십니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_1">
+      <Text>말씀하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_2">
+      <Text>말씀해 보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_3">
+      <Text>듣고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_4">
+      <Text>네?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_5">
+      <Text>뭐라고 하셨습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_6">
+      <Text>들어봅시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LETSHEARIT_7">
+      <Text>계속 말씀하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_LOSEWAR_1">
+      <Text>그대의 군대는 매우 우수하군. 승리를 축하합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_1">
+      <Text>나는 벽돌의 도시로 로마를 물려받았지만 대리석의 도시로 발전시켰다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_2">
+      <Text>급할수록 돌아가라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_QUOTE_3">
+      <Text>마음이 급한 지휘관보다는 안정적인 지휘관이 내겐 필요하다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_1">
+      <Text>그건 충분치 않습니다. 제대로 된 제안을 해보지 않겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_2">
+      <Text>그건 충분치 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_ANGRY_3">
+      <Text>좀 더 나은 제안을 해보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_1">
+      <Text>내 아내 리비아처럼 소박한 분이시군. 좀 더 통이 큰 제안을 할 수는 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_2">
+      <Text>그게 그대가 할 수 있는 최고의 제안입니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_HAPPY_3">
+      <Text>조금만 더 베풀어 보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>그걸로는 안 되겠습니다. 좀 더 나은 제안은 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>조금 더 좋은 제안을 할 순 없습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그걸로는 충분하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>조금만 더 써보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_ANGRY">
+      <Text>영원불멸한 마르스 신의 피에 걸고 경고하건대, 그대의 제안은 로마를 모욕하는 것과 다를 바 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_HAPPY">
+      <Text>유감스럽지만 우리 참모들이 이번 거래를 좋지 않게 생각하고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_NO_NEUTRAL">
+      <Text>난 그렇게 생각 안 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_ANGRY">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_HAPPY">
+      <Text>좋군요. 그렇게 합시다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADE_YES_NEUTRAL">
+      <Text>알겠습니다 .</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_ANGRY">
+      <Text>고려해 보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_HAPPY">
+      <Text>이 제안을 고려해 주십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRADEREQUEST_NEUTRAL">
+      <Text>이것이 우리의 제안입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_ANGRY">
+      <Text>그대 목숨을 내놓는다면 고려해 보지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_HAPPY">
+      <Text>로마의 재물을 그리 쉽게 내어줄 순 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_NO_NEUTRAL">
+      <Text>죽고 싶어서 이러시는 건지 궁금하군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_ANGRY">
+      <Text>동의합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_HAPPY">
+      <Text>좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_TRIBUTE_YES_NEUTRAL">
+      <Text>알겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_1">
+      <Text>하! 보기와는 달리 제법 배짱이 있으시군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_2">
+      <Text>내게 으름장을 놓다니, 시도는 좋았습니다..</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_3">
+      <Text>실망스럽기 그지없군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_4">
+      <Text>이리도 실망스러울 데가...</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_5">
+      <Text>진심입니까? 이토록 생각 없이 내린 결정을 후회할 시간조차 없게 될 것이오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_6">
+      <Text>정말로 어리석군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WARBLUFF_7">
+      <Text>그렇다면 좋습니다. 그대의 목을 거시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_AUGUSTUS_WINWAR_1">
+      <Text>마르스 신께서 우리에게 또 다시 미소를 지으셨지. 그러므로 로마의 모든 적은 패배하게 될 것입니다!</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

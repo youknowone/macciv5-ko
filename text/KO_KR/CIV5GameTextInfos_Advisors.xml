@@ -1,0 +1,1412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_ACTIVATE_BUTTON">
+      <Text>전투 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_BODY">
+      <Text>도시는 점령하기 어려울 수 있습니다. 도시의 방어는 강력할 뿐 아니라 공격 유닛에 반격을 가해서 피해를 주거나 파괴합니다. 강력한 유닛 여러 개로 동시에 도시를 공격해 점령하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_DISPLAY">
+      <Text>도시 포위하기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_ACTIVATE_BUTTON">
+      <Text>전투 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_BODY">
+      <Text>근처의 적 유닛이 방어 태세를 취하고 있습니다. 이는 적 유닛이 특별 방어 보너스(방패 모양 깃발로 표시)를 받음을 의미합니다. 방어 태세의 유닛을 일대일로 상대하기는 어려우므로 한 턴에 여러 유닛으로 동시에 공격해 보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_DISPLAY">
+      <Text>방어 태세 유닛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_BODY">
+      <Text>전투가 불리하게 됐습니다. 좀 더 계획을 잘 세운다면 전장의 영광을 되찾을 수 있을지도 모릅니다. 공격하기 전에 반드시 전투 예측기능을 사용하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
+      <Text>승산 없음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_BODY">
+      <Text>이 공격을 재고해 주십시오. 적에게 약간의 타격을 주는 대가로 큰 피해를 받게 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_DISPLAY">
+      <Text>공격 성공 가능성 희박</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
+      <Text>재정이 바닥났습니다. 신규 [ICON_GOLD] 금 재원이 필요합니다! [ICON_GOLD] 금이 없다면 연구가 침체될 것이며 다른 문명보다 뒤처지게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
+      <Text>파산!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_ACTIVATE_BUTTON">
+      <Text>야만인 주둔지 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_BODY">
+      <Text>야만인 주둔지는 최대한 빨리 제거해야 하며 절대로 용납해서는 안 됩니다! 야만인 야영지는 더 많은 야만인을 생성하며 빨리 없애버릴수록 문제를 일으킬 가능성이 줄어듭니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_DISPLAY">
+      <Text>야만인 주둔지</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_BODY">
+      <Text>세상은 위험하며 우리는 공격에 취약합니다. 우리의 문명을 방어하고 세상을 탐험하기 위해 [COLOR_ADVISOR_HIGHLIGHT_TEXT]추가 군사 유닛[/COLOR]을 건설할 것을 제안합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_DISPLAY">
+      <Text>군사력 부족</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_BODY">
+      <Text>우리 수도가 부산하고 활기찬 도시로 발전했습니다! 다른 도시를 건설하기 위해 [COLOR_ADVISOR_HIGHLIGHT_TEXT]개척자를 생산[/COLOR]해야 할 때가 된 것 같습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_DISPLAY">
+      <Text>신규 도시?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_BODY">
+      <Text>도시는 점령하는 데 4개 이상의 유닛이 필요한 가공할 만한 목표물입니다. 근접 공격을 하면 공격 유닛이 피해를 보게 됩니다. 또한, 도시에는 공성 중인 적을 공격할 수 있는 원거리 투척무기가 준비되어 있습니다. 정말 공격하시겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_DISPLAY">
+      <Text>도시 공격하기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_ACTIVATE_BUTTON">
+      <Text>도시 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_BODY">
+      <Text>도시는 인근 적에게 원거리 공격을 퍼부어 피해를 주거나 죽일 수 있습니다. [COLOR_ADVISOR_HIGHLIGHT_TEXT]적군에 공격을 퍼붓도록 명력하십시오![/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_DISPLAY">
+      <Text>도시 포격</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_BODY">
+      <Text>수도에서 유닛 생산이 완료되었습니다. 도시는 유닛과 건물 그리고 세계의 불가사의를 만들 수 있지만 한 번에 한 가지만 만들 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_DISPLAY">
+      <Text>도시 건설 완료</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_BODY">
+      <Text>이것은 도시 화면입니다. 여기선 현재 만들고 있는 항목을 변경할 수 있습니다. 또한, [ICON_GOLD] 금을 사용해 도시 주변의 땅을 사들여 영토를 확장하고 시민이 일할 장소를 지정해 줄 수 있습니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_DISPLAY">
+      <Text>도시 화면</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_ACTIVATE_BUTTON">
+      <Text>우호적인 도시 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_BODY">
+      <Text>우리는 도시 국가와 친구가 되기에 충분한 [ICON_INFLUENCE] 우호도를 가지고 있습니다! 도시국가를 클릭해 어떤 보상을 받을 수 있는지 확인해보십시오. 시간이 지남에 따라 우리의 [ICON_INFLUENCE] 우호도는 줄어들 것입니다. 그러니 도시 국가에 지속적으로 도움을 주거나 [ICON_GOLD]을 선물해 우호도를 유지하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_DISPLAY">
+      <Text>친구가 생겼습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_ACTIVATE_BUTTON">
+      <Text>도시 국가 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_BODY">
+      <Text>도시 국가를 발견했습니다! 도시 국가는 유저와 경쟁하지 않는 소규모 국가입니다. 외교적으로 교류할 수도 있고 아니면 그들과 전쟁을 시작할 수도 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_DISPLAY">
+      <Text>도시 국가</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_ACTIVATE_BUTTON">
+      <Text>도시 국가 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_BODY">
+      <Text>도시 국가에서 도움을 요청했습니다! 도움을 준다면 해당 도시 국가에 대한 우호도를 얻게 됩니다. 우호도가 충분히 높아지면 도시 국가에서 갖가지 혜택을 제공할 것입니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_DISPLAY">
+      <Text>도시 국가에 도움이 필요합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_ACTIVATE_BUTTON">
+      <Text>무단 침입자 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_BODY">
+      <Text>도시 국가의 영토로 군대를 보낼 수는 있지만 그걸 반기지는 않을 것입니다. 도시 국가와 좋은 관계를 유지하고 싶다면 그들의 영토 안에 군대를 배치하지 마십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_DISPLAY">
+      <Text>무단 침입!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_ACTIVATE_BUTTON">
+      <Text>도시 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_BODY">
+      <Text>군사 유닛과 마찬가지로 도시도 공격자를 상대로 방어합니다. 도시의 힘이 제로가 되었을 때만 점령할 수 있습니다. 도시가 점령되기 전에 군사 유닛으로 적군을 물리치십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_DISPLAY">
+      <Text>공성전 시작!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
+      <Text>전투 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
+      <Text>군사 유닛 중 하나가 적 유닛 근처에 있습니다. 공격하려면 적군이 있는 칸으로 전투 유닛을 이동시키십시오. 전투에서는 공격 유닛과 방어 유닛 모두 피해를 보거나 파괴될 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
+      <Text>근접전</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_ACTIVATE_BUTTON">
+      <Text>해군 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_BODY">
+      <Text>우리 문명 주변의 바다를 탐험하고 방어하기 위해선 강력한 해군을 보유하고 있어야 합니다. 또한, 강력한 원거리 공격으로 적군을 박살 내버릴 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_DISPLAY">
+      <Text>해군 유닛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL">
+      <Text>보좌관 조언</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_NEXT">
+      <Text>다음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_PREV">
+      <Text>이전</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_NEXT">
+      <Text>다음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_PREV">
+      <Text>이전</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_NEXT">
+      <Text>다음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_PREV">
+      <Text>이전</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_PAGE_DISPLAY">
+      <Text>{1_Num}/{2_Num}</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_NEXT">
+      <Text>다음</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_PREV">
+      <Text>이전</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_COUNSEL_TITLE">
+      <Text>보좌관 조언</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_ACTIVATE_BUTTON">
+      <Text>자연경관 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_BODY">
+      <Text>자연경관은 세계각지에 숨겨져 있습니다. 자연경관을 발견하면 문명의 행복이 증가하며 인접한 곳에 도시를 건설하면 상당한 혜택을 받습니다. 세계를 누비며 더 많은 자연경관을 찾아보십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_DISPLAY">
+      <Text>자연경관</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
+      <Text>이 이야기를 다시 듣지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_ACTIVATE_BUTTON">
+      <Text>승선 가능한 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_BODY">
+      <Text>이후에 생산되는 군사 유닛은 연구 덕분에 자동으로 '승선' 진급을 하게 될 것이며 물을 건널 수 있게 됩니다. 지상 유닛을 승선시키려면 해상 칸으로 이동시키면 됩니다. 승선한 유닛은 공격에 취약하므로 해군 유닛으로 호위하는 방안을 고려해 보십시오. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_DISPLAY">
+      <Text>승선 유닛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_END_TURN_BODY">
+      <Text>모든 유닛이 명령을 수행했으며 이번 턴에는 할 수 있는 행동이 없습니다. 턴을 넘기려면 '다음 턴' 버튼을 누르십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_END_TURN_DISPLAY">
+      <Text>다음 턴 클릭</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_BODY">
+      <Text>동일한 사치품을 하나 이상 개발했습니다. 같은 종류의 사치품으로는 하나의 [ICON_HAPPINESS_1]행복만 받을 수 있습니다. 여분의 사치품으로 다른 문명과 우리에게 없는 사치품이나 다른 자원으로 교환할 수 있습니다. 남아도는 사치품으로 우호적인 이웃과 거래를 해보십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_DISPLAY">
+      <Text>사치품 거래</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_ACTIVATE_BUTTON">
+      <Text>개척자 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_BODY">
+      <Text>이곳은 도시를 건설하기에 적합한 장소이며 식량과 자원이 풍부합니다. 도시를 건설하려면 화면 좌측에 있는 개척자 유닛 패널의 [COLOR_ADVISOR_HIGHLIGHT_TEXT]도시 건설[/COLOR] 버튼을 누르십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_DISPLAY">
+      <Text>도시 건설 완료</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+      <Text>전사 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_BODY">
+      <Text>[COLOR_ADVISOR_HIGHLIGHT_TEXT]새로운 지역을 탐험[/COLOR]하려면 전사를 활용해보십시오. 유닛을 선택하고 이동할 장소를 오른쪽 클릭하면 유닛을 해당 위치로 이동할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_DISPLAY">
+      <Text>세계 탐험</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON">
+      <Text>유적 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY">
+      <Text>고대 유적에는 당신의 문명을 발전 시킬 수 있는 비밀이 숨겨져 있습니다. [COLOR_ADVISOR_HIGHLIGHT_TEXT]고대 유적으로 유닛을 보내[/COLOR] 어떤 비밀이 숨겨져 있는지 확인해 보십시오. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_DISPLAY">
+      <Text>고대 유적!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_BODY">
+      <Text>탁월한 선택입니다! 최소의 피해만으로 적군을 물리쳤습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_DISPLAY">
+      <Text>현명한 공격 입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
+      <Text>탁월한 선택입니다! 피해를 얼마 안 입고도 적군에게 상당한 피해를 줄 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
+      <Text>현명한 공격 입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_ACTIVATE_BUTTON">
+      <Text>위대한 장군 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_BODY">
+      <Text>수많은 전투와 전쟁을 승리로 이끌었기 때문에 위대한 장군이 나타났습니다! 위대한 장군은 군사 유닛과 겹칠 수 있으며 인근 유닛에게 엄청난 혜택을 제공합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_DISPLAY">
+      <Text>위대한 장군</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_ACTIVATE_BUTTON">
+      <Text>위인 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
+      <Text>축하합니다. 문명에 위인이 출현했습니다! 능력이 뛰어난 이 사람들은 당신을 위해 여러 가지 일을 할 수 있습니다. 황금기를 시작한다던가 아니면 지형을 개선 시키는 독특한 시설을 건설하는 데 사용하는 등 그들의 특별한 능력을 최대한 활용하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
+      <Text>위인</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
+      <Text>생산적인 문명을 만들고 싶다면 시민의 행복에 주의를 기울이십시오. 사치품과 일부 건물은 시민의 [ICON_HAPPINESS_4] 불행을 상쇄할 [ICON_HAPPINESS_1] 행복을 생산합니다. 시민이 행복해야 활기찬 문명이 될 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_DISPLAY">
+      <Text>행복</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_ACTIVATE_BUTTON">
+      <Text>자원 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
+      <Text>시민이 불행하다고 느낍니다. [ICON_HAPPINESS_4]불행한 시민은 행복한 시민보다 성장이 느립니다. 시민을 행복하게 하려면 [COLOR_ADVISOR_HIGHLIGHT_TEXT]자원위에 시설을 건설하도록 일꾼에게 명령을 내려야합니다[/COLOR].</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
+      <Text>시민이 행복해하지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_BODY">
+      <Text>외교 패널을 클릭해 인근 국가와의 관계를 확인하십시오. 여기에는 외교 조약과 협정에 관련된 핵심 내용이 표시됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_DISPLAY">
+      <Text>외교 패널</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_ACTIVATE_BUTTON">
+      <Text>도시 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
+      <Text>다른 문명이나 도시 국가와 다시 대화하려면 도시 이름표를 클릭해 대화할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
+      <Text>문명이나 도시 국가 연락하기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_INFORMATION">
+      <Text>보좌관 정보</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+      <Text>임무없는 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_BODY">
+      <Text>한동안 이동하지 않은 유닛이 있습니다. 해당 유닛에 [COLOR_ADVISOR_HIGHLIGHT_TEXT]세계를 탐험하도록[/COLOR] 명령을 내리는 게 좋을 수도 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_DISPLAY">
+      <Text>세계 탐험!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_ACTIVATE_BUTTON">
+      <Text>개척자 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_BODY">
+      <Text>조만간 도시를 건설해야 합니다! 최대한 빨리 개척자의 [COLOR_ADVISOR_HIGHLIGHT_TEXT]도시 건설[/COLOR] 버튼을 클릭하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_DISPLAY">
+      <Text>도시 건설 완료!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_BODY">
+      <Text>영토를 방어하는 군사 유닛이 없습니다. 떠돌이 야만인을 쫓아내고 다른 문명이 기습하지 못 하도록 군사 유닛을 영토 내에 주둔시키는 게 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_DISPLAY">
+      <Text>방어할 군대 필요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_BODY">
+      <Text>재정이 늘어나 이제 돈을 쓸 수 있습니다. 토지를 매입해 영토를 확장하거나 도시 국가에 금을 주어 우호도를 높일 수도 있으며 유닛을 업그레이드 할 수 있습니다. 또한, 다른 문명을 뇌물로 포섭하는 것도 가능합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_DISPLAY">
+      <Text>재정이 넘쳐납니다</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_BODY">
+      <Text>너무 많은 군사 유닛 때문에 도시의  [ICON_PRODUCTION]생산이 지연되고 있습니다. 더 많은 군사 유닛을 감당할 수 있도록 기반시설이 확장될 때까지[COLOR_ADVISOR_HIGHLIGHT_TEXT]신규 군사 유닛 생산을 중단[/COLOR]하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_DISPLAY">
+      <Text>군사 유지비</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_CANCEL">
+      <Text>다시 생각해 보겠습니다</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_CONFIRM">
+      <Text>어쨌건 공격하겠습니다</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_DONT_SHOW_ME_AGAIN">
+      <Text>알려줘서 고맙긴 하지만 앞으론 그럴 필요 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MODAL_TITLE">
+      <Text>전투 정보</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_ACTIVATE_BUTTON">
+      <Text>숲 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_BODY">
+      <Text>숲은 유닛의 이동속도를 감소시킵니다. 숲이 있는 칸으로 유닛을 이동시키면 대부분 모든 행동력이 소진되며 시야를 가리기 때문에 숲 뒤에 있는 물체를 볼 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_DISPLAY">
+      <Text>이동: 숲</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_ACTIVATE_BUTTON">
+      <Text>언덕 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_BODY">
+      <Text>언덕은 유닛의 이동속도를 감소시키지만 다른 숲과 언덕 너머를 볼 수 있게 해주는 이점을 제공합니다. 언덕이 있는 칸으로 유닛을 이동시키면 대부분 모든 행동력이 소진되며 시야를 가리기 때문에 언덕 뒤에 있는 물체를 볼 수 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_DISPLAY">
+      <Text>이동: 언덕</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON">
+      <Text>정글 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY">
+      <Text>정글은 유닛의 이동속도를 감소시킵니다. 정글이 있는 칸으로 유닛을 이동시키면 대부분 모든 행동력이 소진되며 시야를 가리기 때문에 정글 뒤에 있는 물체를 볼 수 없습니다. 대부분 정글은 상당히 덥고 습하지만 별 상관은 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY">
+      <Text>이동: 정글</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON">
+      <Text>습지 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY">
+      <Text>습지는 유닛의 이동속도를 감소시킵니다. 습지 칸으로 유닛을 이동시키면 대부분 모든 행동력이 소진되며 방어하기 힘들기 때문에 조심해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY">
+      <Text>이동: 습지</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_ACTIVATE_BUTTON">
+      <Text>산악 지형 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_BODY">
+      <Text>지상 유닛은 산악 지형을 통과할 수 없으며 반드시 돌아가야 합니다. 산악 지형은 상당히 먼 거리에서도 볼 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_DISPLAY">
+      <Text>이동: 산악</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_ACTIVATE_BUTTON">
+      <Text>강 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
+      <Text>유닛이 강을 건널때는 이동속도가 감소합니다. 강을 건널때 대부분은 모든 행동력이 소진되며 강 건너의 적을 공격하기란 여간 어려운 일이 아니므로 주의를 기울여 유닛을 배치하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_DISPLAY">
+      <Text>이동: 강 건너기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
+      <Text>그 전투는 별 효과를 보지 못했습니다. 유리한 고지를 점령한 것도 아니며 그렇다고 적에게 치명상을 입히지도 못했습니다. 병사들을 지원할 다른 유닛을 데려와야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
+      <Text>공평한 전투</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
+      <Text>이번 공격으로 양측 모두 피해를 볼 것입니다. 적군을 지치게 할 여러 유닛이 근처에 있다면 적군이 우리에게 똑같은 공격을 하기 전에 공격을 하는 게 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
+      <Text>공평한 전투</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_BODY">
+      <Text>한 번에 하나의 유닛만이 한 칸에 있을 수 있습니다. 자기 차례가 된 군사 유닛은 다른 군사유닛을 통과할 수 있지만 다른 유닛과 겹쳐진 자리에서 차례를 종료할 수는 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_DISPLAY">
+      <Text>한 칸당 유닛 하나</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_ACTIVATE_BUTTON">
+      <Text>원거리 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_BODY">
+      <Text>이제 원거리 유닛이 생겼습니다. 원거리 유닛은 한 칸 이상 떨어진 적을 공격할 수 있지만, 근접 유닛의 공격을 받으면 쉽게 파괴됩니다. 후방에 배치한다면 많은 도움이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_DISPLAY">
+      <Text>원거리 유닛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_ACTIVATE_BUTTON">
+      <Text>점령한 도시 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
+      <Text>최근 점령한 도시는 우리 문명의 일부가 된 것을 그다지 반기는 눈치가 아니며 상당한 수준의  [ICON_HAPPINESS_4] 불행을 생성하고 있습니다. 도시에 법원을 건설한다면 시민이 [ICON_HAPPINESS_4] 불행하게 느끼지 않을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
+      <Text>점령한 도시에는 법원이 필요함</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_ACTIVATE_BUTTON">
+      <Text>점령한 도시 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_BODY">
+      <Text>최근 점령한 도시가 상당량의  [ICON_HAPPINESS_4]불행을 가지고 있습니다. 법원을 건설하면 시민의 불만을 해소할 수 있지만 그렇게 하기에는 기술력이 부족합니다. 수학을 연구해 법원을 건설하면 시민이 우리 문명의 행복한 일원이 되도록 만들 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_DISPLAY">
+      <Text>점령한 도시가 불행해 합니다</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_BODY">
+      <Text>마우스 오른쪽 버튼으로 유닛에 이동 명령을 내릴 수 있습니다. 유닛을 선택한 다음 이동할 타일을 오른쪽 클릭하면 유닛이 해당 위치로 이동합니다. 마우스 오른쪽 버튼을 계속 누르고 있으면 한 턴에 이동할 수 있는 칸이 표시됩니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_DISPLAY">
+      <Text>오른쪽 클릭 이동</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_BODY">
+      <Text>도시 목록에는 문명에 속한 모든 도시가 표시됩니다. 도시 목록을 사용해 문명에 무슨 일이 벌어지고 있는지 빠르게 확인할 수 있으며 전쟁을 하게 되면 손쉽게 각 도시의 생산물을 변경할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_DISPLAY">
+      <Text>도시 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_BODY">
+      <Text>어쩌고저쩌고</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_DISPLAY">
+      <Text>도시 화면</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_BODY">
+      <Text>외교 목록에는 이제껏 만난 문명과 도시 국가의 목록이 표시되며 항목별 점수도 표시됩니다. 목록을 클릭하면 해당 문명이나 도시 국가와 대화를 시작합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_DISPLAY">
+      <Text>외교 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_BODY">
+      <Text>외교 요약에는 외교와 관련된 모든 정보가 표시됩니다. 문명간의 외교 상황을 확인할 수 있으며 현존하는 교역물을 확인하고 다른 문명과 어떤 자원을 거래하면 되는지 확인할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_DISPLAY">
+      <Text>외교 요약</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_BODY">
+      <Text>경제 요약 화면에서는 모든 도시의 자세한 정보를 확인할 수 있습니다. 또한, [ICON_GOLD]금 수입과 어디에 [ICON_GOLD]금을 사용하고 있는지 확인할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_DISPLAY">
+      <Text>경제 요약</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_BODY">
+      <Text>문명들은 외교 교역 화면을 통해 외교적 교류를 할 수 있습니다. 각 문명은 자신의 거래 목록에서 제안을 만들고 상대방에게 거래를 제안할 수 있습니다. 양측이 동의하면 교역 화면의 아이템들이 교환됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_DISPLAY">
+      <Text>외교 교역</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_BODY">
+      <Text>군사 요약 화면에서는 문명이 소유하고 있는 모든 유닛에 대한 자세한 정보와 각 유닛이 보급품을 얼마나 소모하고 있는지 확인할 수 있으며 위대한 장군을 얻는 데 걸리는 진행상황도 확인할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_DISPLAY">
+      <Text>군사 요약</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_BODY">
+      <Text>생산 선택 화면에서 유닛, 건물, 불가사의 중 하나를 선택해 도시에서 생산되게 할 수 있습니다. 도시는 한 번에 하나의 아이템만 처리할 수 있습니다. 도시에서 생산이 완료될 때마다 새로 생산할 아이템을 선택해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_DISPLAY">
+      <Text>생산 선택</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
+      <Text>사회 정책 화면에서는 문명을 형성하는 데 필요한 사회 정책을 선택할 수 있습니다. 그동안 축적한 [ICON_CULTURE]문화를 사용해 잠겨 있는 사회 정책을 열 수 있습니다. 기술 시대에 도달하지 못하면 일부 기술을 선택할 수 없으며 일부 기술은 다른 기술과 같이 사용할 수 없습니다.  (마우스를 위로 가져가면 표시되는 도움말을 보고 같이 사용할 수 없는 기술이 무엇인지 확인하십시오.)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
+      <Text>사회 정책</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_BODY">
+      <Text>기술 선택 화면에서는 문명이 연구할 기술을 선택할 수 있습니다. 한 가지 기술을 습득하고 나면 새로 연구할 다른 기술을 선택할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_DISPLAY">
+      <Text>기술 선택</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_BODY">
+      <Text>기술 발전표에서는 연구할 수 있는 기술과 각 기술의 관계를 한눈에 볼 수 있습니다. 기술간의 관계를 보면 새로운 기술 습득에 필요한 조건 확인이 가능합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_DISPLAY">
+      <Text>기술 발전표</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_BODY">
+      <Text>유닛 목록에는 지휘하에 있는 모든 유닛의 목록이 표시됩니다. 유닛을 하나 선택하면 지도 상 어느 위치에 있는지 확인할 수 있으며 명령을 내릴 수도 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_DISPLAY">
+      <Text>유닛 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_ACTIVATE_BUTTON">
+      <Text>개척자 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
+      <Text>개척자를 사용해 새로운 도시를 건설할 수 있습니다. 도시가 성장하기 위해선 도시 근처에 품질 좋은 다수의[ICON_FOOD] 식량 칸이 있어야 하므로 [ICON_FOOD] 식량 자원 옆에다 도시를 건설하십시오. [COLOR_ADVISOR_HIGHLIGHT_TEXT]개척자를 비옥한 땅으로 이동시켜 새로운 도시를 건설하십시오.[/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
+      <Text>도시 건설 장소</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_ACTIVATE_BUTTON">
+      <Text>개척자 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_BODY">
+      <Text>개척자가 국경 밖에 홀로 있으며 적에게 잡힐 수 있습니다. 야만인들과 호시탐탐 기회를 노리고 있는 적국으로부터 개척자를 보호하도록 [COLOR_ADVISOR_HIGHLIGHT_TEXT]군사 유닛에게 개척자를 호위하라고 명령하십시오.[/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_DISPLAY">
+      <Text>개척자 보호</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_ACTIVATE_BUTTON">
+      <Text>공성 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
+      <Text>공성 유닛은 원거리에서 도시를 공격하는 데 아주 효과적이지만 다른 유닛의 공격에 취약하기 때문에 항상 보호해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_DISPLAY">
+      <Text>공성 유닛</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_BODY">
+      <Text>저는 과학 보좌관입니다. 이번 튜토리얼에서는 지도에서 유닛을 이동하는 방법을 알려드리겠습니다. 이동 중에 고대 유적과 자연경관, 그리고 새로운 대륙도 발견하게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_DISPLAY">
+      <Text>이동과 탐험</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_BODY">
+      <Text>저는 경제 보좌관입니다. 이번 튜토리얼에서는 도시 운용과 새 도시 건설 방법, 그리고 도시 건설에 가장 적합한 장소 등을 알아보겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_DISPLAY">
+      <Text>개척자 생산 및 도시 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
+      <Text>저는 경제 보좌관입니다. 이번 튜토리얼에서는 일꾼을 사용해 도시를 발전시키는 방법을 알아보겠습니다. 일꾼은 지시를 받아 [ICON_GOLD] 금 수입을 늘리는 교역로나 도시 성장 및 건설 속도를 가속화하는 시설을 건설하고, 시민의 행복을 높이는 자원을 개발할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
+      <Text>일꾼으로 도시 발전시키기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_BODY">
+      <Text>저는 군사 보좌관입니다. 제가 하는 일은 아시리라 믿습니다. 이번 튜토리얼에서는 야만인을 쫓아내는 방법과 그들의 주둔지를 파괴하는 방법, 적 문명 도시를 정복하는 방법을 살펴보겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_DISPLAY">
+      <Text>전투 및 정복</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_BODY">
+      <Text>저는 외교 보좌관입니다. 이번 튜토리얼에서는 다른 문명과 도시 국가와의 외교에 대한 기초를 알려 드리겠습니다. 이 주제는 다소 복잡하므로, 지금은 도시 국가에 대한 우호도 높이기와 인근 문명과의 자원 거래 방법에만 초점을 맞추도록 하겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_DISPLAY">
+      <Text>기본 외교</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_ACTIVATE_BUTTON">
+      <Text>도시 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
+      <Text>개척자는 최소 두 명의 [ICON_CITIZEN] 시민이 있어야 도시를 건설할 수 있고 당신이 좀 더 빨리 발전할 수 있도록 추가로 [ICON_CITIZEN] 시민을 제공해 드렸습니다. 그렇다고 여기에 너무 익숙해지지는 마십시오. 이제부터 건설되는 도시는 오직 한 명의 [ICON_CITIZEN] 시민으로만 시작하게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
+      <Text>추가 시민</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_ACTIVATE_BUTTON">
+      <Text>손상된 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_BODY">
+      <Text>파괴되기 직전인 유닛이 있습니다. 손상된 유닛은 전투 효율이 떨어지며 파괴되기 쉬우므로, 안전한 곳으로 이동시킨 후 [COLOR_ADVISOR_HIGHLIGHT_TEXT]회복될 때까지 방어 태세[/COLOR] 명령을 내려 보십시오. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_DISPLAY">
+      <Text>유닛을 치료하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_ACTIVATE_BUTTON">
+      <Text>업그레이드 가능한 유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_BODY">
+      <Text>[ICON_GOLD]금을 사용해 더 이상 쓸모없는 유닛을 업그레이드하면 더 강력한 유닛으로 변환할 수 있습니다. 유닛을 영토 안으로 이동시키면 유닛 업그레이드 버튼이 화면에 표시될 것입니다. [COLOR_ADVISOR_HIGHLIGHT_TEXT]업그레이드 버튼을 눌러서[/COLOR] 쓸모없는 유닛을 향상하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_DISPLAY">
+      <Text>유닛 업그레이드하기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
+      <Text>국민이 매우 [ICON_HAPPINESS_4] 불행해하고 있습니다. 도시의 [ICON_PRODUCTION] 생산력이 급격히 감소했으며 병력도 잘 싸울 수 없게 됩니다. 다른 지도자들과 자원을 거래하고 특정 건물을 건설하며 자원 위에 시설을 세워 행복을 높이십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
+      <Text>국민이 몹시 화났습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_BODY">
+      <Text>위대한 문명으로 발전하고 게임을 승리하는 데는 여러 가지 방법이 있습니다. 군사, 기술, 외교, 문화 등 네 가지 방법이 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_DISPLAY">
+      <Text>승리를 쟁취하는 방법!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
+      <Text>작업선 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
+      <Text>작업선은 해안 인근의 생선과 고래 자원을 개발할 수 있으며 일단 그 자원들을 개발하고 나면 작업선은 영구히 소모됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
+      <Text>작업선</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_ACTIVATE_BUTTON">
+      <Text>일꾼 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_BODY">
+      <Text>이제 일꾼이 생겼으니 영토의 생산성이 증가하도록 시설을 건설하라고 명령할 수 있습니다. [COLOR_ADVISOR_HIGHLIGHT_TEXT]강조 표시가 된 칸으로 일꾼을 이동시켜 시설을 건설하십시오.[/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_DISPLAY">
+      <Text>일꾼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_ACTIVATE_BUTTON">
+      <Text>일꾼 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
+      <Text>일꾼이 있기는 하지만 아직 개발한 칸이 없습니다. 경제적 혜택을 받을 수 있도록 소유한 도시 인근에 [COLOR_ADVISOR_HIGHLIGHT_TEXT]시설을 건설하도록 일꾼에게 명령하십시오.[/COLOR]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
+      <Text>일꾼에게 할 일이 필요합니다</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_ACTIVATE_BUTTON">
+      <Text>일꾼 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_BODY">
+      <Text>일꾼은 무방비 상태이므로 국경 밖에서 이동할 때는 상당히 조심해야 합니다. 지금은 하나의 도시밖에 없으므로 [COLOR_ADVISOR_HIGHLIGHT_TEXT]일꾼을 영토 안에 놔두는 것이[/COLOR] 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_DISPLAY">
+      <Text>일꾼을 안전하게 보호하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_BODY">
+      <Text>지금은 충분한 수의 일꾼을 보유하고 있습니다. 뭔가 다른걸 만드는 게 좋을 것 같습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_DISPLAY">
+      <Text>일꾼을 그만 생산하십시오</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_BODY">
+      <Text>도시 인근의 땅을 좀 더 생산적이게 만들 수 있습니다. 영토를 개발하려면 [COLOR_ADVISOR_HIGHLIGHT_TEXT]일꾼을 생산하십시오[/COLOR].</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_DISPLAY">
+      <Text>일꾼 생산!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_ACTIVATE_BUTTON">
+      <Text>유닛 찾기</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_BODY">
+      <Text>아군 유닛이 적군의 통제 지역 안에 있습니다. 이 말은 적 유닛이나 도시 옆 칸에서 같은 적 옆 칸으로 이동하면 모든 행동력이 소모된다는 뜻입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_DISPLAY">
+      <Text>통제 지역</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_NEED_SETTLER">
+      <Text>{1_CityName:textkey}의 준비가 완료되었으며 영토를 넓힐 개척자를 생산할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_UNDER_THREAT">
+      <Text>수도인 {1_CityName:textkey} 주변을 눈여겨보십시오. 근처에서 적의 움직임이 관측되었으므로 그들의 공격에 대비해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_NAVAL_TILE_IMPROVEMENT">
+      <Text>{1_CityName:textkey}의 해상 자원이 모두 개발되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_TILE_IMPROVERS">
+      <Text>지금은 {1_CityName:textkey}에 일꾼을 더 투입할 필요가 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_HAVE_TRAINING_FACILITY">
+      <Text>{1_CityName:textkey}에 아군의 병력 생산량을 높일 수 있는 건물이 있습니다. 효율을 높이려면 {1_CityName:textkey}에서 아군의 새로운 유닛을 생산해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_LANDLOCKED">
+      <Text>{1_CityName:textkey}은(는) 육지로 둘러싸여 물과 인접한 곳이 없습니다. 따라서 상어보다는 곰을 더 조심해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_FOOD">
+      <Text>{1_CityName:textkey}이(가) 더 큰 도시로 발전하려면 [ICON_FOOD] 식량이 필요합니다. 일꾼에게 명령을 내려 근처에 농장을 건설하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
+      <Text>{1_CityName:textkey}의 생산 속도를 높이려면 [ICON_PRODUCTION] 생산력이 필요합니다. 일꾼에게 명령을 내려 근처에 광산을 건설하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_GROWTH">
+      <Text>{1_CityName:textkey}에 일정 수 이상의 수상 타일이 있습니다. 해당 타일의 생산성을 높일 수 있도록 등대와 같은 건물을 건설해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
+      <Text>{1_CityName:textkey}의 물속에 개발되지 않은 자원이 있습니다. 작업선을 투입하여 자원을 개발해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_TILE_IMPROVERS">
+      <Text>{1_CityName:textkey}에 타일을 개발할 일꾼들이 필요합니다. {1_CityName:textkey}에서 일꾼들을 훈련시켜 근처의 타일을 개발하도록 해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_SMALL_CITY">
+      <Text>지금은 {1_CityName:textkey}의 크기가 너무 작아 불가사의와 같은 건축물을 수용할 수 없습니다. 대규모 프로젝트를 추진하기 전에 {1_CityName:textkey}의 규모를 더 크게 늘려야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_UNDER_BLOCKADE">
+      <Text>적들이 {1_CityName:textkey}을(를) 봉쇄하려고 합니다! 도시에서 원거리 공격을 가하고 주변의 배를 이용하여 적 함선들을 몰아내야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_AICITYSTRATEGY_WANT_TILE_IMPROVERS">
+      <Text>{1_CityName:textkey} 주변의 타일들을 개발하면 큰 혜택을 얻을 수 있습니다. 일꾼들을 작업에 투입하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_ECONOMIC">
+      <Text>죄송합니다만 지금은 조언 드릴 것이 없습니다. 도시를 더 세우는 것은 어떻겠습니까?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_FOREIGN">
+      <Text>적들이 무슨 계획을 세울지 생각해 보십시오. 하지만 너무 깊이 생각하지는 말아 주십시오. 그랬다가는 제 일자리가 사라질 테니까요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_MILITARY">
+      <Text>유닛을 더 생산하는 것도 고려해 보십시오. 지금은 드릴 조언이 없군요. 나중에 질문하실 때까지 좀 더 생각해 보겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_SCIENCE">
+      <Text>이 지혜의 샘이 잠시 동안 고갈됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BEGIN_GAME_BUTTON">
+      <Text>여정을 시작합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BEGIN_GAME_BUTTON_CONTINUE">
+      <Text>여정을 계속합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_ECONOMIC">
+      <Text>현재 도시가 없으므로, 도시를 세우면 우리 문명에 도움이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_FOREIGN">
+      <Text>외교 관계를 시작하려면 다른 문명이 대화하고자 할 때 우리를 찾을 수 있도록 도시를 세워야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_MILITARY">
+      <Text>더 많은 군사 유닛을 생산할 수 있도록 도시를 세우십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_SCIENCE">
+      <Text>짐을 내려놓을 수 있도록 도시를 세우는 것이 어떻습니까? 팔이 빠질 지경이군요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_ECONOMIC">
+      <Text>경제 보좌관이 다음을 추천합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_FOREIGN">
+      <Text>외교 보좌관이 다음을 추천합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_MILITARY">
+      <Text>군사 보좌관이 다음을 추천합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_SCIENCE">
+      <Text>과학 보좌관이 다음을 추천합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_MORE">
+      <Text>{2_CityName:textkey} 근처에 {1_ResourceName:textkey}을(를) 획득할 수 있는 장소가 있습니다. 해당 자원을 이미 보유하고 있지만, 자원을 추가로 얻으면 무역 거래에 유용하게 사용할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
+      <Text>현재 {1_ResourceName:textkey}을(를) 보유하고 있지 않으며 {2_CityName:textkey} 근처에 이 자원을 얻을 수 있는 곳이 있습니다. 일꾼을 보내 해당 타일을 개발하면 자원을 얻을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_BUILDING_LIST">
+      <Text>건물 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_IMPROVEMENT_LIST">
+      <Text>시설 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_MINOR_CIV_LIST">
+      <Text>도시 국가 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_PROMOTIONS_LIST">
+      <Text>진급 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_RESOURCES_LIST">
+      <Text>자원 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SOCIAL_POLICIES">
+      <Text>사회 정책 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SPECIALISTS_AND_GREAT_PEOPLE">
+      <Text>전문가와 위인 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_TECHNOLOGY_LIST">
+      <Text>기술 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_TERRAIN_LIST">
+      <Text>지형 및 특수지형 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_UNITS_LIST">
+      <Text>유닛 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_WONDER_LIST">
+      <Text>불가사의 목록</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY">
+      <Text>빨리 손을 쓰지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 주의가 부족하여 동맹이 깨진다면 그동안 들인 노력이 아깝게 될 겁니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CLEAR_BARBARIANS">
+      <Text>빨리 우호도를 높이지 않으면 {1_MinorCivName:textkey}와의 동맹 관계가 깨질 것입니다. 동맹 관계를 유지하고 싶으면 해당 도시 국가의 영토에 인접해 있는 야만인을 죽여 보세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONNECT_RESOURCE">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 상대는 우리가 {2_ResourceName:textkey}을(를) 가져다주기를 바라고 있습니다. 이 기대를 충족시키면 동맹 관계에서도 더 큰 영향력을 발휘할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONSTRUCT_WONDER">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 상대는 우리가 {@2_BldgName}을(를) 건설하기를 바라고 있습니다. 이 기대를 충족시키면 동맹 관계에서도 더 큰 영향력을 발휘할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_NATURAL_WONDER">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 우리가 자연경관을 찾아내면 동맹 관계에서도 더 큰 영향력을 발휘할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_PLAYER">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 우리가 주변을 탐험하여 {2_LongCivName:textkey}와(과) 접촉하면 동맹 관계에서도 더 큰 영향력을 발휘할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_GREAT_PERSON">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 상대는 우리가 {@2_UnitName}을(를) 생산하기를 바라고 있습니다. 이 기대를 충족시키면 동맹 관계에서도 더 큰 영향력을 발휘할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CAMP">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 상대는 우리가 주변의 야만인 주둔지를 없애주기를 바라고 있습니다. 그러면 동맹을 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CITY_STATE">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 상대는 우리가 대신 {2_MinorCivName:textkey}을(를) 처치해주길 바라고 있습니다. 이 기대를 충족하면 다른 세력의 분노를 살 수 있지만 동맹은 유지할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_ROUTE">
+      <Text>영향력을 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 상대는 우리가 상대 도시에서 우리 수도로 이어지는 길을 건설하기를 바라고 있습니다. 그러면 동맹을 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_WAR_WITH_MAJOR">
+      <Text>우호도를 더 높이지 않으면 {1_MinorCivName:textkey}와(과)의 동맹이 깨질 수 있습니다. 상대가 {2_LongCivName:textkey}와(과)의 싸움에 도움을 청하고 있습니다. 해당 문명에 전쟁을 선포하면 동맹을 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 관계를 유지하려면 상대에 대한 우호도를 높일 수 있는 행동을 취해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CLEAR_BARBARIANS">
+      <Text>빨리 우호도를 높이지 않으면 {1_MinorCivName:textkey}와의 우호 관계가 깨질 것입니다. 우호 관계를 유지하고 싶으면 해당 도시 국가의 영토에 인접해 있는 야만인을 죽여 보세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONNECT_RESOURCE">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 상대는 우리가 {2_ResourceName:textkey}을(를) 가져다주기를 바라고 있습니다. 이 기대를 충족시키면 우호 관계를 계속 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONSTRUCT_WONDER">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 상대는 우리가 {@2_BldgName}을(를) 건설하기를 바라고 있습니다. 이 기대를 충족시키면 우호 관계를 계속 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_NATURAL_WONDER">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 자연경관을 찾으면 우호 관계를 더 쉽게 유지할 수 있으므로 빠르게 탐사하는 것이 좋습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_PLAYER">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 주변 탐험을 통해 {2_LongCivName:textkey}와(과) 접촉하면 우호도를 높워 우호 관계를 계속 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_GREAT_PERSON">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 상대는 우리가 {@2_UnitName}을(를) 생산하기를 바라고 있습니다. 이 기대를 충족시키면 우호 관계를 계속 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CAMP">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 상대는 우리가 주변의 야만인 주둔지를 없애주기를 바라고 있습니다. 이 기대를 충족시키면 우호 관계를 계속 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CITY_STATE">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 상대는 우리가 대신 {2_MinorCivName:textkey}을(를) 처치해주기를 바라고 있습니다. 이 기대를 충족하면 다른 세력의 분노를 살 수 있지만 우호 관계는 유지할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_ROUTE">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 상대는 우리가 상대 도시에서 우리 수도로 이어지는 길을 건설해주기를 바라고 있습니다. 이 기대를 충족시키면 우호 관계를 계속 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_WAR_WITH_MAJOR">
+      <Text>빠르게 조치를 취하지 않으면 {1_MinorCivName:textkey}와(과)의 우호 관계가 깨질 수 있습니다. 상대가 {2_LongCivName:textkey}와(과) 싸우는 것을 도와줘야 합니다. 해당 문명에 전쟁을 선포하면 우호 관계를 유지할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE">
+      <Text>자금이나 유닛을 제공하면 {1_MinorCivName:textkey}에 대한 우호도를 얻을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CLEAR_BARBARIANS">
+      <Text>{1_MinorCivName:textkey}의 영토에 인접해 있는 야만인을 죽이면 그들에 대한 우리의 우호도가 높아질 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONNECT_RESOURCE">
+      <Text>{2_ResourceName:textkey}을(를) 제공하면 {1_MinorCivName:textkey}에 대한 우호도를 얻을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONSTRUCT_WONDER">
+      <Text>{@2_BldgName}을(를) 건설하면 {1_MinorCivName:textkey}에 대한 우호도를 얻을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_NATURAL_WONDER">
+      <Text>자연경관을 발견하면 {1_MinorCivName:textkey}에 대한 우호도를 얻을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_PLAYER">
+      <Text>{1_MinorCivName:textkey}이(가) {2_CivName:textkey}와 접촉하고 싶어합니다. 주변을 탐험하여 해당 문명을 찾으면 우호도를 쉽게 얻을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_GREAT_PERSON">
+      <Text>{@2_UnitName}을(를) 생산하면 {1_MinorCivName:textkey}도 감탄할 겁니다. 어서 유닛을 생산합시다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CAMP">
+      <Text>근처에 있는 야만인들을 물리치면 {1_MinorCivName:textkey}에 대한 우호도를 얻을 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CITY_STATE">
+      <Text>{1_MinorCivName:textkey}이(가) {2_MinorCivName:textkey}을(를) 제거해주기를 바라고 있습니다! 이유가 무엇일까요? 잔인하지만, 그래도 분명 합당한 이유가 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_ROUTE">
+      <Text>일꾼들을 투입하여 우리 수도와 {1_MinorCivName:textkey}을(를) 연결하는 경로를 구축하면 관계 향상에 도움이 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_WAR_WITH_MAJOR">
+      <Text>{1_MinorCivName:textkey}와(과)의 관계를 발전시키려면 {2_LongCivName:textkey}와(과)의 전쟁을 도와야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_HIGH">
+      <Text>{1_LongCivName:textkey}이(가) 우리 도시들 주변의 땅을 너무 많이 차지했습니다. 이 사안을 논의할 필요가 있을 듯합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_INCREDIBLE">
+      <Text>탐욕스러운 {1_CivName:textkey}이(가) 국경을 넓히며 우리 도시들을 압박하고 있습니다! 조치를 취하지 않으면 결국 전쟁을 치르게 될 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_MEDIUM">
+      <Text>{1_LongCivName:textkey}이(가) 우리 영토 부근으로 국경을 넓혔습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_LIBERATE_CITY_STATE">
+      <Text>{2_LongCivName:textkey}이(가) {1_MinorCivName:textkey}을(를) 점령했습니다. 우리가 도시를 다시 점령한 뒤 해방하면 도시 국가 {3_MinorCivName:textkey}이(가) 재건되어 그들에 대한 막대한 우호도를 얻을 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_HIGH">
+      <Text>우리 국경 근처에서 {1_LongCivName:textkey} 유닛이 여럿 발견되었습니다. 이는 공격의 전조일지도 모릅니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_INCREDIBLE">
+      <Text>상황이 좋지 않습니다. {1_LongCivName:textkey}이(가) 우리 국경 근처에 대군을 소집했습니다! 적의 습격에 대비하는 것이 좋겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_MEDIUM">
+      <Text>흥미롭군요. 우리 국경 근처에서 {1_LongCivName:textkey}이(가) 유닛을 옮기는 장면이 목격되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_AVERAGE">
+      <Text>{1_LongCivName:textkey}의 군사력이 우리와 거의 비슷합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_IMMENSE">
+      <Text>{1_LongCivName:textkey}의 병력은 우리를 멸망시키기 충분합니다. 상대와 최대한 평화 관계를 유지하며 군사력을 키워야 이 위기에서 벗어날 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_PATHETIC">
+      <Text>{1_LongCivName:textkey}에 군대가 있는지조차 의심스럽습니다. 저들과 싸운다면 거의 일방적으로 승리할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POOR">
+      <Text>{1_LongCivName:textkey}의 군사력은 우리만큼 강하지 않지만, 그렇다고 외교 회담 때 상대를 모욕해서는 안 됩니다. 상대가 불안해할 수 있으니까요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POWERFUL">
+      <Text>{1_LongCivName:textkey}은(는) 함부로 대할 상대가 아닙니다. 우리보다 강한 군사력을 가지고 있으니 건드려봤자 큰일만 벌어질 겁니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_STRONG">
+      <Text>{1_LongCivName:textkey}의 군사력은 우리보다 강합니다. 충분한 노력과 시간을 들여 우리 군사력을 키우기 전에는 맞붙어서는 안 됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_WEAK">
+      <Text>{1_LongCivName:textkey}의 유일한 부대를 본 것 같습니다. 참으로 처량하고 쓸쓸한 꼴이더군요. 우리처럼 힘 있는 세력과 싸운다면 저들로서는 큰 비극이라 할 수밖에 없을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_FIERCE">
+      <Text>{1_LongCivName:textkey}이(가)  우리와 {2_MinorCivName:textkey}의 관계를 적극적으로 이간질하고 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_STRONG">
+      <Text>{1_LongCivName:textkey}이(가) {2_MinorCivName:textkey}와(과) 동맹을 맺기 위해 우리와 치열하게 경쟁하고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_WEAK">
+      <Text>{1_LongCivName:textkey}이(가) {2_MinorCivName:textkey}와(과) 동맹을 맺기 위해 우리와 경쟁하기 시작했습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_CRITICAL">
+      <Text>{1_LongCivName:textkey}이(가) 피에 굶주린 듯합니다! 저렇게 주변에 싸움을 걸다 보면 우리에게 칼을 들이대는 것도 시간문제일 것입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MAJOR">
+      <Text>{1_LongCivName:textkey}은(는) 마치 약한 주변국을 괴롭히는 건달 같군요. 어머니께서 말씀하시길, 건달한테는 매가 약이라고 하셨지요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MINOR">
+      <Text>{1_LongCivName:textkey}은(는) 지금까지 다른 문명에 매우 호전적이었습니다. 앞으로도 주의해서 지켜봐야겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_NONE">
+      <Text>{1_LongCivName:textkey}은(는) 다른 문명과 상당히 관계가 좋은 듯합니다. 하지만 장담하건대 분명히 뭔가 꾸미고 있을 겁니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_SEVERE">
+      <Text>{1_LongCivName:textkey}이(가) 모두를 공격하고 있습니다! 여자와 어린이들을 숨기고 수도를 방어하여 적이 정복 승리를 거둘 수 없게 하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_PEACE">
+      <Text>{1_LongCivName:textkey}의 군사력은 우리보다 훨씬 강하므로 지금은 전쟁을 선포하기 좋은 때가 아닙니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_WAR">
+      <Text>{1_LongCivName:textkey}와(과)의 전쟁이 순조롭지 않습니다. 평화를 제안하여 적대 관계를 끝내는 것도 고려해야겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_PEACE">
+      <Text>지금은 {1_LongCivName:textkey}을(를) 도발하지 않는 것이 좋겠습니다. 지금은 저들이 우리보다 강하니 행동을 조심하고 건드리지 않도록 주의해야 할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_WAR">
+      <Text>당장 {1_LongCivName:textkey}와(과) 평화 조약을 맺도록 하십시오. 그러지 않으면 멸망하게 될지도 모릅니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_PEACE">
+      <Text>{1_LongCivName:textkey}의 군사력은 우리보다 약합니다. 저들에게서 얻어낼 것이 있다면 지금이 요구하기 좋은 때라고 봅니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_WAR">
+      <Text>{1_LongCivName:textkey}와(과)의 전쟁은 순조로우며 군사력도 우리가 우세합니다. 계속 압박을 가해서 승리를 쟁취하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_STALEMATE_WAR">
+      <Text>{1_LongCivName:textkey}의 전력은 우리와 거의 비슷합니다. 이 전쟁으로 우위를 가르게 될 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_PEACE">
+      <Text>우리 군사력은 {1_LongCivName:textkey}보다 훨씬 강합니다. 저들을 괴롭히자는 것은 아닙니다만, 국가의 영광을 위해 어느 정도 무력을 행사할 필요는 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_WAR">
+      <Text>지금 우리 군사력이라면 {1_LongCivName:textkey}을(를) 쉽게 분쇄할 수 있습니다! 저들이 외교적인 술수를 부리기 전에 빠르게 처리해야 할 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_GROWTH">
+      <Text>우리는 해안 도시가 많으므로, 해안 타일의 생산량을 높이는 건물을 집중적으로 건설해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_TILE_IMPROVEMENT">
+      <Text>사용하지 않는 수자원이 있습니다. 작업선을 건조하여 수자원을 우리 문명에 도움이 되도록 활용하세요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_EARLY_EXPANSION">
+      <Text>확장할 영토가 많으므로 개척자를 보내 새 도시를 세워야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_EXPANSION">
+      <Text>새 도시 건설보다는 현재 있는 도시들을 발전시키는 데 집중해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON">
+      <Text>세계를 탐험할 모험가는 충분히 있습니다. 더 이상 탐험 유닛을 만드는 것은 좋지 않습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON_SEA">
+      <Text>해안을 충분히 탐험하였습니다. 더 이상 바다를 탐험할 유닛을 보낼 필요는 없을 듯합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_FOUND_CITY">
+      <Text>개척자가 생겼으니 이제 새 도시를 세울 곳을 찾아야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS">
+      <Text>대 피라미드를 짓고 있으니 다른 도시에 곡창을 지을 필요가 없습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ISLAND_START">
+      <Text>우리가 있는 곳은 확장할 공간이 많지 않은 작은 대륙입니다. 이제 밖으로 뻗어나갈 유닛이 나올 때까지 해상 기술에 집중해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_LOSING_MONEY">
+      <Text>경쟁력을 유지하려면 [ICON_GOLD] 금 수입을 늘려야 합니다. 쓸모없는 유닛을 해산하여 유닛 유지비를 줄이고 일꾼들에게 타일당 [ICON_GOLD] 금 생산량을 늘려줄 시설과 [ICON_GOLD] 금 수입량을 높여줄 건물을 짓도록 지시하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS">
+      <Text>시민들의 [ICON_HAPPINESS_1] 행복이 우려할 만한 수준입니다. 사치품 자원을 개발하고 [ICON_HAPPINESS_1] 행복을 증가시키는 건물과 불가사의를 건설하고 사람들을 행복하게 만들어줄 정책을 도입해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL">
+      <Text>시민들이 불행해합니다! 사치품 자원을 개발하고 [ICON_HAPPINESS_1] 행복을 높여주는 건물과 불가사의를 건설하며, 사람들을 행복하게 해줄 정책을 선보여 행복을 빠르게 높여야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_FOOD">
+      <Text>[ICON_FOOD] 식량 문제가 발생했습니다! 일꾼들에게 [ICON_FOOD]식량 생산량을 높여주는 시설을 건설하도록 지시하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
+      <Text>[ICON_PRODUCTION] 생산력 문제가 발생했습니다! 일꾼들에게 [ICON_PRODUCTION] 생산력 생성량을 높여주는 시설을 건설하도록 지시하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON">
+      <Text>계속 세계를 탐험하며 고대 유적과 자연경관, 그리고 다른 문명들을 찾아야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON_SEA">
+      <Text>계속 바다를 탐험하며 새롭게 정착할 대륙을 찾아야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES">
+      <Text>해안 도시가 두 개 이상이어야 항만을 이용할 수 있으므로, 항만 건설은 피하세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES_INVERSE">
+      <Text>해안에 항만으로 연결할 수 있는 도시가 있습니다. 이들 도시에 항만을 건설하면 해상 교역로가 생겨 [ICON_GOLD]금을 더 모을 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_ECONOMICAISTRATEGY_TOO_MANY_UNITS">
+      <Text>보유한 유닛 수로 인해 [ICON_PRODUCTION] 생산력이 저하되고 있습니다. 원활한 운영을 위해 불필요한 유닛을 해산하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN">
+      <Text>현재 파산 상태이며 수입이 없습니다! 모든 수단을 동원하여 재정을 흑자로 되돌려야만 부채를 갚을 수 있습니다. 외교적 수단을 통해 자금을 모을 수 있다면 단기적으로 큰 도움이 될 겁니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_BUILDING_MAINTENANCE">
+      <Text>현재 파산 상태이며 수입이 없습니다! 부채를 해결할 수 있는 모든 수단을 동원해야 합니다! 현재 최대 지출 항목은 건물 유지비이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_DIPLOMACY">
+      <Text>현재 파산 상태이며 수입이 없습니다! 부채를 해결할 수 있는 모든 수단을 동원해야 합니다! 현재 최대 지출 항목은 외교 협상 비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 가능하다면 협상을 갱신하지 않거나, [ICON_GOLD] 금을 소비하지 않고 벌어들일 수 있는 새로운 거래를 성사시켜야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_IMPROVEMENT_MAINTENANCE">
+      <Text>현재 파산 상태이며 수입이 없습니다! 부채를 해결할 수 있는 모든 수단을 동원해야 합니다! 현재 최대 지출 항목은 시설 유지비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 필요 이상의 시설을 더 이상 건설하지 말고, 불필요한 건물은 파괴하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_MAINTENANCE">
+      <Text>우리는 파산 상태인 데다 돈을 못 벌고 있습니다! 빚을 청산하기 위해 무슨 짓이든 해야 합니다! 현재 우리의 가장 큰 지출 항목(턴 당 {1_Num} [ICON_GOLD] 골드 지출) 은 유닛 유지비입니다. 정말 필요한 유닛이 아니면 해산하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_SUPPLY">
+      <Text>현재 파산 상태이며 수입원이 없습니다! 부채를 해결할 수 있는 모든 수단을 동원해야 합니다! 현재 최대 지출 항목은 유닛 보급 비용(턴마다 [ICON_GOLD] 금 {1_Num} 소비) 또는 국경 밖에 있는 유닛 관련 비용입니다. 유닛을 국경 내로 옮기거나 삭제하십시오. 이 재정 문제를 해결하는 것이 무엇보다 시급합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP">
+      <Text>현재 파산 상태이지만 아직 수입이 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_BUILDING_MAINTENANCE">
+      <Text>현재 파산 상태이지만 아직 수입이 있습니다. 현재 최대 지출 항목은 건물 유지비이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_DIPLOMACY">
+      <Text>현재 파산 상태이지만 아직 수입이 있습니다. 현재 최대 지출 항목은 외교 협상 비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 가능하다면 협상을 갱신하지 않거나, [ICON_GOLD] 금을 소비하지 않고 벌어들일 수 있는 새로운 거래를 성사시켜야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_IMPROVEMENT_MAINTENANCE">
+      <Text>현재 파산 상태이지만 아직 수입이 있습니다. 현재 최대 지출 항목은 시설 유지비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 필요 이상의 시설을 더 이상 건설하지 말고, 불필요한 건물은 파괴하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_MAINTENANCE">
+      <Text>현재 파산 상태이지만 아직 수입원이 있습니다. 현재 최대 지출 항목은 유닛 유지비(턴마다 [ICON_GOLD] 금 {1_Num} 소비)이므로, 불필요한 유닛을 삭제하면 다시 흑자로 전환할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_SUPPLY">
+      <Text>현재 파산 상태이지만 아직 수입원이 있습니다. 현재 최대 지출 항목은 유닛 보급 비용(턴마다 [ICON_GOLD] 금 {1_Num} 소비) 또는 국경 밖에 있는 유닛 관련 비용입니다. 유닛을 국경 내로 옮기거나 삭제하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE">
+      <Text>현재 속도로 계속 [ICON_GOLD] 금을 소비하면 몇 턴 내에 파산하게 됩니다. 파산의 오명을 쓰기 전에 경제를 일으켜야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_BUILDING_MAINTENANCE">
+      <Text>현재 속도로 계속 [ICON_GOLD] 금을 소비하면 몇 턴 내에 파산하게 됩니다. 현재 최대 지출 항목은 건물 유지비이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_DIPLOMACY">
+      <Text>현재 속도로 계속 [ICON_GOLD] 금을 소비하면 몇 턴 내에 파산하게 됩니다. 현재 최대 지출 항목은 외교 협상 비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 가능하다면 협상을 갱신하지 않거나, [ICON_GOLD] 금을 소비하지 않고 벌어들일 수 있는 새로운 거래를 성사시켜야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_IMPROVEMENT_MAINTENANCE">
+      <Text>현재 속도로 계속 [ICON_GOLD] 금을 소비하면 몇 턴 내에 파산하게 됩니다. 현재 최대 지출 항목은 시설 유지비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 필요 이상의 시설을 더 이상 건설하지 말고, 불필요한 건물은 파괴하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_MAINTENANCE">
+      <Text>현재 속도로 계속 [ICON_GOLD] 금을 소비하면 몇 턴 내에 파산하게 됩니다. 현재 최대 지출 항목은 유닛 유지비이며, 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 파산을 방지하려면 가치가 떨어지거나 불필요한 유닛을 삭제하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_SUPPLY">
+      <Text>현재 속도로 계속 [ICON_GOLD] 금을 소비하면 몇 턴 내에 파산하게 됩니다. 현재 최대 지출 항목은 국경 밖에 있는 유닛의 보급 비용이며, 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 파산을 방지하려면 유닛을 국경 내로 옮기거나 불필요한 유닛을 삭제하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY">
+      <Text>보유 자금이 있지만 수입보다 지출이 더 큽니다.  파산의 오명을 쓰기 전에 경제를 일으켜야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_BUILDING_MAINTENANCE">
+      <Text>보유 자금이 있지만 수입보다 지출이 더 큽니다. 현재 최대 지출 항목은 건물 유지비이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_DIPLOMACY">
+      <Text>보유 자금이 있지만 수입보다 지출이 더 큽니다. 현재 최대 지출 항목은 외교 협상 비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 가능하다면 협상을 갱신하지 않거나, [ICON_GOLD] 금을 소비하지 않고 벌어들일 수 있는 새로운 거래를 성사시켜야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_IMPROVEMENT_MAINTENANCE">
+      <Text>보유 자금이 있지만 수입보다 지출이 더 큽니다. 현재 최대 지출 항목은 시설 유지비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 필요 이상의 시설을 더 이상 건설하지 말고, 불필요한 건물은 파괴하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_MAINTENANCE">
+      <Text>보유 자금이 있지만 수입보다 지출이 더 큽니다. 현재 최대 지출 항목은 유닛 유지비이며, 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 적자를 막고 자금을 모으려면 가치가 떨어지거나 불필요한 유닛을 삭제하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_SUPPLY">
+      <Text>보유 자금이 있지만 수입보다 지출이 더 큽니다. 현재 최대 지출 항목은 유닛의 보급 비용이며, 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 지출 자금을 줄이려면 유닛을 국경 내로 옮기거나 불필요한 유닛을 삭제하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY">
+      <Text>현재 흑자를 기록하고 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_BUILDING_MAINTENANCE">
+      <Text>현재 흑자를 기록하고 있습니다! 현재 최대 지출 항목은 건물 유지비이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_DIPLOMACY">
+      <Text>현재 흑자를 기록하고 있습니다! 현재 최대 지출 항목은 외교 협상 비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 가능하다면 협상을 갱신하지 않거나, [ICON_GOLD] 금을 소비하지 않고 벌어들일 수 있는 새로운 거래를 성사시켜야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_IMPROVEMENT_MAINTENANCE">
+      <Text>현재 흑자를 기록하고 있습니다! 현재 최대 지출 항목은 시설 유지비용이며 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 필요 이상의 시설을 더 이상 건설하지 말고, 불필요한 건물은 파괴하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_MAINTENANCE">
+      <Text>현재 흑자를 기록하고 있습니다! 현재 최대 지출 항목은 유닛 유지비이며, 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 이익을 높이려면 가치가 떨어지거나 불필요한 유닛을 삭제하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_SUPPLY">
+      <Text>현재 흑자를 기록하고 있습니다! 현재 최대 지출 항목은 유닛의 보급 비용이며, 턴마다 [ICON_GOLD] 금을 {1_Num}씩 소비합니다. 지출 자금을 줄이려면 유닛을 국경 내로 옮기거나 불필요한 유닛을 삭제하는 것이 좋습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS">
+      <Text>고대 유적 {1_Num}개를 모두 찾으십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS_PROGRESS">
+      <Text>고대 유적 {1_Num}개를 모두 찾으십시오({2_Num}개 찾음, {3_Num}개 남음).</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS">
+      <Text>자연 불가사의 {1_Num}개를 모두 찾으십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS_COMPLETE">
+      <Text>자연 불가사의 {1_Num}개를 모두 찾았습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS_PROGRESS">
+      <Text>자연 불가사의 {1_Num}개를 모두 찾으십시오. ({2_Num}개 찾음, {3_Num}개 남음)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES">
+      <Text>도시를 {1_Num}개 세우십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES_COMPLETE">
+      <Text>도시를 {1_Num}개 세웠습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES_PROGRESS">
+      <Text>도시를 {1_Num}개 세우십시오. ({2_Num}개 세워짐, {3_Num}개 남음)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS">
+      <Text>농장을 {1_Num}개 건설하여 최소 {2_Num} 이상의 [ICON_FOOD] 식량을 생산하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_COMPLETE">
+      <Text>농장을 {1_Num}개 건설하여 최소 {2_Num} 이상의 [ICON_FOOD] 식량을 생산했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_PROGRESS">
+      <Text>농장을 {1_Num}개 건설하여 최소 {2_Num} 이상의 [ICON_FOOD] 식량을 생산하십시오. (농장 {3_Num}개를 건설하여 {2_Num}의 [ICON_FOOD] 식량 생산, {4_Num} 남음)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES">
+      <Text>광산을 {1_Num}개 건설하여 최소 {2_Num} 이상의 [ICON_PRODUCTION] 생산력을 생성하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_COMPLETE">
+      <Text>광산을 {1_Num}개 건설하여 최소 {2_Num} 이상의 [ICON_PRODUCTION] 생산력을 생성했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_PROGRESS">
+      <Text>광산을 {1_Num}개 건설하여 최소 {2_Num} 이상의 [ICON_PRODUCTION] 생산력을 생성하십시오(광산 {3_Num}개를 건설하여 {2_Num}의 [ICON_PRODUCTION] 생산력 생성, {4_Num} 남음)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS">
+      <Text>도로를 닦아 도시 {1_Num}개와 수도를 연결하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_COMPLETE">
+      <Text>도로를 닦아 도시 {1_Num}개와 수도를 연결했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_PROGRESS">
+      <Text>도로를 닦아 도시 {1_Num}개와 수도를 연결하십시오.({2_Num}개 연결됨, {3_Num}개 남음)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES">
+      <Text>자원 {1_Num}개 위에 시설을 건축하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_COMPLETE">
+      <Text>자원 {1_Num}개 위에 시설을 건축했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_PROGRESS">
+      <Text>자원 {1_Num}개 위에 시설을 건축하십시오({2_Num}개 자원 개발됨, {3_Num} 남음)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_CONQUER_CITY">
+      <Text>적 도시를 정복하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_CONQUER_CITY_COMPLETE">
+      <Text>적 도시를 정복했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS">
+      <Text>야만인 주둔지 {1_Num}개를 파괴하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_COMPLETE">
+      <Text>야만인 주둔지 {1_Num}개를 파괴했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_PROGRESS">
+      <Text>야만인 주둔지 {1_Num}개를 파괴하십시오.({2_Num}개 파괴됨, {3_Num}개 남음)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV">
+      <Text>도시 국가에 [ICON_GOLD] 금을 제공하고 퀘스트를 완료하여 동맹이 되십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV_COMPLETE">
+      <Text>도시 국가에 [ICON_GOLD] 금을 제공하고 퀘스트를 완료하여 동맹이 되었습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_TRADE_WITH_MAJOR">
+      <Text>주요 문명으로부터 대리석을 수입하십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_GOAL_TUTORIAL_5_TRADE_WITH_MAJOR_COMPLETE">
+      <Text>주요 문명으로부터 대리석을 수입했습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_ALONE">
+      <Text>주변에서 라이벌을 찾지 못했으니 계속 주변을 탐험하면서 다른 문명과 도시 국가를 찾아야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_AT_WAR">
+      <Text>전쟁입니다! 군사 유닛과 건물을 만들어 승리하십시오!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_EMPIRE_DEFENSE">
+      <Text>우리의 문명을 지키려면 군사 유닛이 더 필요합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL">
+      <Text>우리는 무방비 상태입니다! 더 많은 유닛을 훈련시켜야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_ENOUGH_MILITARY_UNITS">
+      <Text>군사 유지에 너무 많은 비용이 들고 있습니다. 이제 군사 유닛을 그만 생산해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_ERADICATE_BARBARIANS">
+      <Text>우리 이웃에 사는 야만인들의 씨를 말려야 할 때입니다. 군사 유닛을 만들어 그들의 주둔지를 파괴하세요.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_LOSING_WARS">
+      <Text>우리의 열세입니다! 평화 조약 협상을 고려해 보십시오.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_MILITARYAISTRATEGY_WINNING_WARS">
+      <Text>우리가 이기고 있습니다! 계속 밀어붙여 승리를 쟁취해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_LUXURIES">
+      <Text>우리에게는 무역에 쓸 수 있는 추가 {1_ResourceName:textkey}이(가) 있지만 {2_LongCivName:textkey}에게는 아무것도 없습니다. 저들과 거래를 하는 것이 좋겠습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_STRATEGIC">
+      <Text>우리에게는 무역에 쓸 수 있는 추가 {1_ResourceName:textkey}이(가) 있지만 {2_LongCivName:textkey}에게는 아무것도 없습니다. 하지만 상대가 자원을 활용하여 유닛을 생성한 뒤 우리를 공격할 수도 있으므로 저들과 거래하는 것은 신중하게 생각해야 합니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_BANKRUPT">
+      <Text>[ICON_GOLD]금이 부족하여 연구가 중단되었습니다. 연구를 진행할 자금이 모으지 못하면 계속 뒤처지다 역사에서 잊혀질 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
+      <Text>우리 문명은 {2_Num}명의 [ICON_CITIZEN]인구로 {1_Num}의 [ICON_RESEARCH]과학력을 생성하고 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_POORLY">
+      <Text>우리 문명은 {2_Num}명의 [ICON_CITIZEN]인구로 {1_Num}의 [ICON_RESEARCH]과학력을 생성하고 있습니다. 도서관이나 대학 등의 연구 건물을 건설하여 연구 발전에 집중해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_WELL">
+      <Text>우리 문명은 {2_Num}명의 [ICON_CITIZEN]인구로 {1_Num}의 [ICON_RESEARCH]과학력을 생성하고 있습니다. 대단히 효율적인 상태입니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_BUILDING_IN_BIG_CITY">
+      <Text>{1_CityName:textkey}의 인구는 크게 늘었지만 {@2_BldgName}이(가) 아직 없습니다. {@3_BldgName}을(를) 건설하면 [ICON_RESEARCH]과학력 생성이 증가하여 크게 발전할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_BUILDING">
+      <Text>{1_TechName:textkey}을(를) 연구하면 {@2_BldgName}을(를) 건설할 수 있습니다. 이 건물이 있으면 해당 도시에서 생산되는 유닛이 진급됩니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_UNITS">
+      <Text>{1_TechName:textkey}을(를) 연구하면 {@2_UnitName}을(를) 생산할 수 있습니다. 강력한 군대가 있으면 국가 안전을 지키고 효과적으로 적을 공격할 수 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_1">
+      <Text>{1_TechName:textkey} 기술을 연구하면 도시에 {@2_BldgName}을(를) 건설하여 과학 수준을 끌어올릴 수 있습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_2">
+      <Text>{1_TechName:textkey} 기술을 연구하면, 도시에 {@2_BldgName}와(과) {@3_BldgName}을(를) 지을 수 있게 됩니다. 연구 수준을 한 단계 높여볼까요!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_3">
+      <Text>{1_TechName:textkey} 기술을 연구하면, 도시에 {@2_BldgName}, {@3_BldgName}와(과) {@4_BldgName}을(를) 지을 수 있게 됩니다. 엄청 많죠!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TASK_LIST">
+      <Text>*목표*</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_ECONOMIC">
+      <Text>경제 보좌관이 추천하는 연구는 다음과 같습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_FOREIGN">
+      <Text>외교 보좌관이 추천하는 연구는 다음과 같습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_MILITARY">
+      <Text>군사 보좌관이 추천하는 연구는 다음과 같습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_SCIENCE">
+      <Text>과학 보좌관이 추천하는 연구는 다음과 같습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS">
+      <Text>고유의 {2_Adjective:textkey} 문명 보너스를 얻으려면 {1_TechName:textkey}을(를) 연구해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_BUILDING">
+      <Text>우리 {3_Adjective:textkey} 문명의 고유 건물 {@2_BldgName}을(를) 건설할 수 있도록 {1_TechName:textkey}을(를) 연구해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_IMPROVEMENT">
+      <Text>우리 {3_Adjective:textkey} 문명의 고유 시설 {@2_BldgName}을(를) 건설할 수 있도록 {1_TechName:textkey}을(를) 연구해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_UNIT">
+      <Text>우리 {3_Adjective:textkey} 문명의 고유 유닛 {@2_BldgName}을(를) 생산할 수 있도록 {1_TechName:textkey}을(를) 연구해야 합니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TECHSTRATEGY_RESOURCE">
+      <Text>우리 국경 내의 {2_ResourceName:textkey} 활용도를 높일 수 있도록 {1_TechName:textkey}을(를) 연구해야 합니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_1_COMPLETE">
+      <Text>이동 및 탐험 튜토리얼을 완료했습니다. 잘하셨습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_2_COMPLETE">
+      <Text>도시 건설 튜토리얼을 완료했습니다. 잘하셨습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_3_COMPLETE">
+      <Text>도시 개발 튜토리얼을 완료했습니다. 잘하셨습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_4_COMPLETE">
+      <Text>전투 및 정복 튜토리얼을 완료했습니다. 잘하셨습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL_5_COMPLETE">
+      <Text>기초 외교 튜토리얼을 완료했습니다. 잘하셨습니다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL0">
+      <Text>튜토리얼</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL0_DESC">
+      <Text>문명을 처음 접하십니까?  어디부터 시작해야 할지 모르시겠다고요? 악랄한 야만인들이 이제 막 싹튼 문명을 미처 꽃피우기도 전에 짓밟을까 봐 두려우십니까? 보좌관들의 조언과 함께 기본 단계의 게임을 진행하며 기초 개념을 배우십시오. 튜토리얼의 각 항목을 살펴보면서 게임에서 중요한 모든 기본 사항들을 배우게 될 것입니다. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL0_TITLE_ONLY">
+      <Text>게임을 하며 배우세요</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1">
+      <Text>튜토리얼 1</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1_DESC">
+      <Text>탐험은 자원이나 정보 발견을 목적으로 지형(우주 포함)을 탐색하거나 이동하는 행위입니다. 인류 역사에서 물리적인 세계 탐험은 유럽인들이 세계의 나머지 지역과 접촉하는 데 열을 올렸던 '발견의 시대'에 절정을 이루었습니다. 근대에 와서는 과학 발전과 정보 획득을 목적으로 탐험이 더욱 활발해집니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1_TITLE">
+      <Text>이동과 탐험</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL1_TITLE_ONLY">
+      <Text>이동과 탐험</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2">
+      <Text>튜토리얼 2</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2_DESC">
+      <Text>문명의 정수는 도시와 그곳의 시민들에게서 찾을 수 있을 것입니다. 도시 건설을 통한 문명의 영향력과 부, 그리고 권력을 손에 넣는 것은 가장 중요한 사항입니다. 모든 장소가 도시 건설에 적합한 것은 아니며, 도시의 입지가 나쁘면 확장이 매우 느려질 수도 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2_TITLE">
+      <Text>도시 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL2_TITLE_ONLY">
+      <Text>도시 건설</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3">
+      <Text>튜토리얼 3</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3_DESC">
+      <Text>도시는 한 문명의 생산적인 구성원이 될 수 있도록 확장되고 발전해야 합니다. 일꾼으로 도시를 개발하면 도시의 영향력 확장에 도움이 됩니다. 도시를 개발하면 세상과 발을 맞출 수 있을 뿐 아니라, 소유한 영토에서 더 많은 것들을 얻을 수 있습니다. 역사적으로 주변 세력에 맞춰 성장하고 발전하지 못하는 도시는 금세 뒤처져 정복의 대상이 되었습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3_TITLE">
+      <Text>도시 개발</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL3_TITLE_ONLY">
+      <Text>도시 개발</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4">
+      <Text>튜토리얼 4</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4_DESC">
+      <Text>누군가가 여러분이 가진 것을 빼앗으려 하며, 대화도 거부할 때가 올지도 모릅니다. 인류 역사는 전투, 전쟁, 정복으로 얼룩져 있으며, 적으로부터 스스로를 지키지 못하는 문명은 그 이야기를 후세에 전하기도 전에 사라져 버립니다. 설령 공세를 취할 일이 전혀 없다고 하더라도, 전투 방법과 효과적인 전쟁 진행 방법을 알아두면 여러분의 문명에 닥쳐올 재앙을 피할 수 있을 것입니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4_TITLE">
+      <Text>전투와 정복</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL4_TITLE_ONLY">
+      <Text>전투와 정복</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5">
+      <Text>튜토리얼 5</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5_DESC">
+      <Text>보다 정중하게 이웃나라를 상대하는 방법으로 외교, 무역, 동맹, 협정이 있으며, 뛰어난 외교술을 발휘하면 길고 끔찍한 전쟁을 피할 수 있는 경우가 많습니다. 사상 최고의 지도자 중에는 외교술의 대가가 많았습니다. 정곡을 찌르는 말 한 마디가 수많은 칼보다 더 큰 위력을 발휘할 수도 있습니다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5_TITLE">
+      <Text>기초 외교</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TUTORIAL5_TITLE_ONLY">
+      <Text>기초 외교</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>

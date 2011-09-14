@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Generated with LocalizationBuddy.-->
+<!--Copyright Firaxis Games 2010-->
+<!--All Rights Reserved-->
+<GameData>
+  <Language_KO_KR>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_1">
+      <Text>그리하지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_2">
+      <Text>좋다네.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_3">
+      <Text>물론이네.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_4">
+      <Text>그렇게 하지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_5">
+      <Text>오 그리하지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_6">
+      <Text>그래야 한다면 그러세.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_AGREE_SHORT_7">
+      <Text>아주 좋다네…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_1">
+      <Text>대단하군. 자네한테 그런 배짱이 있을 줄 몰랐는걸. 좋아 한번 붙어볼까.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_2">
+      <Text>이런 구제불능 멍청이. 자네의 그 탐욕이 자네를 망칠 거야.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_ATTACKED_3">
+      <Text>바보! 자네는 자국민을 멸종의 길로 몰아넣었어!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_1">
+      <Text>자네는 점점 우리 국민에게 위협이 되고 있어. 없어져 줘야겠어.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_2">
+      <Text>더는 쓸모가 없군. 싸울 준비를 하라고.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DECLAREWAR_3">
+      <Text>내 턱수염과 아랫배로 널 없애 주겠다! 싸울 준비를 하라고!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_1">
+      <Text>정말 끔찍하군! 내가 지다니! 내 턱수염과 아랫배의 인격에 어찌 이런 일이 생겼다고 변명할 것인가?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_2">
+      <Text>나의 군대가 완패하다니. 이젠 희망이 없어. 어찌 이런 일이?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEFEATED_3">
+      <Text>이게 현실이냐 아니면 내가 악몽을 꾸고 있는 것이냐? 네가 날 어떻게 이겼단 말이냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_ANGRY">
+      <Text>잠시나마 살아남고 싶다면 다음 것들을 내놔라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_HAPPY">
+      <Text>이봐 친구. 자네의 절친한 친구이자 동맹인 날 위해 다음 것들은 남겨주면 안 되겠는가?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DEMANDTRIBUTE_NEUTRAL">
+      <Text>우리가 원하는 걸 바치는 게 신상에 좋을 것이야. 이제 봄 전쟁 시즌이 거의 다 됐고 우리 장군들은 내가 명령을 내려주기만 기다리고 있다고.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_1">
+      <Text>아니.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_2">
+      <Text>물론 안되지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_3">
+      <Text>거절하겠어.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_4">
+      <Text>당연히 안되지 않겠어.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_5">
+      <Text>받아들일 수 없어.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_6">
+      <Text>장난치지 마라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_DISAGREE_SHORT_7">
+      <Text>뭐라고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_1">
+      <Text>나의 턱수염과 아랫배의 영광으로 자네를 환영한다! 난 강대한 오토만의 지도자 술레이만이라고 한다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_2">
+      <Text>오토만 제국이 당신을 맞이한다. 이방인! 난 술레이만이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_FIRSTGREETING_3">
+      <Text>반갑다 이방인! 난 오토만의 지도자 술레이만이다! 이런 위대한 만남을 위해 성대한 축하연을 열 것이야!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_1">
+      <Text>잘 가.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_2">
+      <Text>그럼 이만!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_3">
+      <Text>조심이 가라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_4">
+      <Text>또 보자고!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_5">
+      <Text>이제 가라고!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_6">
+      <Text>그게 다다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GOODBYE_7">
+      <Text>여긴 더는 볼일이 없군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_1">
+      <Text>환영한다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_2">
+      <Text>반가워!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_3">
+      <Text>안녕!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_4">
+      <Text>좋은 날이야!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_5">
+      <Text>오 자네였군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_6">
+      <Text>자?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_GREETING_7">
+      <Text>뭘 원하는 거지?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_1">
+      <Text>말해 보라고.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_2">
+      <Text>계속해보라고.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_3">
+      <Text>말하라니까.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_4">
+      <Text>뭐야?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_5">
+      <Text>무슨 말을 하고 있었지?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_6">
+      <Text>그리고?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LETSHEARIT_7">
+      <Text>계속해.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_LOSEWAR_1">
+      <Text>승리를 축하해. 이제는 영원히 평화롭기를 바란다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_ANGRY_1">
+      <Text>받아들일 수 없어. 더 나은 제안을 할 수는 없는 거냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_ANGRY_2">
+      <Text>충분하지 않아.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_ANGRY_3">
+      <Text>충분하지 않다고 했잖아.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_HAPPY_1">
+      <Text>자자! 나에게 구걸을 하겠다고? 더 나은 제안을 할 수는 없는 거냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_HAPPY_2">
+      <Text>그게 최선책이냐?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_HAPPY_3">
+      <Text>거의 근접했어…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_1">
+      <Text>자넨 12명의 자식을 둔 탐욕스러운 생선장수 같구먼! 더 좋은 제안을 할 수 있다고 믿네!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_2">
+      <Text>내가 충분하지 않다고 하지 않았어?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_3">
+      <Text>그걸로는 정말 어림도 없어.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NEEDMORE_NEUTRAL_4">
+      <Text>거의…</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_ANGRY">
+      <Text>그런 말도 안 되는 소리를 들을 시간은 없어. 보스포루스에 가서 뛰어 내려버려라.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_HAPPY">
+      <Text>이봐 친구. 아무래도 터반을 두르지 않고 태양 아래 너무 오래 서 있었던 모양이군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_NO_NEUTRAL">
+      <Text>어이가 없군! 술에 취하기라도 했나?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_YES_ANGRY">
+      <Text>가끔이지만 자네가 제정신일 때도 있는 것 같군. 그렇다면 희망이 좀 보이는걸.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_YES_HAPPY">
+      <Text>이런, 정말 좋은 생각인걸! 동의하지!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADE_YES_NEUTRAL">
+      <Text>아주 좋아! 그렇게 하자!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_ANGRY">
+      <Text>네가 아무리 멍청하다고 해도 이 거래가 네게 유리하단 걸 알겠지.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_HAPPY">
+      <Text>이봐 친구. 이건 받아들일 만 한가?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRADEREQUEST_NEUTRAL">
+      <Text>자, 흥정을 해보자고. 이건 어떤가?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_ANGRY">
+      <Text>이런 원숭이 자식놈 같으니! 정녕 내 보물을 빼앗으려는 겐가? 미쳐도 단단히 미쳤구나!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_HAPPY">
+      <Text>이게 친구한테 할 짓인가? 내 턱수염과 아랫배에 걸고 어림도 없는 짓이지!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_NO_NEUTRAL">
+      <Text>왜, 내 첫째 아들도 달라고 물어보지그래? 안 돼!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_ANGRY">
+      <Text>당장은 너희가 유리하겠지만, 내 턱수염과 아랫배에 걸고 곧 상황은 뒤집힐 것이다!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_HAPPY">
+      <Text>물론이지! 나는 관대함으로 이름 높은 자가 아니던가?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_TRIBUTE_YES_NEUTRAL">
+      <Text>그대를 몰락시키느니 재물을 좀 나눠주는 쪽이 저렴할 듯하군. 좋아.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_1">
+      <Text>위험한 장난질을 하는군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_2">
+      <Text>좋다. 다음에는 정중함 따위를 기대하지 말라!</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_3">
+      <Text>참으로 실망스럽군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_4">
+      <Text>이 어찌나 실망스러운 일인가.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_5">
+      <Text>정말인가? 그대는 살아서 후회할 기회조차 갖지 못할 것이다.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WARBLUFF_6">
+      <Text>정말 바보 같군.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_SULEIMAN_WINWAR_1">
+      <Text>다시는 배신하지 마라. 다음 번엔 일말의 자비도 없을 것이니!</Text>
+    </Row>
+  </Language_KO_KR>
+</GameData>
